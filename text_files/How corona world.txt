@@ -1,0 +1,7441 @@
+Source 1 : Population
+Coronavirus
+NOTE: As of April 13, 2024, the Coronavirus Tracker is no longer being updated due to the unfeasibility of providing statistically valid global totals, as the majority of countries have now stopped reporting. However, historical data remain accessible. Worldometer delivered the most accurate and timely global statistics to users and institutions around the world at a time when this was extremely challenging. We thank everyone who participated in this extraordinary collaborative effort.
+COVID-19 CORONAVIRUS PANDEMIC
+Last updated: April 13, 2024, 01:00 GMT
+Weekly Trends - Graphs - Countries - News
+Coronavirus Cases:
+704,753,890
+view by country
+Deaths:
+7,010,681
+Recovered:
+675,619,811
+ACTIVE CASES
+
+
+CLOSED CASES
+
+
+daily
+linear
+logarithmic
+Daily New Cases
+Cases per DayData as of 0:00 GMT+0
+Jan 22, …
+Apr 20, 2020
+Jul 18, 2020
+Oct 15, 2020
+Jan 12, 2021
+Apr 11, 2021
+Jul 09, 2021
+Oct 06, 2021
+Jan 03, 2022
+Apr 02, 2022
+Jun 30, 2022
+Sep 27, 2022
+Dec 25, 2022
+Mar 24, 2023
+Jun 21, 2023
+Sep 18, 2023
+Dec 16, 2023
+Mar 14, 2024
+0
+1M
+2M
+3M
+4M
+5M
+7-day moving average
+daily
+linear
+logarithmic
+Daily Deaths
+Deaths per DayData as of 0:00 GMT+0
+Jan 22, …
+Apr 30, 2020
+Aug 07, 2020
+Nov 14, 2020
+Feb 21, 2021
+May 31, 2021
+Sep 07, 2021
+Dec 15, 2021
+Mar 24, 2022
+Jul 01, 2022
+Oct 08, 2022
+Jan 15, 2023
+Apr 24, 2023
+Aug 01, 2023
+Nov 08, 2023
+Feb 15, 2024
+0
+5k
+10k
+15k
+20k
+7-day moving average
+The charts above are updated after the close of the day in GMT+0. See more graphs
+  Reported Cases and Deaths by Country or Territory
+NOTE:
+As of April 13, 2024, the Coronavirus Tracker is no longer being updated due to the unfeasibility of providing statistically valid global totals, as the majority of countries have now stopped reporting. Historical data remain accessible. Effective February 1, 2023, the Coronavirus Tracker had switched from LIVE to Daily Updates. As a number of major countries had transitioned to weekly updates, there was no need anymore for immediate updates throughout the day as soon as a new report is released.
+On January 29, 2020, Worldometer started tracking the coronavirus, delivering the most accurate and timely global statistics to users and institutions around the world at a time when this was extremely challenging. We thank everyone who participated in this extraordinary collaborative effort.
+The day is reset after midnight GMT+0. The list of countries and their regional classification is based on the United Nations Geoscheme. Sources are provided under "Latest News." Learn more about Worldometer's COVID-19 data
+
+
+Report coronavirus cases
+MAIN
+WEEKLY TRENDS
+Now
+Yesterday
+2 Days Ago
+Columns
+Search:
+All
+Europe
+North America
+Asia
+South America
+Africa
+Oceania
+# Country,
+Other Total
+Cases Total
+Deaths Total
+Recovered Tot Cases/
+1M pop Deaths/
+1M pop Population
+World 704,753,890 7,010,681 675,619,811 90,413 899.4
+1 USA 111,820,082 1,219,487 109,814,428 333,985 3,642 334,805,269
+2 India 45,035,393 533,570 N/A 32,016 379 1,406,631,776
+3 France 40,138,560 167,642 39,970,918 612,013 2,556 65,584,518
+4 Germany 38,828,995 183,027 38,240,600 462,891 2,182 83,883,596
+5 Brazil 38,743,918 711,380 36,249,161 179,908 3,303 215,353,593
+6 S. Korea 34,571,873 35,934 34,535,939 673,523 700 51,329,899
+7 Japan 33,803,572 74,694 N/A 269,169 595 125,584,838
+8 Italy 26,723,249 196,487 26,361,218 443,445 3,261 60,262,770
+9 UK 24,910,387 232,112 24,678,275 363,666 3,389 68,497,907
+10 Russia 24,124,215 402,756 23,545,818 165,454 2,762 145,805,947
+11 Turkey 17,232,066 102,174 N/A 201,399 1,194 85,561,976
+12 Spain 13,914,811 121,760 13,762,417 297,840 2,606 46,719,142
+13 Australia 11,853,144 24,414 11,820,014 454,687 937 26,068,792
+14 Vietnam 11,625,195 43,206 10,640,971 117,481 437 98,953,541
+15 Taiwan 10,241,523 19,005 10,222,518 428,720 796 23,888,595
+16 Argentina 10,128,845 130,841 9,997,258 220,143 2,844 46,010,234
+17 Netherlands 8,635,786 22,992 8,612,599 501,747 1,336 17,211,447
+18 Mexico 7,702,809 334,958 6,899,865 58,549 2,546 131,562,772
+19 Iran 7,627,186 146,811 N/A 88,665 1,707 86,022,837
+20 Indonesia 6,829,221 162,063 6,647,104 24,466 581 279,134,505
+21 Poland 6,661,991 120,598 N/A 176,524 3,196 37,739,785
+22 Colombia 6,400,173 143,200 6,212,152 124,244 2,780 51,512,762
+23 Greece 6,101,379 37,869 N/A 591,412 3,671 10,316,637
+24 Austria 6,081,287 22,542 6,054,934 670,727 2,486 9,066,710
+25 Portugal 5,643,062 28,126 5,614,809 556,484 2,774 10,140,570
+26 Ukraine 5,557,995 112,418 5,445,577 128,681 2,603 43,192,122
+27 Chile 5,384,853 64,497 5,252,450 279,730 3,350 19,250,195
+28 Malaysia 5,278,406 37,348 5,233,268 159,079 1,126 33,181,072
+29 Canada 4,946,090 59,034 4,881,312 128,843 1,538 38,388,419
+30 Belgium 4,861,695 34,376 4,826,798 416,659 2,946 11,668,278
+31 Israel 4,841,772 12,707 4,798,473 519,169 1,363 9,326,000
+32 DPRK 4,772,813 74 4,772,739 183,636 3 25,990,679
+33 Thailand 4,770,149 34,586 4,692,636 68,069 494 70,078,203
+34 Czechia 4,759,041 43,517 4,715,206 443,246 4,053 10,736,784
+35 Peru 4,572,667 222,161 4,350,506 135,751 6,595 33,684,208
+36 Switzerland 4,453,053 14,452 4,438,309 507,549 1,647 8,773,637
+37 Philippines 4,140,383 66,864 4,067,381 36,800 594 112,508,994
+38 South Africa 4,076,463 102,595 3,912,506 67,095 1,689 60,756,135
+39 Romania 3,529,735 68,929 3,460,149 185,470 3,622 19,031,335
+40 Denmark 3,183,756 8,814 3,174,942 545,636 1,511 5,834,950
+41 Singapore 3,006,155 2,024 3,004,131 505,785 341 5,943,546
+42 Hong Kong 2,937,609 14,924 2,916,005 386,309 1,963 7,604,299
+43 Sweden 2,754,129 27,407 2,726,492 269,511 2,682 10,218,971
+44 New Zealand 2,621,111 5,697 2,613,791 535,117 1,163 4,898,203
+45 Serbia 2,615,054 18,057 2,596,608 302,213 2,087 8,653,016
+46 Iraq 2,465,545 25,375 2,439,497 58,474 602 42,164,965
+47 Hungary 2,230,232 49,048 2,152,155 232,164 5,106 9,606,259
+48 Bangladesh 2,049,377 29,493 N/A 12,207 176 167,885,689
+49 Slovakia 1,877,605 21,224 1,856,381 343,872 3,887 5,460,193
+50 Georgia 1,861,665 17,132 N/A 469,082 4,317 3,968,738
+51 Jordan 1,746,997 14,122 1,731,007 169,597 1,371 10,300,869
+52 Ireland 1,734,582 9,491 1,724,921 345,521 1,891 5,020,199
+53 Pakistan 1,581,936 30,664 1,538,689 6,893 134 229,488,994
+54 Finland 1,516,117 11,958 1,503,989 272,930 2,153 5,554,960
+55 Norway 1,509,732 6,638 1,503,094 273,930 1,204 5,511,370
+56 Kazakhstan 1,411,831 13,848 1,383,020 73,514 721 19,205,043
+57 Lithuania 1,397,806 9,897 1,387,478 525,154 3,718 2,661,708
+58 Slovenia 1,356,546 7,100 1,349,424 652,803 3,417 2,078,034
+59 Bulgaria 1,339,851 38,748 1,292,944 195,753 5,661 6,844,597
+60 Croatia 1,309,728 18,687 1,258,432 322,650 4,604 4,059,286
+61 Guatemala 1,291,293 20,289 1,269,891 69,484 1,092 18,584,039
+62 Morocco 1,278,992 16,303 N/A 33,860 432 37,772,756
+63 Lebanon 1,243,838 10,952 1,087,587 186,068 1,638 6,684,849
+64 Costa Rica 1,238,883 9,428 N/A 239,058 1,819 5,182,354
+65 Bolivia 1,212,131 22,407 1,177,145 101,073 1,868 11,992,656
+66 Tunisia 1,153,361 29,423 N/A 95,741 2,442 12,046,656
+67 Cuba 1,115,251 8,530 1,106,660 98,645 754 11,305,652
+68 Ecuador 1,070,188 36,043 1,034,145 59,083 1,990 18,113,361
+69 UAE 1,067,030 2,349 N/A 105,837 233 10,081,785
+70 Panama 1,059,893 8,727 1,051,102 238,341 1,962 4,446,964
+71 Uruguay 1,041,111 7,664 1,030,944 297,799 2,192 3,496,016
+72 Mongolia 1,011,496 2,284 1,009,212 299,429 676 3,378,078
+73 Nepal 1,003,450 12,031 991,322 33,199 398 30,225,582
+74 Belarus 994,037 7,118 985,592 105,381 755 9,432,800
+75 Latvia 982,505 6,715 971,406 531,418 3,632 1,848,837
+76 Saudi Arabia 841,469 9,646 N/A 23,475 269 35,844,909
+77 Paraguay 837,602 20,155 N/A 114,648 2,759 7,305,843
+78 Azerbaijan 835,234 10,400 824,089 81,089 1,010 10,300,205
+79 Bahrain 729,549 1,574 727,915 408,944 882 1,783,983
+80 Cyprus 681,110 1,365 679,745 556,741 1,116 1,223,387
+81 Dominican Republic 675,890 4,384 671,316 61,131 397 11,056,370
+82 Sri Lanka 672,754 16,897 655,852 31,181 783 21,575,842
+83 Kuwait 667,158 2,570 N/A 152,308 587 4,380,326
+84 Myanmar 641,873 19,495 620,159 11,622 353 55,227,143
+85 Moldova 635,145 12,218 N/A 158,265 3,044 4,013,171
+86 Estonia 628,070 3,001 N/A 475,123 2,270 1,321,910
+87 Palestine 621,008 5,404 615,445 116,173 1,011 5,345,541
+88 Venezuela 552,695 5,856 546,537 18,885 200 29,266,991
+89 Egypt 516,023 24,613 442,182 4,861 232 106,156,692
+90 Qatar 514,524 690 513,687 172,664 232 2,979,915
+91 Libya 507,274 6,437 500,835 72,048 914 7,040,745
+92 China 503,302 5,272 379,053 347 4 1,448,471,400
+93 Ethiopia 501,157 7,574 488,171 4,148 63 120,812,698
+94 Réunion 494,595 921 N/A 544,672 1,014 908,061
+95 Honduras 474,590 11,165 N/A 46,432 1,092 10,221,247
+96 Armenia 451,831 8,777 435,162 152,031 2,953 2,971,966
+97 Bosnia and Herzegovina 403,615 16,388 379,084 124,215 5,044 3,249,317
+98 Oman 399,449 4,628 N/A 75,028 869 5,323,993
+99 Luxembourg 391,232 1,232 N/A 609,044 1,918 642,371
+100 North Macedonia 350,567 9,976 337,068 168,436 4,793 2,081,304
+101 Zambia 349,304 4,069 341,316 17,940 209 19,470,234
+102 Kenya 344,130 5,689 337,309 6,122 101 56,215,221
+103 Brunei 343,719 225 243,601 771,655 505 445,431
+104 Albania 334,863 3,605 330,233 116,825 1,258 2,866,374
+105 Botswana 330,638 2,801 327,049 135,443 1,147 2,441,162
+106 Montenegro 296,542 2,846 291,794 472,238 4,532 627,950
+107 Algeria 272,010 6,881 183,061 5,998 152 45,350,148
+108 Nigeria 267,188 3,155 259,953 1,233 15 216,746,934
+109 Zimbabwe 266,359 5,740 258,888 17,373 374 15,331,428
+110 Uzbekistan 253,662 1,637 241,486 7,378 48 34,382,084
+111 Afghanistan 234,174 7,996 211,080 5,746 196 40,754,388
+112 Mozambique 233,731 2,250 228,805 7,064 68 33,089,461
+113 Martinique 230,354 1,102 N/A 615,777 2,946 374,087
+114 Laos 218,970 758 N/A 29,270 101 7,481,023
+115 Iceland 209,906 229 N/A 607,731 663 345,393
+116 Kyrgyzstan 206,897 2,991 196,406 30,750 445 6,728,271
+117 Guadeloupe 203,235 1,021 N/A 508,349 2,554 399,794
+118 El Salvador 201,855 4,230 179,410 30,816 646 6,550,389
+119 Trinidad and Tobago 191,496 4,390 187,078 136,143 3,121 1,406,585
+120 Maldives 186,694 316 163,687 345,100 584 540,985
+121 Namibia 172,389 4,106 167,099 65,451 1,559 2,633,874
+122 Uganda 172,149 3,632 100,431 3,554 75 48,432,863
+123 Ghana 171,889 1,462 170,425 5,306 45 32,395,450
+124 Jamaica 156,869 3,756 N/A 52,551 1,258 2,985,094
+125 Cambodia 139,103 3,056 136,044 8,102 178 17,168,639
+126 Rwanda 133,518 1,468 132,039 9,817 108 13,600,464
+127 Cameroon 125,379 1,974 123,280 4,492 71 27,911,548
+128 Malta 121,420 885 120,149 273,448 1,993 444,033
+129 Barbados 110,578 648 108,647 383,921 2,250 288,023
+130 Angola 107,327 1,937 103,419 3,064 55 35,027,343
+131 Channel Islands 101,717 228 101,321 576,421 1,292 176,463
+132 DRC 99,338 1,468 84,489 1,043 15 95,240,792
+133 French Guiana 98,041 420 11,254 312,065 1,337 314,169
+134 Malawi 89,535 2,686 N/A 4,437 133 20,180,839
+135 Senegal 89,053 1,971 87,024 5,044 112 17,653,671
+136 Ivory Coast 88,384 835 87,497 3,186 30 27,742,298
+137 Suriname 82,588 1,408 N/A 138,378 2,359 596,831
+138 New Caledonia 80,064 314 N/A 275,214 1,079 290,915
+139 French Polynesia 79,254 650 N/A 278,902 2,287 284,164
+140 Eswatini 75,191 1,427 73,116 63,462 1,204 1,184,817
+141 Guyana 74,137 1,300 72,013 93,366 1,637 794,045
+142 Belize 71,409 688 N/A 173,243 1,669 412,190
+143 Fiji 69,117 885 67,226 75,997 973 909,466
+144 Madagascar 68,486 1,426 66,862 2,347 49 29,178,077
+145 Cabo Verde 64,477 417 63,755 113,580 735 567,678
+146 Sudan 63,993 5,046 58,947 1,391 110 45,992,020
+147 Mauritania 63,848 997 62,471 13,025 203 4,901,981
+148 Bhutan 62,697 21 61,564 79,571 27 787,941
+149 Syria 57,743 3,165 54,578 2,982 163 19,364,809
+150 Burundi 54,721 38 53,569 4,334 3 12,624,840
+151 Seychelles 51,220 172 51,048 515,157 1,730 99,426
+152 Gabon 49,051 307 48,674 21,038 132 2,331,533
+153 Andorra 48,015 165 N/A 619,844 2,130 77,463
+154 Papua New Guinea 46,864 670 46,168 5,043 72 9,292,169
+155 Curaçao 45,986 295 44,720 277,812 1,782 165,529
+156 Aruba 44,224 292 42,438 410,969 2,714 107,609
+157 Tanzania 43,223 846 N/A 683 13 63,298,550
+158 Mauritius 43,025 1,051 41,278 33,752 824 1,274,727
+159 Mayotte 42,027 188 N/A 146,815 657 286,259
+160 Togo 39,572 290 39,281 4,559 33 8,680,837
+161 Guinea 38,572 468 37,757 2,782 34 13,865,691
+162 Bahamas 38,084 844 36,366 95,087 2,107 400,516
+163 Isle of Man 38,008 116 N/A 443,335 1,353 85,732
+164 Lesotho 36,138 723 25,980 16,610 332 2,175,699
+165 Haiti 34,667 860 33,734 2,968 74 11,680,283
+166 Faeroe Islands 34,658 28 N/A 703,959 569 49,233
+167 Mali 33,164 743 32,332 1,544 35 21,473,764
+168 Cayman Islands 31,472 37 8,553 467,797 550 67,277
+169 Saint Lucia 30,215 410 29,805 163,225 2,215 185,113
+170 Benin 28,036 163 27,847 2,193 13 12,784,726
+171 Macao 27,673 123 3,487 41,458 184 667,490
+172 Somalia 27,334 1,361 13,182 1,623 81 16,841,795
+173 Micronesia 26,547 65 N/A 225,953 553 117,489
+174 San Marino 26,185 128 26,011 768,226 3,755 34,085
+175 Solomon Islands 25,954 199 N/A 35,989 276 721,159
+176 Congo 25,375 386 24,006 4,377 67 5,797,805
+177 Timor-Leste 23,460 138 23,102 17,131 101 1,369,429
+178 Burkina Faso 22,114 400 21,596 1,001 18 22,102,838
+179 Liechtenstein 21,574 94 N/A 562,013 2,449 38,387
+180 Gibraltar 20,550 113 N/A 609,720 3,353 33,704
+181 Grenada 19,693 238 19,358 173,545 2,097 113,475
+182 Bermuda 18,860 165 18,685 304,493 2,664 61,939
+183 South Sudan 18,819 147 18,115 1,620 13 11,618,511
+184 Nicaragua 18,491 225 4,225 2,728 33 6,779,100
+185 Tajikistan 17,786 125 17,264 1,786 13 9,957,464
+186 Equatorial Guinea 17,229 183 16,907 11,512 122 1,496,662
+187 Monaco 17,181 67 N/A 431,868 1,684 39,783
+188 Samoa 17,006 31 1,605 84,089 153 202,239
+189 Tonga 16,950 13 15,638 157,310 121 107,749
+190 Marshall Islands 16,138 17 16,121 268,711 283 60,057
+191 Dominica 16,038 74 15,964 221,691 1,023 72,344
+192 Djibouti 15,690 189 15,427 15,441 186 1,016,097
+193 CAR 15,440 113 15,200 3,078 23 5,016,678
+194 Gambia 12,626 372 12,189 4,935 145 2,558,482
+195 Saint Martin 12,324 63 N/A 310,194 1,586 39,730
+196 Vanuatu 12,019 14 11,976 37,346 44 321,832
+197 Greenland 11,971 21 2,761 210,117 369 56,973
+198 Yemen 11,945 2,159 9,124 383 69 31,154,867
+199 Caribbean Netherlands 11,682 38 10,476 438,398 1,426 26,647
+200 Sint Maarten 11,051 92 10,905 251,353 2,093 43,966
+201 Eritrea 10,189 103 10,086 2,782 28 3,662,244
+202 Niger 9,931 312 8,890 381 12 26,083,660
+203 St. Vincent Grenadines 9,674 124 9,493 86,723 1,112 111,551
+204 Guinea-Bissau 9,614 177 8,929 4,659 86 2,063,367
+205 Comoros 9,109 161 8,939 10,038 177 907,419
+206 Antigua and Barbuda 9,106 146 8,954 91,509 1,467 99,509
+207 Liberia 8,090 295 7,783 1,525 56 5,305,117
+208 Sierra Leone 7,779 126 N/A 937 15 8,306,436
+209 Chad 7,701 194 4,874 442 11 17,413,580
+210 British Virgin Islands 7,392 64 N/A 241,600 2,092 30,596
+211 Cook Islands 7,203 2 7,150 409,937 114 17,571
+212 Sao Tome and Principe 6,778 80 6,685 29,770 351 227,679
+213 Turks and Caicos 6,752 40 6,709 169,900 1,007 39,741
+214 Saint Kitts and Nevis 6,607 48 6,559 122,645 891 53,871
+215 Palau 6,290 10 6,276 344,979 548 18,233
+216 St. Barth 5,507 6 N/A 553,746 603 9,945
+217 Nauru 5,393 1 5,347 494,635 92 10,903
+218 Kiribati 5,085 24 2,703 41,201 194 123,419
+219 Anguilla 3,904 12 N/A 256,336 788 15,230
+220 Wallis and Futuna 3,550 8 438 323,256 728 10,982
+221 Saint Pierre Miquelon 3,452 2 2,449 599,410 347 5,759
+222 Tuvalu 2,943 1 N/A 243,909 83 12,066
+223 Saint Helena 2,166 2 354,211 6,115
+224 Falkland Islands 1,930 1,930 545,352 3,539
+225 Montserrat 1,403 8 1,376 282,578 1,611 4,965
+226 Niue 1,059 1,056 652,898 1,622
+227 Diamond Princess 712 13 699
+228 Tokelau 80 58,055 1,378
+229 Vatican City 29 29 36,295 799
+230 Western Sahara 10 1 9 16 2 626,161
+231 MS Zaandam 9 2 7
+Total: 704,753,890 7,010,681 675,619,811 90,413.4 899.4
+
+
+
+
+
+
+
+
+
+
+
+
+Highlighted in green
+= all cases have recovered from the infection
+Highlighted in grey
+= all cases have had an outcome (there are no active cases)
+[back to top ↑]
+Archived:
+
+January 2020 - February 2020
+about | faq | languages | contact| report coronavirus cases
+© Copyright Worldometers.info - All rights reserved - Disclaimer & Privacy Policy
+Source 1 : Population
+Coronavirus
+NOTE: As of April 13, 2024, the Coronavirus Tracker is no longer being updated due to the unfeasibility of providing statistically valid global totals, as the majority of countries have now stopped reporting. However, historical data remain accessible. Worldometer delivered the most accurate and timely global statistics to users and institutions around the world at a time when this was extremely challenging. We thank everyone who participated in this extraordinary collaborative effort.
+COVID-19 CORONAVIRUS / GRAPHS
+UPDATES - Graphs - Countries - Death Rate - Incubation - Age - Symptoms
+Last updated: April 13, 2024, 01:00 GMT
+Coronavirus Worldwide Graphs
+Data for the charts below is added, and charts updated, after the close of the day (GMT+0). For country-specific graphs, click on the country name on the main table
+Case progression by country
+Cases: Europe vs. USA
+Death progression by country
+Deaths: Europe vs. USA
+Countries Case Distribution
+Total Cases
+Daily New Cases
+Active Cases
+Recovered and Discharged
+Newly Infected vs. Newly Recovered
+Serious and Critical Cases
+Outcome of Cases (Recovery or Death)
+Total Deaths
+Daily Deaths
+Case Timeline
+Graphs for each country: click on the country name on the main table
+Cumulative number of cases (by number of days since 10,000 cases)
+Patient Count
+Cumulative number of cases, by number of days since 10,000 cases
+Brazil
+India
+Iran
+Russia
+Spain
+United Kingdom
+United States
+0
+250
+500
+750
+1000
+1250
+1500
+0
+25M
+50M
+75M
+100M
+125M
+Source: Worldometer - www.worldometers.info
+[back to top ↑]
+Cumulative number of cases Europe vs USA (by number of days since 10,000 cases)
+Patient Count
+Cumulative number of cases Europe vs USA, by number of days since 10,000 cases
+Europe
+United States
+0
+250
+500
+750
+1000
+1250
+1500
+0
+50M
+100M
+150M
+200M
+250M
+300M
+Source: Worldometer - www.worldometers.info
+[back to top ↑]
+Cumulative number of deaths (by number of days since 100 deaths)
+Patient Count
+Cumulative number of deaths, by number of days since 100 deaths
+Brazil
+India
+Iran
+Russia
+Spain
+United Kingdom
+United States
+0
+500
+1000
+1500
+0
+250k
+500k
+750k
+1,000k
+1,250k
+1,500k
+Source: Worldometer - www.worldometers.info
+[back to top ↑]
+Cumulative number of deaths Europe vs USA (by number of days since 100 deaths)
+Patient Count
+Cumulative number of deaths Europe vs USA, by number of days since 100 deaths
+Europe
+United States
+0
+500
+1000
+1500
+0
+500k
+1,000k
+1,500k
+2,000k
+2,500k
+Source: Worldometer - www.worldometers.info
+[back to top ↑]
+Countries cases distribution
+Distribution of cases
+United States: 15.88 % (111,820,082 cases)United States: 15.88 % (111,820,082 cases)
+India: 6.39 % (45,035,393 cases)India: 6.39 % (45,035,393 cases)
+France: 5.70 % (40,138,560 cases)France: 5.70 % (40,138,560 cases)
+Germany: 5.51 % (38,828,995 cases)Germany: 5.51 % (38,828,995 cases)
+Brazil: 5.50 % (38,743,918 cases)Brazil: 5.50 % (38,743,918 cases)
+South Korea: 4.91 % (34,571,873 cases)South Korea: 4.91 % (34,571,873 cases)
+Japan: 4.80 % (33,803,572 cases)Japan: 4.80 % (33,803,572 cases)
+Italy: 3.79 % (26,723,249 cases)Italy: 3.79 % (26,723,249 cases)
+United Kingdom: 3.53 % (24,910,387 cases)United Kingdom: 3.53 % (24,910,387 cases)
+Russia: 3.42 % (24,124,215 cases)Russia: 3.42 % (24,124,215 cases)
+Turkey: 2.45 % (17,232,066 cases)Turkey: 2.45 % (17,232,066 cases)
+Spain: 1.97 % (13,914,811 cases)Spain: 1.97 % (13,914,811 cases)
+Australia: 1.68 % (11,853,144 cases)Australia: 1.68 % (11,853,144 cases)
+Vietnam: 1.65 % (11,625,195 cases)Vietnam: 1.65 % (11,625,195 cases)
+Taiwan: 1.45 % (10,241,523 cases)Taiwan: 1.45 % (10,241,523 cases)
+Argentina: 1.44 % (10,128,845 cases)Argentina: 1.44 % (10,128,845 cases)
+Netherlands: 1.23 % (8,635,786 cases)Netherlands: 1.23 % (8,635,786 cases)
+Mexico: 1.09 % (7,702,809 cases)Mexico: 1.09 % (7,702,809 cases)
+Source: Worldometer - www.worldometers.info
+[back to top ↑]
+See also:
+Data Table by Country
+Total Cases (worldwide)
+"Total Cases" = total cumulative count (704,753,890). This figure includes deaths and recovered or discharged patients (cases with an outcome).
+linear
+logarithmic
+Total Coronavirus Cases
+Total Cases
+(Linear Scale)
+Jan 22, 2020
+Apr 12, 2020
+Jul 02, 2020
+Sep 21, 2020
+Dec 11, 2020
+Mar 02, 2021
+May 22, 2021
+Aug 11, 2021
+Oct 31, 2021
+Jan 20, 2022
+Apr 11, 2022
+Jul 01, 2022
+Sep 20, 2022
+Dec 10, 2022
+Mar 01, 2023
+May 21, 2023
+Aug 10, 2023
+Oct 30, 2023
+Jan 19, 2024
+Apr 09, 2024
+0
+200M
+400M
+600M
+800M
+Cases
+Source: Worldometer - www.worldometers.info
+[back to top ↑]
+Daily Cases (worldwide)
+On April 3, the French Government reported 17,827 additional cases and 532 additional deaths from nursing homes that had not been reported previously. On April 2, it had reported 884 additional deaths.
+On February 12, China reported 51,152 additional new cases due to a change in how cases were diagnosed and reported. More details
+Novel Coronavirus Daily Cases
+Daily New Cases
+Cases per DayData as of 0:00 GMT+0
+Jan 22, 2020
+Jan 16, 2021
+Jan 11, 2022
+Jan 06, 2023
+Jan 01, 2024
+Apr 21, 2020
+Jul 20, 2020
+Oct 18, 2020
+Apr 16, 2021
+Jul 15, 2021
+Oct 13, 2021
+Apr 11, 2022
+Jul 10, 2022
+Oct 08, 2022
+Apr 06, 2023
+Jul 05, 2023
+Oct 03, 2023
+Mar 31, 2024
+0
+1M
+2M
+3M
+4M
+5M
+Daily Cases
+3-day moving average
+7-day moving average
+Source: Worldometer - www.worldometers.info
+[back to top ↑]
+Active Cases
+By removing deaths and recoveries from total cases, we get "currently infected cases" or "active cases" (cases still awaiting for an outcome).
+Total Coronavirus Currently Infected
+Active Cases
+(Number of Infected People)
+Jan 22, 2020
+Apr 15, 2020
+Jul 08, 2020
+Sep 30, 2020
+Dec 23, 2020
+Mar 17, 2021
+Jun 09, 2021
+Sep 01, 2021
+Nov 24, 2021
+Feb 16, 2022
+May 11, 2022
+Aug 03, 2022
+Oct 26, 2022
+Jan 18, 2023
+Apr 12, 2023
+Jul 05, 2023
+Sep 27, 2023
+Dec 20, 2023
+Mar 13, 2024
+0
+20M
+40M
+60M
+80M
+Currently Infected
+Source: Worldometer - www.worldometers.info
+[back to top ↑]
+Recovered and Discharged
+Total
+Daily
+Total Coronavirus Cured
+Total Cured
+(Linear Scale)
+Feb 02, 2020
+Aug 22, 2021
+Mar 12, 2023
+Apr 23, 2020
+Jul 13, 2020
+Oct 02, 2020
+Dec 22, 2020
+Mar 13, 2021
+Jun 02, 2021
+Nov 11, 2021
+Jan 31, 2022
+Apr 22, 2022
+Jul 12, 2022
+Oct 01, 2022
+Dec 21, 2022
+Jun 01, 2023
+Aug 21, 2023
+Nov 10, 2023
+Jan 30, 2024
+0
+200M
+400M
+600M
+800M
+Cured
+Source: Worldometer - www.worldometers.info
+[back to top ↑]
+Newly Infected vs. Newly Recovered
+New Daily Coronavirus Cases+Cured
+New Cases vs. New Recoveries
+(Number of newly infected vs. number of recovered and discharged patients each day)
+Jan 22, 2020
+Apr 12, 2020
+Jul 02, 2020
+Sep 21, 2020
+Dec 11, 2020
+Mar 02, 2021
+May 22, 2021
+Aug 11, 2021
+Oct 31, 2021
+Jan 20, 2022
+Apr 11, 2022
+Jul 01, 2022
+Sep 20, 2022
+Dec 10, 2022
+Mar 01, 2023
+May 21, 2023
+Aug 10, 2023
+Oct 30, 2023
+Jan 19, 2024
+Apr 09, 2024
+0
+1M
+2M
+3M
+4M
+5M
+New Recoveries
+New Cases
+(idea by Rudi Roth)
+Source: Worldometer - www.worldometers.info
+[back to top ↑]
+Serious and Critical Cases
+linear
+logarithmic
+Total Serious and Critical Cases
+Total Serious and Critical Cases
+(Linear Scale)
+Feb 02, 2020
+May 07, 2020
+Aug 10, 2020
+Nov 13, 2020
+Feb 16, 2021
+May 22, 2021
+Aug 25, 2021
+Nov 28, 2021
+Mar 03, 2022
+Jun 06, 2022
+Sep 09, 2022
+Dec 13, 2022
+Mar 18, 2023
+Jun 21, 2023
+Sep 24, 2023
+Dec 28, 2023
+Apr 01, 2024
+0
+25k
+50k
+75k
+100k
+125k
+Serious and Critical Cases
+Source: Worldometer - www.worldometers.info
+[back to top ↑]
+Outcome of Cases (Recovery or Death)
+Percent (%)
+Outcome of total closed cases (recovery rate vs death rate)
+(Cumulative total deaths and recoveries over cumulative number of closed cases)
+Feb 02, 2020
+Dec 18, 2020
+Nov 03, 2021
+Sep 19, 2022
+Aug 05, 2023
+Apr 22, 2020
+Jul 11, 2020
+Sep 29, 2020
+Mar 08, 2021
+May 27, 2021
+Aug 15, 2021
+Jan 22, 2022
+Apr 12, 2022
+Jul 01, 2022
+Dec 08, 2022
+Feb 26, 2023
+May 17, 2023
+Oct 24, 2023
+Jan 12, 2024
+Apr 01, 2024
+0
+25
+50
+75
+100
+Death Rate
+Recovery Rate
+Source: Worldometer - www.worldometers.info
+[back to top ↑]
+Total Deaths
+linear
+logarithmic
+Total Coronavirus Deaths
+Total Deaths
+(Linear Scale)
+Jan 22, 2020
+Dec 07, 2020
+Oct 23, 2021
+Sep 08, 2022
+Jul 25, 2023
+Apr 11, 2020
+Jun 30, 2020
+Sep 18, 2020
+Feb 25, 2021
+May 16, 2021
+Aug 04, 2021
+Jan 11, 2022
+Apr 01, 2022
+Jun 20, 2022
+Nov 27, 2022
+Feb 15, 2023
+May 06, 2023
+Oct 13, 2023
+Jan 01, 2024
+Mar 21, 2024
+0
+2M
+4M
+6M
+8M
+Deaths
+Source: Worldometer - www.worldometers.info
+[back to top ↑]
+Daily Deaths
+Novel Coronavirus Daily Deaths
+Daily Deaths
+Deaths per DayData as of 0:00 GMT+0
+Jan 22, 2020
+Apr 22, 2020
+Jul 22, 2020
+Oct 21, 2020
+Jan 20, 2021
+Apr 21, 2021
+Jul 21, 2021
+Oct 20, 2021
+Jan 19, 2022
+Apr 20, 2022
+Jul 20, 2022
+Oct 19, 2022
+Jan 18, 2023
+Apr 19, 2023
+Jul 19, 2023
+Oct 18, 2023
+Jan 17, 2024
+0
+5k
+10k
+15k
+20k
+Daily Deaths
+3-day moving average
+7-day moving average
+Source: Worldometer - www.worldometers.info
+[back to top ↑]
+Cases Timeline (worldwide)
+Total number of cases
+Per country over time
+1
+100
+10k
+1M
+10…
+Highcharts warning: Consider including the "accessibility.js" module to make your chart more usable for people with disabilities. Set the "accessibility.enabled" option tofalse to remove this warning. See https://www.highcharts.com/docs/accessibility/accessibility-module.
+Dates
+Source: Worldometer - www.worldometers.info
+[back to top ↑]
+Total Deaths due to COVID-19
+Date Total
+Deaths Change
+in Total Change in
+Total (%)
+Apr. 12,. 2024 
+7,010,681 57 0%
+Apr. 11,. 2024 
+7,010,624 27 0%
+Apr. 10,. 2024 
+7,010,597 44 0%
+Apr. 9,. 2024 
+7,010,553 113 0%
+Apr. 8,. 2024 
+7,010,440 28 0%
+Apr. 7,. 2024 
+7,010,412 47 0%
+Apr. 6,. 2024 
+7,010,365 47 0%
+Apr. 5,. 2024 
+7,010,318 103 0%
+Apr. 4,. 2024 
+7,010,215 48 0%
+Apr. 3,. 2024 
+7,010,167 93 0%
+Apr. 2,. 2024 
+7,010,074 127 0%
+Apr. 1,. 2024 
+7,009,947 47 0%
+Mar. 31,. 2024 
+7,009,900 51 0%
+Mar. 30,. 2024 
+7,009,849 89 0%
+Mar. 29,. 2024 
+7,009,760 110 0%
+Mar. 28,. 2024 
+7,009,650 146 0%
+Mar. 27,. 2024 
+7,009,504 95 0%
+Mar. 26,. 2024 
+7,009,409 188 0%
+Mar. 25,. 2024 
+7,009,221 102 0%
+Mar. 24,. 2024 
+7,009,119 112 0%
+Mar. 23,. 2024 
+7,009,007 138 0%
+Mar. 22,. 2024 
+7,008,869 142 0%
+Mar. 21,. 2024 
+7,008,727 224 0%
+Mar. 20,. 2024 
+7,008,503 177 0%
+Mar. 19,. 2024 
+7,008,326 242 0%
+Mar. 18,. 2024 
+7,008,084 148 0%
+Mar. 17,. 2024 
+7,007,936 159 0%
+Mar. 16,. 2024 
+7,007,777 206 0%
+Mar. 15,. 2024 
+7,007,571 322 0%
+Mar. 14,. 2024 
+7,007,249 214 0%
+Mar. 13,. 2024 
+7,007,035 254 0%
+Mar. 12,. 2024 
+7,006,781 307 0%
+Mar. 11,. 2024 
+7,006,474 236 0%
+Mar. 10,. 2024 
+7,006,238 141 0%
+Mar. 9,. 2024 
+7,006,097 113 0%
+Mar. 8,. 2024 
+7,005,984 196 0%
+Mar. 7,. 2024 
+7,005,788 147 0%
+Mar. 6,. 2024 
+7,005,641 160 0%
+Mar. 5,. 2024 
+7,005,481 245 0%
+Mar. 4,. 2024 
+7,005,236 141 0%
+Mar. 3,. 2024 
+7,005,095 176 0%
+Mar. 2,. 2024 
+7,004,919 176 0%
+Mar. 1,. 2024 
+7,004,743 150 0%
+Feb. 29,. 2024 
+7,004,593 238 0%
+Feb. 28,. 2024 
+7,004,355 241 0%
+Feb. 27,. 2024 
+7,004,114 255 0%
+Feb. 26,. 2024 
+7,003,859 172 0%
+Feb. 25,. 2024 
+7,003,687 166 0%
+Feb. 24,. 2024 
+7,003,521 187 0%
+Feb. 23,. 2024 
+7,003,334 267 0%
+Feb. 22,. 2024 
+7,003,067 208 0%
+Feb. 21,. 2024 
+7,002,859 393 0%
+Feb. 20,. 2024 
+7,002,466 288 0%
+Feb. 19,. 2024 
+7,002,178 177 0%
+Feb. 18,. 2024 
+7,002,001 232 0%
+Feb. 17,. 2024 
+7,001,769 172 0%
+Feb. 16,. 2024 
+7,001,597 263 0%
+Feb. 15,. 2024 
+7,001,334 201 0%
+Feb. 14,. 2024 
+7,001,133 334 0%
+Feb. 13,. 2024 
+7,000,799 408 0%
+Feb. 12,. 2024 
+7,000,391 194 0%
+Feb. 11,. 2024 
+7,000,197 254 0%
+Feb. 10,. 2024 
+6,999,943 272 0%
+Feb. 9,. 2024 
+6,999,671 370 0%
+Feb. 8,. 2024 
+6,999,301 305 0%
+Feb. 7,. 2024 
+6,998,996 235 0%
+Feb. 6,. 2024 
+6,998,761 451 0%
+Feb. 5,. 2024 
+6,998,310 239 0%
+Feb. 4,. 2024 
+6,998,071 420 0%
+Feb. 3,. 2024 
+6,997,651 285 0%
+Feb. 2,. 2024 
+6,997,366 490 0%
+Feb. 1,. 2024 
+6,996,876 317 0%
+Jan. 31,. 2024 
+6,996,559 350 0%
+Jan. 30,. 2024 
+6,996,209 461 0%
+Jan. 29,. 2024 
+6,995,748 323 0%
+Jan. 28,. 2024 
+6,995,425 288 0%
+Jan. 27,. 2024 
+6,995,137 312 0%
+Jan. 26,. 2024 
+6,994,825 394 0%
+Jan. 25,. 2024 
+6,994,431 350 0%
+Jan. 24,. 2024 
+6,994,081 584 0%
+Jan. 23,. 2024 
+6,993,497 540 0%
+Jan. 22,. 2024 
+6,992,957 352 0%
+Jan. 21,. 2024 
+6,992,605 386 0%
+Jan. 20,. 2024 
+6,992,219 302 0%
+Jan. 19,. 2024 
+6,991,917 460 0%
+Jan. 18,. 2024 
+6,991,457 412 0%
+Jan. 17,. 2024 
+6,991,045 703 0%
+Jan. 16,. 2024 
+6,990,342 641 0%
+Jan. 15,. 2024 
+6,989,701 310 0%
+Jan. 14,. 2024 
+6,989,391 380 0%
+Jan. 13,. 2024 
+6,989,011 426 0%
+Jan. 12,. 2024 
+6,988,585 773 0%
+Jan. 11,. 2024 
+6,987,812 419 0%
+Jan. 10,. 2024 
+6,987,393 499 0%
+Jan. 9,. 2024 
+6,986,894 574 0%
+Jan. 8,. 2024 
+6,986,320 368 0%
+Jan. 7,. 2024 
+6,985,952 391 0%
+Jan. 6,. 2024 
+6,985,561 397 0%
+Jan. 5,. 2024 
+6,985,164 459 0%
+Jan. 4,. 2024 
+6,984,705 444 0%
+Jan. 3,. 2024 
+6,984,261 792 0%
+Jan. 2,. 2024 
+6,983,469 567 0%
+Jan. 1,. 2024 
+6,982,902 308 0%
+Dec. 31,. 2023 
+6,982,594 382 0%
+Dec. 30,. 2023 
+6,982,212 377 0%
+Dec. 29,. 2023 
+6,981,835 427 0%
+Dec. 28,. 2023 
+6,981,408 390 0%
+Dec. 27,. 2023 
+6,981,018 576 0%
+Dec. 26,. 2023 
+6,980,442 482 0%
+Dec. 25,. 2023 
+6,979,960 295 0%
+Dec. 24,. 2023 
+6,979,665 427 0%
+Dec. 23,. 2023 
+6,979,238 408 0%
+Dec. 22,. 2023 
+6,978,830 413 0%
+Dec. 21,. 2023 
+6,978,417 389 0%
+Dec. 20,. 2023 
+6,978,028 842 0%
+Dec. 19,. 2023 
+6,977,186 588 0%
+Dec. 18,. 2023 
+6,976,598 400 0%
+Dec. 17,. 2023 
+6,976,198 417 0%
+Dec. 16,. 2023 
+6,975,781 387 0%
+Dec. 15,. 2023 
+6,975,394 415 0%
+Dec. 14,. 2023 
+6,974,979 432 0%
+Dec. 13,. 2023 
+6,974,547 760 0%
+Dec. 12,. 2023 
+6,973,787 626 0%
+Dec. 11,. 2023 
+6,973,161 456 0%
+Dec. 10,. 2023 
+6,972,705 433 0%
+Dec. 9,. 2023 
+6,972,272 400 0%
+Dec. 8,. 2023 
+6,971,872 392 0%
+Dec. 7,. 2023 
+6,971,480 714 0%
+Dec. 6,. 2023 
+6,970,766 454 0%
+Dec. 5,. 2023 
+6,970,312 519 0%
+Dec. 4,. 2023 
+6,969,793 408 0%
+Dec. 3,. 2023 
+6,969,385 417 0%
+Dec. 2,. 2023 
+6,968,968 369 0%
+Dec. 1,. 2023 
+6,968,599 423 0%
+Nov. 30,. 2023 
+6,968,176 410 0%
+Nov. 29,. 2023 
+6,967,766 429 0%
+Nov. 28,. 2023 
+6,967,337 509 0%
+Nov. 27,. 2023 
+6,966,828 458 0%
+Nov. 26,. 2023 
+6,966,370 344 0%
+Nov. 25,. 2023 
+6,966,026 394 0%
+Nov. 24,. 2023 
+6,965,632 387 0%
+Nov. 23,. 2023 
+6,965,245 408 0%
+Nov. 22,. 2023 
+6,964,837 381 0%
+Nov. 21,. 2023 
+6,964,456 447 0%
+Nov. 20,. 2023 
+6,964,009 477 0%
+Nov. 19,. 2023 
+6,963,532 286 0%
+Nov. 18,. 2023 
+6,963,246 374 0%
+Nov. 17,. 2023 
+6,962,872 339 0%
+Nov. 16,. 2023 
+6,962,533 350 0%
+Nov. 15,. 2023 
+6,962,183 367 0%
+Nov. 14,. 2023 
+6,961,816 592 0%
+Nov. 13,. 2023 
+6,961,224 553 0%
+Nov. 12,. 2023 
+6,960,671 348 0%
+Nov. 11,. 2023 
+6,960,323 348 0%
+Nov. 10,. 2023 
+6,959,975 373 0%
+Nov. 9,. 2023 
+6,959,602 343 0%
+Nov. 8,. 2023 
+6,959,259 359 0%
+Nov. 7,. 2023 
+6,958,900 493 0%
+Nov. 6,. 2023 
+6,958,407 375 0%
+Nov. 5,. 2023 
+6,958,032 347 0%
+Nov. 4,. 2023 
+6,957,685 315 0%
+Nov. 3,. 2023 
+6,957,370 348 0%
+Nov. 2,. 2023 
+6,957,022 295 0%
+Nov. 1,. 2023 
+6,956,727 342 0%
+Oct. 31,. 2023 
+6,956,385 444 0%
+Oct. 30,. 2023 
+6,955,941 339 0%
+Oct. 29,. 2023 
+6,955,602 305 0%
+Oct. 28,. 2023 
+6,955,297 328 0%
+Oct. 27,. 2023 
+6,954,969 323 0%
+Oct. 26,. 2023 
+6,954,646 366 0%
+Oct. 25,. 2023 
+6,954,280 342 0%
+Oct. 24,. 2023 
+6,953,938 426 0%
+Oct. 23,. 2023 
+6,953,512 423 0%
+Oct. 22,. 2023 
+6,953,089 293 0%
+Oct. 21,. 2023 
+6,952,796 416 0%
+Oct. 20,. 2023 
+6,952,380 383 0%
+Oct. 19,. 2023 
+6,951,997 388 0%
+Oct. 18,. 2023 
+6,951,609 413 0%
+Oct. 17,. 2023 
+6,951,196 424 0%
+Oct. 16,. 2023 
+6,950,772 389 0%
+Oct. 15,. 2023 
+6,950,383 393 0%
+Oct. 14,. 2023 
+6,949,990 315 0%
+Oct. 13,. 2023 
+6,949,675 363 0%
+Oct. 12,. 2023 
+6,949,312 355 0%
+Oct. 11,. 2023 
+6,948,957 358 0%
+Oct. 10,. 2023 
+6,948,599 376 0%
+Oct. 9,. 2023 
+6,948,223 437 0%
+Oct. 8,. 2023 
+6,947,786 338 0%
+Oct. 7,. 2023 
+6,947,448 332 0%
+Oct. 6,. 2023 
+6,947,116 339 0%
+Oct. 5,. 2023 
+6,946,777 342 0%
+Oct. 4,. 2023 
+6,946,435 341 0%
+Oct. 3,. 2023 
+6,946,094 370 0%
+Oct. 2,. 2023 
+6,945,724 336 0%
+Oct. 1,. 2023 
+6,945,388 346 0%
+Sep. 30,. 2023 
+6,945,042 333 0%
+Sep. 29,. 2023 
+6,944,709 347 0%
+Sep. 28,. 2023 
+6,944,362 323 0%
+Sep. 27,. 2023 
+6,944,039 295 0%
+Sep. 26,. 2023 
+6,943,744 377 0%
+Sep. 25,. 2023 
+6,943,367 368 0%
+Sep. 24,. 2023 
+6,942,999 290 0%
+Sep. 23,. 2023 
+6,942,709 313 0%
+Sep. 22,. 2023 
+6,942,396 290 0%
+Sep. 21,. 2023 
+6,942,106 309 0%
+Sep. 20,. 2023 
+6,941,797 321 0%
+Sep. 19,. 2023 
+6,941,476 384 0%
+Sep. 18,. 2023 
+6,941,092 343 0%
+Sep. 17,. 2023 
+6,940,749 234 0%
+Sep. 16,. 2023 
+6,940,515 296 0%
+Sep. 15,. 2023 
+6,940,219 365 0%
+Sep. 14,. 2023 
+6,939,854 313 0%
+Sep. 13,. 2023 
+6,939,541 349 0%
+Sep. 12,. 2023 
+6,939,192 353 0%
+Sep. 11,. 2023 
+6,938,839 321 0%
+Sep. 10,. 2023 
+6,938,518 230 0%
+Sep. 9,. 2023 
+6,938,288 285 0%
+Sep. 8,. 2023 
+6,938,003 259 0%
+Sep. 7,. 2023 
+6,937,744 300 0%
+Sep. 6,. 2023 
+6,937,444 273 0%
+Sep. 5,. 2023 
+6,937,171 321 0%
+Sep. 4,. 2023 
+6,936,850 368 0%
+Sep. 3,. 2023 
+6,936,482 208 0%
+Sep. 2,. 2023 
+6,936,274 233 0%
+Sep. 1,. 2023 
+6,936,041 223 0%
+Aug. 31,. 2023 
+6,935,818 325 0%
+Aug. 30,. 2023 
+6,935,493 263 0%
+Aug. 29,. 2023 
+6,935,230 647 0%
+Aug. 28,. 2023 
+6,934,583 275 0%
+Aug. 27,. 2023 
+6,934,308 238 0%
+Aug. 26,. 2023 
+6,934,070 213 0%
+Aug. 25,. 2023 
+6,933,857 231 0%
+Aug. 24,. 2023 
+6,933,626 248 0%
+Aug. 23,. 2023 
+6,933,378 269 0%
+Aug. 22,. 2023 
+6,933,109 373 0%
+Aug. 21,. 2023 
+6,932,736 301 0%
+Aug. 20,. 2023 
+6,932,435 493 0%
+Aug. 19,. 2023 
+6,931,942 217 0%
+Aug. 18,. 2023 
+6,931,725 222 0%
+Aug. 17,. 2023 
+6,931,503 249 0%
+Aug. 16,. 2023 
+6,931,254 219 0%
+Aug. 15,. 2023 
+6,931,035 353 0%
+Aug. 14,. 2023 
+6,930,682 263 0%
+Aug. 13,. 2023 
+6,930,419 184 0%
+Aug. 12,. 2023 
+6,930,235 208 0%
+Aug. 11,. 2023 
+6,930,027 242 0%
+Aug. 10,. 2023 
+6,929,785 232 0%
+Aug. 9,. 2023 
+6,929,553 260 0%
+Aug. 8,. 2023 
+6,929,293 376 0%
+Aug. 7,. 2023 
+6,928,917 265 0%
+Aug. 6,. 2023 
+6,928,652 257 0%
+Aug. 5,. 2023 
+6,928,395 240 0%
+Aug. 4,. 2023 
+6,928,155 208 0%
+Aug. 3,. 2023 
+6,927,947 254 0%
+Aug. 2,. 2023 
+6,927,693 265 0%
+Aug. 1,. 2023 
+6,927,428 400 0%
+Jul. 31,. 2023 
+6,927,028 284 0%
+Jul. 30,. 2023 
+6,926,744 220 0%
+Jul. 29,. 2023 
+6,926,524 248 0%
+Jul. 28,. 2023 
+6,926,276 258 0%
+Jul. 27,. 2023 
+6,926,018 289 0%
+Jul. 26,. 2023 
+6,925,729 266 0%
+Jul. 25,. 2023 
+6,925,463 404 0%
+Jul. 24,. 2023 
+6,925,059 235 0%
+Jul. 23,. 2023 
+6,924,824 205 0%
+Jul. 22,. 2023 
+6,924,619 249 0%
+Jul. 21,. 2023 
+6,924,370 242 0%
+Jul. 20,. 2023 
+6,924,128 262 0%
+Jul. 19,. 2023 
+6,923,866 261 0%
+Jul. 18,. 2023 
+6,923,605 238 0%
+Jul. 17,. 2023 
+6,923,367 164 0%
+Jul. 16,. 2023 
+6,923,203 136 0%
+Jul. 15,. 2023 
+6,923,067 177 0%
+Jul. 14,. 2023 
+6,922,890 218 0%
+Jul. 13,. 2023 
+6,922,672 231 0%
+Jul. 12,. 2023 
+6,922,441 241 0%
+Jul. 11,. 2023 
+6,922,200 307 0%
+Jul. 10,. 2023 
+6,921,893 218 0%
+Jul. 9,. 2023 
+6,921,675 180 0%
+Jul. 8,. 2023 
+6,921,495 195 0%
+Jul. 7,. 2023 
+6,921,300 221 0%
+Jul. 6,. 2023 
+6,921,079 256 0%
+Jul. 5,. 2023 
+6,920,823 258 0%
+Jul. 4,. 2023 
+6,920,565 385 0%
+Jul. 3,. 2023 
+6,920,180 244 0%
+Jul. 2,. 2023 
+6,919,936 269 0%
+Jul. 1,. 2023 
+6,919,667 215 0%
+Jun. 30,. 2023 
+6,919,452 237 0%
+Jun. 29,. 2023 
+6,919,215 349 0%
+Jun. 28,. 2023 
+6,918,866 303 0%
+Jun. 27,. 2023 
+6,918,563 285 0%
+Jun. 26,. 2023 
+6,918,278 500 0%
+Jun. 25,. 2023 
+6,917,778 230 0%
+Jun. 24,. 2023 
+6,917,548 312 0%
+Jun. 23,. 2023 
+6,917,236 377 0%
+Jun. 22,. 2023 
+6,916,859 284 0%
+Jun. 21,. 2023 
+6,916,575 319 0%
+Jun. 20,. 2023 
+6,916,256 416 0%
+Jun. 19,. 2023 
+6,915,840 419 0%
+Jun. 18,. 2023 
+6,915,421 251 0%
+Jun. 17,. 2023 
+6,915,170 289 0%
+Jun. 16,. 2023 
+6,914,881 384 0%
+Jun. 15,. 2023 
+6,914,497 385 0%
+Jun. 14,. 2023 
+6,914,112 391 0%
+Jun. 13,. 2023 
+6,913,721 562 0%
+Jun. 12,. 2023 
+6,913,159 380 0%
+Jun. 11,. 2023 
+6,912,779 253 0%
+Jun. 10,. 2023 
+6,912,526 299 0%
+Jun. 9,. 2023 
+6,912,227 399 0%
+Jun. 8,. 2023 
+6,911,828 436 0%
+Jun. 7,. 2023 
+6,911,392 382 0%
+Jun. 6,. 2023 
+6,911,010 683 0%
+Jun. 5,. 2023 
+6,910,327 425 0%
+Jun. 4,. 2023 
+6,909,902 372 0%
+Jun. 3,. 2023 
+6,909,530 418 0%
+Jun. 2,. 2023 
+6,909,112 461 0%
+Jun. 1,. 2023 
+6,908,651 480 0%
+May. 31,. 2023 
+6,908,171 405 0%
+May. 30,. 2023 
+6,907,766 676 0%
+May. 29,. 2023 
+6,907,090 461 0%
+May. 28,. 2023 
+6,906,629 335 0%
+May. 27,. 2023 
+6,906,294 342 0%
+May. 26,. 2023 
+6,905,952 501 0%
+May. 25,. 2023 
+6,905,451 473 0%
+May. 24,. 2023 
+6,904,978 521 0%
+May. 23,. 2023 
+6,904,457 815 0%
+May. 22,. 2023 
+6,903,642 599 0%
+May. 21,. 2023 
+6,903,043 438 0%
+May. 20,. 2023 
+6,902,605 451 0%
+May. 19,. 2023 
+6,902,154 441 0%
+May. 18,. 2023 
+6,901,713 470 0%
+May. 17,. 2023 
+6,901,243 597 0%
+May. 16,. 2023 
+6,900,646 650 0%
+May. 15,. 2023 
+6,899,996 491 0%
+May. 14,. 2023 
+6,899,505 398 0%
+May. 13,. 2023 
+6,899,107 453 0%
+May. 12,. 2023 
+6,898,654 638 0%
+May. 11,. 2023 
+6,898,016 616 0%
+May. 10,. 2023 
+6,897,400 620 0%
+May. 9,. 2023 
+6,896,780 692 0%
+May. 8,. 2023 
+6,896,088 654 0%
+May. 7,. 2023 
+6,895,434 740 0%
+May. 6,. 2023 
+6,894,694 596 0%
+May. 5,. 2023 
+6,894,098 734 0%
+May. 4,. 2023 
+6,893,364 674 0%
+May. 3,. 2023 
+6,892,690 764 0%
+May. 2,. 2023 
+6,891,926 820 0%
+May. 1,. 2023 
+6,891,106 597 0%
+Apr. 30,. 2023 
+6,890,509 495 0%
+Apr. 29,. 2023 
+6,890,014 536 0%
+Apr. 28,. 2023 
+6,889,478 859 0%
+Apr. 27,. 2023 
+6,888,619 843 0%
+Apr. 26,. 2023 
+6,887,776 862 0%
+Apr. 25,. 2023 
+6,886,914 1,028 0%
+Apr. 24,. 2023 
+6,885,886 811 0%
+Apr. 23,. 2023 
+6,885,075 558 0%
+Apr. 22,. 2023 
+6,884,517 697 0%
+Apr. 21,. 2023 
+6,883,820 896 0%
+Apr. 20,. 2023 
+6,882,924 801 0%
+Apr. 19,. 2023 
+6,882,123 824 0%
+Apr. 18,. 2023 
+6,881,299 1,185 0%
+Apr. 17,. 2023 
+6,880,114 742 0%
+Apr. 16,. 2023 
+6,879,372 638 0%
+Apr. 15,. 2023 
+6,878,734 648 0%
+Apr. 14,. 2023 
+6,878,086 1,012 0%
+Apr. 13,. 2023 
+6,877,074 850 0%
+Apr. 12,. 2023 
+6,876,224 1,044 0%
+Apr. 11,. 2023 
+6,875,180 996 0%
+Apr. 10,. 2023 
+6,874,184 615 0%
+Apr. 9,. 2023 
+6,873,569 616 0%
+Apr. 8,. 2023 
+6,872,953 672 0%
+Apr. 7,. 2023 
+6,872,281 682 0%
+Apr. 6,. 2023 
+6,871,599 846 0%
+Apr. 5,. 2023 
+6,870,753 1,000 0%
+Apr. 4,. 2023 
+6,869,753 1,206 0%
+Apr. 3,. 2023 
+6,868,547 887 0%
+Apr. 2,. 2023 
+6,867,660 641 0%
+Apr. 1,. 2023 
+6,867,019 718 0%
+Mar. 31,. 2023 
+6,866,301 1,098 0%
+Mar. 30,. 2023 
+6,865,203 1,032 0%
+Mar. 29,. 2023 
+6,864,171 963 0%
+Mar. 28,. 2023 
+6,863,208 1,147 0%
+Mar. 27,. 2023 
+6,862,061 985 0%
+Mar. 26,. 2023 
+6,861,076 730 0%
+Mar. 25,. 2023 
+6,860,346 916 0%
+Mar. 24,. 2023 
+6,859,430 961 0%
+Mar. 23,. 2023 
+6,858,469 1,074 0%
+Mar. 22,. 2023 
+6,857,395 1,254 0%
+Mar. 21,. 2023 
+6,856,141 1,087 0%
+Mar. 20,. 2023 
+6,855,054 1,021 0%
+Mar. 19,. 2023 
+6,854,033 760 0%
+Mar. 18,. 2023 
+6,853,273 786 0%
+Mar. 17,. 2023 
+6,852,487 1,062 0%
+Mar. 16,. 2023 
+6,851,425 1,187 0%
+Mar. 15,. 2023 
+6,850,238 1,169 0%
+Mar. 14,. 2023 
+6,849,069 1,074 0%
+Mar. 13,. 2023 
+6,847,995 1,062 0%
+Mar. 12,. 2023 
+6,846,933 857 0%
+Mar. 11,. 2023 
+6,846,076 901 0%
+Mar. 10,. 2023 
+6,845,175 1,084 0%
+Mar. 9,. 2023 
+6,844,091 1,091 0%
+Mar. 8,. 2023 
+6,843,000 1,166 0%
+Mar. 7,. 2023 
+6,841,834 1,007 0%
+Mar. 6,. 2023 
+6,840,827 994 0%
+Mar. 5,. 2023 
+6,839,833 765 0%
+Mar. 4,. 2023 
+6,839,068 856 0%
+Mar. 3,. 2023 
+6,838,212 1,123 0%
+Mar. 2,. 2023 
+6,837,089 1,154 0%
+Mar. 1,. 2023 
+6,835,935 1,219 0%
+Feb. 28,. 2023 
+6,834,716 1,096 0%
+Feb. 27,. 2023 
+6,833,620 1,128 0%
+Feb. 26,. 2023 
+6,832,492 718 0%
+Feb. 25,. 2023 
+6,831,774 838 0%
+Feb. 24,. 2023 
+6,830,936 1,147 0%
+Feb. 23,. 2023 
+6,829,789 1,554 0%
+Feb. 22,. 2023 
+6,828,235 1,485 0%
+Feb. 21,. 2023 
+6,826,750 1,210 0%
+Feb. 20,. 2023 
+6,825,540 936 0%
+Feb. 19,. 2023 
+6,824,604 1,021 0%
+Feb. 18,. 2023 
+6,823,583 897 0%
+Feb. 17,. 2023 
+6,822,686 1,165 0%
+Feb. 16,. 2023 
+6,821,521 1,372 0%
+Feb. 15,. 2023 
+6,820,149 1,533 0%
+Feb. 14,. 2023 
+6,818,616 1,367 0%
+Feb. 13,. 2023 
+6,817,249 1,176 0%
+Feb. 12,. 2023 
+6,816,073 928 0%
+Feb. 11,. 2023 
+6,815,145 1,084 0%
+Feb. 10,. 2023 
+6,814,061 1,458 0%
+Feb. 9,. 2023 
+6,812,603 1,418 0%
+Feb. 8,. 2023 
+6,811,185 1,509 0%
+Feb. 7,. 2023 
+6,809,676 1,461 0%
+Feb. 6,. 2023 
+6,808,215 1,526 0%
+Feb. 5,. 2023 
+6,806,689 1,122 0%
+Feb. 4,. 2023 
+6,805,567 1,270 0%
+Feb. 3,. 2023 
+6,804,297 1,777 0%
+Feb. 2,. 2023 
+6,802,520 1,900 0%
+Feb. 1,. 2023 
+6,800,620 1,945 0%
+Jan. 31,. 2023 
+6,798,675 1,813 0%
+Jan. 30,. 2023 
+6,796,862 1,492 0%
+Jan. 29,. 2023 
+6,795,370 1,356 0%
+Jan. 28,. 2023 
+6,794,014 1,401 0%
+Jan. 27,. 2023 
+6,792,613 1,737 0%
+Jan. 26,. 2023 
+6,790,876 1,906 0%
+Jan. 25,. 2023 
+6,788,970 1,946 0%
+Jan. 24,. 2023 
+6,787,024 1,962 0%
+Jan. 23,. 2023 
+6,785,062 1,769 0%
+Jan. 22,. 2023 
+6,783,293 1,619 0%
+Jan. 21,. 2023 
+6,781,674 1,663 0%
+Jan. 20,. 2023 
+6,780,011 2,360 0%
+Jan. 19,. 2023 
+6,777,651 2,557 0%
+Jan. 18,. 2023 
+6,775,094 2,442 0%
+Jan. 17,. 2023 
+6,772,652 2,132 0%
+Jan. 16,. 2023 
+6,770,520 2,069 0%
+Jan. 15,. 2023 
+6,768,451 1,619 0%
+Jan. 14,. 2023 
+6,766,832 1,959 0%
+Jan. 13,. 2023 
+6,764,873 2,520 0%
+Jan. 12,. 2023 
+6,762,353 2,528 0%
+Jan. 11,. 2023 
+6,759,825 2,330 0%
+Jan. 10,. 2023 
+6,757,495 2,379 0%
+Jan. 9,. 2023 
+6,755,116 2,299 0%
+Jan. 8,. 2023 
+6,752,817 1,791 0%
+Jan. 7,. 2023 
+6,751,026 1,941 0%
+Jan. 6,. 2023 
+6,749,085 2,679 0%
+Jan. 5,. 2023 
+6,746,406 2,517 0%
+Jan. 4,. 2023 
+6,743,889 2,270 0%
+Jan. 3,. 2023 
+6,741,619 2,263 0%
+Jan. 2,. 2023 
+6,739,356 2,146 0%
+Jan. 1,. 2023 
+6,737,210 1,527 0%
+Dec. 31,. 2022 
+6,735,683 1,829 0%
+Dec. 30,. 2022 
+6,733,854 2,220 0%
+Dec. 29,. 2022 
+6,731,634 2,540 0%
+Dec. 28,. 2022 
+6,729,094 2,637 0%
+Dec. 27,. 2022 
+6,726,457 2,226 0%
+Dec. 26,. 2022 
+6,724,231 1,527 0%
+Dec. 25,. 2022 
+6,722,704 1,454 0%
+Dec. 24,. 2022 
+6,721,250 1,635 0%
+Dec. 23,. 2022 
+6,719,615 2,386 0%
+Dec. 22,. 2022 
+6,717,229 2,422 0%
+Dec. 21,. 2022 
+6,714,807 2,273 0%
+Dec. 20,. 2022 
+6,712,534 2,263 0%
+Dec. 19,. 2022 
+6,710,271 1,936 0%
+Dec. 18,. 2022 
+6,708,335 1,485 0%
+Dec. 17,. 2022 
+6,706,850 1,685 0%
+Dec. 16,. 2022 
+6,705,165 1,985 0%
+Dec. 15,. 2022 
+6,703,180 2,211 0%
+Dec. 14,. 2022 
+6,700,969 2,229 0%
+Dec. 13,. 2022 
+6,698,740 2,011 0%
+Dec. 12,. 2022 
+6,696,729 1,718 0%
+Dec. 11,. 2022 
+6,695,011 1,264 0%
+Dec. 10,. 2022 
+6,693,747 1,441 0%
+Dec. 9,. 2022 
+6,692,306 1,814 0%
+Dec. 8,. 2022 
+6,690,492 1,998 0%
+Dec. 7,. 2022 
+6,688,494 1,966 0%
+Dec. 6,. 2022 
+6,686,528 1,945 0%
+Dec. 5,. 2022 
+6,684,583 1,496 0%
+Dec. 4,. 2022 
+6,683,087 1,151 0%
+Dec. 3,. 2022 
+6,681,936 1,352 0%
+Dec. 2,. 2022 
+6,680,584 1,677 0%
+Dec. 1,. 2022 
+6,678,907 1,912 0%
+Nov. 30,. 2022 
+6,676,995 1,804 0%
+Nov. 29,. 2022 
+6,675,191 1,609 0%
+Nov. 28,. 2022 
+6,673,582 1,484 0%
+Nov. 27,. 2022 
+6,672,098 1,035 0%
+Nov. 26,. 2022 
+6,671,063 1,069 0%
+Nov. 25,. 2022 
+6,669,994 1,446 0%
+Nov. 24,. 2022 
+6,668,548 1,639 0%
+Nov. 23,. 2022 
+6,666,909 1,676 0%
+Nov. 22,. 2022 
+6,665,233 1,741 0%
+Nov. 21,. 2022 
+6,663,492 1,451 0%
+Nov. 20,. 2022 
+6,662,041 1,004 0%
+Nov. 19,. 2022 
+6,661,037 1,274 0%
+Nov. 18,. 2022 
+6,659,763 1,607 0%
+Nov. 17,. 2022 
+6,658,156 1,751 0%
+Nov. 16,. 2022 
+6,656,405 1,699 0%
+Nov. 15,. 2022 
+6,654,706 1,641 0%
+Nov. 14,. 2022 
+6,653,065 1,356 0%
+Nov. 13,. 2022 
+6,651,709 973 0%
+Nov. 12,. 2022 
+6,650,736 1,124 0%
+Nov. 11,. 2022 
+6,649,612 1,383 0%
+Nov. 10,. 2022 
+6,648,229 1,593 0%
+Nov. 9,. 2022 
+6,646,636 1,671 0%
+Nov. 8,. 2022 
+6,644,965 1,513 0%
+Nov. 7,. 2022 
+6,643,452 1,386 0%
+Nov. 6,. 2022 
+6,642,066 910 0%
+Nov. 5,. 2022 
+6,641,156 1,222 0%
+Nov. 4,. 2022 
+6,639,934 1,700 0%
+Nov. 3,. 2022 
+6,638,234 1,541 0%
+Nov. 2,. 2022 
+6,636,693 1,664 0%
+Nov. 1,. 2022 
+6,635,029 1,432 0%
+Oct. 31,. 2022 
+6,633,597 1,432 0%
+Oct. 30,. 2022 
+6,632,165 1,147 0%
+Oct. 29,. 2022 
+6,631,018 1,162 0%
+Oct. 28,. 2022 
+6,629,856 1,707 0%
+Oct. 27,. 2022 
+6,628,149 1,664 0%
+Oct. 26,. 2022 
+6,626,485 1,859 0%
+Oct. 25,. 2022 
+6,624,626 1,785 0%
+Oct. 24,. 2022 
+6,622,841 1,485 0%
+Oct. 23,. 2022 
+6,621,356 1,025 0%
+Oct. 22,. 2022 
+6,620,331 1,265 0%
+Oct. 21,. 2022 
+6,619,066 1,660 0%
+Oct. 20,. 2022 
+6,617,406 1,650 0%
+Oct. 19,. 2022 
+6,615,756 1,906 0%
+Oct. 18,. 2022 
+6,613,850 1,762 0%
+Oct. 17,. 2022 
+6,612,088 1,598 0%
+Oct. 16,. 2022 
+6,610,490 1,055 0%
+Oct. 15,. 2022 
+6,609,435 1,260 0%
+Oct. 14,. 2022 
+6,608,175 1,677 0%
+Oct. 13,. 2022 
+6,606,498 1,610 0%
+Oct. 12,. 2022 
+6,604,888 1,766 0%
+Oct. 11,. 2022 
+6,603,122 1,590 0%
+Oct. 10,. 2022 
+6,601,532 1,432 0%
+Oct. 9,. 2022 
+6,600,100 1,094 0%
+Oct. 8,. 2022 
+6,599,006 1,331 0%
+Oct. 7,. 2022 
+6,597,675 1,742 0%
+Oct. 6,. 2022 
+6,595,933 1,726 0%
+Oct. 5,. 2022 
+6,594,207 1,705 0%
+Oct. 4,. 2022 
+6,592,502 1,718 0%
+Oct. 3,. 2022 
+6,590,784 1,203 0%
+Oct. 2,. 2022 
+6,589,581 1,162 0%
+Oct. 1,. 2022 
+6,588,419 1,368 0%
+Sep. 30,. 2022 
+6,587,051 1,607 0%
+Sep. 29,. 2022 
+6,585,444 1,679 0%
+Sep. 28,. 2022 
+6,583,765 1,631 0%
+Sep. 27,. 2022 
+6,582,134 1,529 0%
+Sep. 26,. 2022 
+6,580,605 1,274 0%
+Sep. 25,. 2022 
+6,579,331 1,031 0%
+Sep. 24,. 2022 
+6,578,300 1,244 0%
+Sep. 23,. 2022 
+6,577,056 1,781 0%
+Sep. 22,. 2022 
+6,575,275 1,566 0%
+Sep. 21,. 2022 
+6,573,709 1,757 0%
+Sep. 20,. 2022 
+6,571,952 1,576 0%
+Sep. 19,. 2022 
+6,570,376 1,309 0%
+Sep. 18,. 2022 
+6,569,067 1,063 0%
+Sep. 17,. 2022 
+6,568,004 1,302 0%
+Sep. 16,. 2022 
+6,566,702 2,100 0%
+Sep. 15,. 2022 
+6,564,602 1,912 0%
+Sep. 14,. 2022 
+6,562,690 2,056 0%
+Sep. 13,. 2022 
+6,560,634 1,866 0%
+Sep. 12,. 2022 
+6,558,768 1,384 0%
+Sep. 11,. 2022 
+6,557,384 1,253 0%
+Sep. 10,. 2022 
+6,556,131 1,417 0%
+Sep. 9,. 2022 
+6,554,714 2,130 0%
+Sep. 8,. 2022 
+6,552,584 2,101 0%
+Sep. 7,. 2022 
+6,550,483 2,067 0%
+Sep. 6,. 2022 
+6,548,416 1,893 0%
+Sep. 5,. 2022 
+6,546,523 1,535 0%
+Sep. 4,. 2022 
+6,544,988 1,420 0%
+Sep. 3,. 2022 
+6,543,568 1,754 0%
+Sep. 2,. 2022 
+6,541,814 2,182 0%
+Sep. 1,. 2022 
+6,539,632 2,298 0%
+Aug. 31,. 2022 
+6,537,334 2,383 0%
+Aug. 30,. 2022 
+6,534,951 2,450 0%
+Aug. 29,. 2022 
+6,532,501 1,893 0%
+Aug. 28,. 2022 
+6,530,608 1,564 0%
+Aug. 27,. 2022 
+6,529,044 2,039 0%
+Aug. 26,. 2022 
+6,527,005 2,355 0%
+Aug. 25,. 2022 
+6,524,650 2,496 0%
+Aug. 24,. 2022 
+6,522,154 2,557 0%
+Aug. 23,. 2022 
+6,519,597 2,493 0%
+Aug. 22,. 2022 
+6,517,104 2,055 0%
+Aug. 21,. 2022 
+6,515,049 1,631 0%
+Aug. 20,. 2022 
+6,513,418 2,052 0%
+Aug. 19,. 2022 
+6,511,366 2,661 0%
+Aug. 18,. 2022 
+6,508,705 2,660 0%
+Aug. 17,. 2022 
+6,506,045 2,972 0%
+Aug. 16,. 2022 
+6,503,073 2,391 0%
+Aug. 15,. 2022 
+6,500,682 2,077 0%
+Aug. 14,. 2022 
+6,498,605 1,763 0%
+Aug. 13,. 2022 
+6,496,842 2,173 0%
+Aug. 12,. 2022 
+6,494,669 2,805 0%
+Aug. 11,. 2022 
+6,491,864 2,714 0%
+Aug. 10,. 2022 
+6,489,150 3,006 0%
+Aug. 9,. 2022 
+6,486,144 2,900 0%
+Aug. 8,. 2022 
+6,483,244 2,276 0%
+Aug. 7,. 2022 
+6,480,968 1,669 0%
+Aug. 6,. 2022 
+6,479,299 2,214 0%
+Aug. 5,. 2022 
+6,477,085 2,812 0%
+Aug. 4,. 2022 
+6,474,273 2,925 0%
+Aug. 3,. 2022 
+6,471,348 2,904 0%
+Aug. 2,. 2022 
+6,468,444 2,718 0%
+Aug. 1,. 2022 
+6,465,726 2,134 0%
+Jul. 31,. 2022 
+6,463,592 1,566 0%
+Jul. 30,. 2022 
+6,462,026 2,048 0%
+Jul. 29,. 2022 
+6,459,978 2,793 0%
+Jul. 28,. 2022 
+6,457,185 2,818 0%
+Jul. 27,. 2022 
+6,454,367 2,842 0%
+Jul. 26,. 2022 
+6,451,525 2,700 0%
+Jul. 25,. 2022 
+6,448,825 2,070 0%
+Jul. 24,. 2022 
+6,446,755 1,565 0%
+Jul. 23,. 2022 
+6,445,190 1,982 0%
+Jul. 22,. 2022 
+6,443,208 2,623 0%
+Jul. 21,. 2022 
+6,440,585 2,613 0%
+Jul. 20,. 2022 
+6,437,972 2,756 0%
+Jul. 19,. 2022 
+6,435,216 2,473 0%
+Jul. 18,. 2022 
+6,432,743 1,864 0%
+Jul. 17,. 2022 
+6,430,879 1,452 0%
+Jul. 16,. 2022 
+6,429,427 1,861 0%
+Jul. 15,. 2022 
+6,427,566 2,289 0%
+Jul. 14,. 2022 
+6,425,277 2,172 0%
+Jul. 13,. 2022 
+6,423,105 2,369 0%
+Jul. 12,. 2022 
+6,420,736 2,256 0%
+Jul. 11,. 2022 
+6,418,480 1,690 0%
+Jul. 10,. 2022 
+6,416,790 1,218 0%
+Jul. 9,. 2022 
+6,415,572 1,512 0%
+Jul. 8,. 2022 
+6,414,060 2,058 0%
+Jul. 7,. 2022 
+6,412,002 2,230 0%
+Jul. 6,. 2022 
+6,409,772 2,161 0%
+Jul. 5,. 2022 
+6,407,611 1,819 0%
+Jul. 4,. 2022 
+6,405,792 1,314 0%
+Jul. 3,. 2022 
+6,404,478 1,096 0%
+Jul. 2,. 2022 
+6,403,382 1,306 0%
+Jul. 1,. 2022 
+6,402,076 1,851 0%
+Jun. 30,. 2022 
+6,400,225 1,740 0%
+Jun. 29,. 2022 
+6,398,485 1,894 0%
+Jun. 28,. 2022 
+6,396,591 1,805 0%
+Jun. 27,. 2022 
+6,394,786 1,251 0%
+Jun. 26,. 2022 
+6,393,535 955 0%
+Jun. 25,. 2022 
+6,392,580 1,336 0%
+Jun. 24,. 2022 
+6,391,244 1,733 0%
+Jun. 23,. 2022 
+6,389,511 1,916 0%
+Jun. 22,. 2022 
+6,387,595 1,821 0%
+Jun. 21,. 2022 
+6,385,774 1,429 0%
+Jun. 20,. 2022 
+6,384,345 1,047 0%
+Jun. 19,. 2022 
+6,383,298 967 0%
+Jun. 18,. 2022 
+6,382,331 1,125 0%
+Jun. 17,. 2022 
+6,381,206 1,351 0%
+Jun. 16,. 2022 
+6,379,855 1,501 0%
+Jun. 15,. 2022 
+6,378,354 1,646 0%
+Jun. 14,. 2022 
+6,376,708 1,531 0%
+Jun. 13,. 2022 
+6,375,177 1,087 0%
+Jun. 12,. 2022 
+6,374,090 964 0%
+Jun. 11,. 2022 
+6,373,126 1,322 0%
+Jun. 10,. 2022 
+6,371,804 1,560 0%
+Jun. 9,. 2022 
+6,370,244 1,570 0%
+Jun. 8,. 2022 
+6,368,674 1,868 0%
+Jun. 7,. 2022 
+6,366,806 1,660 0%
+Jun. 6,. 2022 
+6,365,146 995 0%
+Jun. 5,. 2022 
+6,364,151 873 0%
+Jun. 4,. 2022 
+6,363,278 1,203 0%
+Jun. 3,. 2022 
+6,362,075 1,471 0%
+Jun. 2,. 2022 
+6,360,604 1,604 0%
+Jun. 1,. 2022 
+6,359,000 1,726 0%
+May. 31,. 2022 
+6,357,274 1,627 0%
+May. 30,. 2022 
+6,355,647 1,116 0%
+May. 29,. 2022 
+6,354,531 1,089 0%
+May. 28,. 2022 
+6,353,442 1,190 0%
+May. 27,. 2022 
+6,352,252 1,564 0%
+May. 26,. 2022 
+6,350,688 1,594 0%
+May. 25,. 2022 
+6,349,094 1,802 0%
+May. 24,. 2022 
+6,347,292 1,790 0%
+May. 23,. 2022 
+6,345,502 1,183 0%
+May. 22,. 2022 
+6,344,319 1,065 0%
+May. 21,. 2022 
+6,343,254 1,361 0%
+May. 20,. 2022 
+6,341,893 1,611 0%
+May. 19,. 2022 
+6,340,282 1,712 0%
+May. 18,. 2022 
+6,338,570 1,961 0%
+May. 17,. 2022 
+6,336,609 1,947 0%
+May. 16,. 2022 
+6,334,662 1,350 0%
+May. 15,. 2022 
+6,333,312 1,260 0%
+May. 14,. 2022 
+6,332,052 1,420 0%
+May. 13,. 2022 
+6,330,632 1,990 0%
+May. 12,. 2022 
+6,328,642 1,868 0%
+May. 11,. 2022 
+6,326,774 2,110 0%
+May. 10,. 2022 
+6,324,664 1,986 0%
+May. 9,. 2022 
+6,322,678 1,343 0%
+May. 8,. 2022 
+6,321,335 1,269 0%
+May. 7,. 2022 
+6,320,066 1,516 0%
+May. 6,. 2022 
+6,318,550 1,999 0%
+May. 5,. 2022 
+6,316,551 2,089 0%
+May. 4,. 2022 
+6,314,462 2,142 0%
+May. 3,. 2022 
+6,312,320 2,006 0%
+May. 2,. 2022 
+6,310,314 1,785 0%
+May. 1,. 2022 
+6,308,529 1,519 0%
+Apr. 30,. 2022 
+6,307,010 1,906 0%
+Apr. 29,. 2022 
+6,305,104 2,436 0%
+Apr. 28,. 2022 
+6,302,668 2,559 0%
+Apr. 27,. 2022 
+6,300,109 2,804 0%
+Apr. 26,. 2022 
+6,297,305 2,655 0%
+Apr. 25,. 2022 
+6,294,650 2,117 0%
+Apr. 24,. 2022 
+6,292,533 1,742 0%
+Apr. 23,. 2022 
+6,290,791 2,163 0%
+Apr. 22,. 2022 
+6,288,628 2,590 0%
+Apr. 21,. 2022 
+6,286,038 3,027 0%
+Apr. 20,. 2022 
+6,283,011 3,176 0%
+Apr. 19,. 2022 
+6,279,835 2,691 0%
+Apr. 18,. 2022 
+6,277,144 1,850 0%
+Apr. 17,. 2022 
+6,275,294 1,838 0%
+Apr. 16,. 2022 
+6,273,456 2,265 0%
+Apr. 15,. 2022 
+6,271,191 2,794 0%
+Apr. 14,. 2022 
+6,268,397 3,212 0%
+Apr. 13,. 2022 
+6,265,185 3,221 0%
+Apr. 12,. 2022 
+6,261,964 3,237 0%
+Apr. 11,. 2022 
+6,258,727 2,503 0%
+Apr. 10,. 2022 
+6,256,224 2,350 0%
+Apr. 9,. 2022 
+6,253,874 3,057 0%
+Apr. 8,. 2022 
+6,250,817 3,771 0%
+Apr. 7,. 2022 
+6,247,046 3,891 0%
+Apr. 6,. 2022 
+6,243,155 3,872 0%
+Apr. 5,. 2022 
+6,239,283 3,709 0%
+Apr. 4,. 2022 
+6,235,574 2,953 0%
+Apr. 3,. 2022 
+6,232,621 2,689 0%
+Apr. 2,. 2022 
+6,229,932 3,557 0%
+Apr. 1,. 2022 
+6,226,375 3,959 0%
+Mar. 31,. 2022 
+6,222,416 4,367 0%
+Mar. 30,. 2022 
+6,218,049 4,559 0%
+Mar. 29,. 2022 
+6,213,490 4,041 0%
+Mar. 28,. 2022 
+6,209,449 3,256 0%
+Mar. 27,. 2022 
+6,206,193 3,110 0%
+Mar. 26,. 2022 
+6,203,083 3,763 0%
+Mar. 25,. 2022 
+6,199,320 4,792 0%
+Mar. 24,. 2022 
+6,194,528 5,198 0%
+Mar. 23,. 2022 
+6,189,330 4,967 0%
+Mar. 22,. 2022 
+6,184,363 5,044 0%
+Mar. 21,. 2022 
+6,179,319 4,011 0%
+Mar. 20,. 2022 
+6,175,308 3,820 0%
+Mar. 19,. 2022 
+6,171,488 4,725 0%
+Mar. 18,. 2022 
+6,166,763 5,633 0%
+Mar. 17,. 2022 
+6,161,130 6,508 0%
+Mar. 16,. 2022 
+6,154,622 6,019 0%
+Mar. 15,. 2022 
+6,148,603 5,623 0%
+Mar. 14,. 2022 
+6,142,980 4,557 0%
+Mar. 13,. 2022 
+6,138,423 4,635 0%
+Mar. 12,. 2022 
+6,133,788 5,760 0%
+Mar. 11,. 2022 
+6,128,028 6,147 0%
+Mar. 10,. 2022 
+6,121,881 7,174 0%
+Mar. 9,. 2022 
+6,114,707 7,124 0%
+Mar. 8,. 2022 
+6,107,583 7,200 0%
+Mar. 7,. 2022 
+6,100,383 5,191 0%
+Mar. 6,. 2022 
+6,095,192 5,170 0%
+Mar. 5,. 2022 
+6,090,022 7,017 0%
+Mar. 4,. 2022 
+6,083,005 8,519 0%
+Mar. 3,. 2022 
+6,074,486 8,137 0%
+Mar. 2,. 2022 
+6,066,349 7,890 0%
+Mar. 1,. 2022 
+6,058,459 7,802 0%
+Feb. 28,. 2022 
+6,050,657 6,620 0%
+Feb. 27,. 2022 
+6,044,037 6,117 0%
+Feb. 26,. 2022 
+6,037,920 7,804 0%
+Feb. 25,. 2022 
+6,030,116 8,894 0%
+Feb. 24,. 2022 
+6,021,222 10,498 0%
+Feb. 23,. 2022 
+6,010,724 10,683 0%
+Feb. 22,. 2022 
+6,000,041 9,438 0%
+Feb. 21,. 2022 
+5,990,603 7,412 0%
+Feb. 20,. 2022 
+5,983,191 6,944 0%
+Feb. 19,. 2022 
+5,976,247 9,746 0%
+Feb. 18,. 2022 
+5,966,501 11,016 0%
+Feb. 17,. 2022 
+5,955,485 12,149 0%
+Feb. 16,. 2022 
+5,943,336 11,727 0%
+Feb. 15,. 2022 
+5,931,609 11,008 0%
+Feb. 14,. 2022 
+5,920,601 8,541 0%
+Feb. 13,. 2022 
+5,912,060 7,580 0%
+Feb. 12,. 2022 
+5,904,480 9,929 0%
+Feb. 11,. 2022 
+5,894,551 11,975 0%
+Feb. 10,. 2022 
+5,882,576 12,124 0%
+Feb. 9,. 2022 
+5,870,452 12,570 0%
+Feb. 8,. 2022 
+5,857,882 13,163 0%
+Feb. 7,. 2022 
+5,844,719 9,359 0%
+Feb. 6,. 2022 
+5,835,360 8,299 0%
+Feb. 5,. 2022 
+5,827,061 9,800 0%
+Feb. 4,. 2022 
+5,817,261 12,185 0%
+Feb. 3,. 2022 
+5,805,076 12,200 0%
+Feb. 2,. 2022 
+5,792,876 12,503 0%
+Feb. 1,. 2022 
+5,780,373 12,468 0%
+Jan. 31,. 2022 
+5,767,905 9,108 0%
+Jan. 30,. 2022 
+5,758,797 7,765 0%
+Jan. 29,. 2022 
+5,751,032 9,432 0%
+Jan. 28,. 2022 
+5,741,600 11,240 0%
+Jan. 27,. 2022 
+5,730,360 11,006 0%
+Jan. 26,. 2022 
+5,719,354 11,020 0%
+Jan. 25,. 2022 
+5,708,334 10,593 0%
+Jan. 24,. 2022 
+5,697,741 7,737 0%
+Jan. 23,. 2022 
+5,690,004 6,757 0%
+Jan. 22,. 2022 
+5,683,247 7,774 0%
+Jan. 21,. 2022 
+5,675,473 9,487 0%
+Jan. 20,. 2022 
+5,665,986 9,994 0%
+Jan. 19,. 2022 
+5,655,992 9,547 0%
+Jan. 18,. 2022 
+5,646,445 8,792 0%
+Jan. 17,. 2022 
+5,637,653 6,711 0%
+Jan. 16,. 2022 
+5,630,942 6,002 0%
+Jan. 15,. 2022 
+5,624,940 7,150 0%
+Jan. 14,. 2022 
+5,617,790 8,338 0%
+Jan. 13,. 2022 
+5,609,452 8,469 0%
+Jan. 12,. 2022 
+5,600,983 8,683 0%
+Jan. 11,. 2022 
+5,592,300 8,683 0%
+Jan. 10,. 2022 
+5,583,617 6,085 0%
+Jan. 9,. 2022 
+5,577,532 4,921 0%
+Jan. 8,. 2022 
+5,572,611 6,265 0%
+Jan. 7,. 2022 
+5,566,346 7,089 0%
+Jan. 6,. 2022 
+5,559,257 7,662 0%
+Jan. 5,. 2022 
+5,551,595 7,558 0%
+Jan. 4,. 2022 
+5,544,037 7,673 0%
+Jan. 3,. 2022 
+5,536,364 5,230 0%
+Jan. 2,. 2022 
+5,531,134 4,126 0%
+Jan. 1,. 2022 
+5,527,008 5,074 0%
+Dec. 31,. 2021 
+5,521,934 6,578 0%
+Dec. 30,. 2021 
+5,515,356 7,408 0%
+Dec. 29,. 2021 
+5,507,948 7,701 0%
+Dec. 28,. 2021 
+5,500,247 7,286 0%
+Dec. 27,. 2021 
+5,492,961 5,542 0%
+Dec. 26,. 2021 
+5,487,419 4,310 0%
+Dec. 25,. 2021 
+5,483,109 5,037 0%
+Dec. 24,. 2021 
+5,478,072 6,555 0%
+Dec. 23,. 2021 
+5,471,517 7,360 0%
+Dec. 22,. 2021 
+5,464,157 7,904 0%
+Dec. 21,. 2021 
+5,456,253 7,591 0%
+Dec. 20,. 2021 
+5,448,662 6,110 0%
+Dec. 19,. 2021 
+5,442,552 4,832 0%
+Dec. 18,. 2021 
+5,437,720 6,253 0%
+Dec. 17,. 2021 
+5,431,467 7,583 0%
+Dec. 16,. 2021 
+5,423,884 7,666 0%
+Dec. 15,. 2021 
+5,416,218 8,332 0%
+Dec. 14,. 2021 
+5,407,886 7,817 0%
+Dec. 13,. 2021 
+5,400,069 6,091 0%
+Dec. 12,. 2021 
+5,393,978 5,201 0%
+Dec. 11,. 2021 
+5,388,777 6,621 0%
+Dec. 10,. 2021 
+5,382,156 8,183 0%
+Dec. 9,. 2021 
+5,373,973 8,403 0%
+Dec. 8,. 2021 
+5,365,570 8,235 0%
+Dec. 7,. 2021 
+5,357,335 8,152 0%
+Dec. 6,. 2021 
+5,349,183 6,335 0%
+Dec. 5,. 2021 
+5,342,848 5,135 0%
+Dec. 4,. 2021 
+5,337,713 6,721 0%
+Dec. 3,. 2021 
+5,330,992 8,037 0%
+Dec. 2,. 2021 
+5,322,955 7,960 0%
+Dec. 1,. 2021 
+5,314,995 8,515 0%
+Nov. 30,. 2021 
+5,306,480 8,193 0%
+Nov. 29,. 2021 
+5,298,287 6,345 0%
+Nov. 28,. 2021 
+5,291,942 5,316 0%
+Nov. 27,. 2021 
+5,286,626 6,730 0%
+Nov. 26,. 2021 
+5,279,896 7,451 0%
+Nov. 25,. 2021 
+5,272,445 7,816 0%
+Nov. 24,. 2021 
+5,264,629 8,308 0%
+Nov. 23,. 2021 
+5,256,321 8,441 0%
+Nov. 22,. 2021 
+5,247,880 6,346 0%
+Nov. 21,. 2021 
+5,241,534 5,315 0%
+Nov. 20,. 2021 
+5,236,219 6,636 0%
+Nov. 19,. 2021 
+5,229,583 7,906 0%
+Nov. 18,. 2021 
+5,221,677 8,307 0%
+Nov. 17,. 2021 
+5,213,370 8,527 0%
+Nov. 16,. 2021 
+5,204,843 7,734 0%
+Nov. 15,. 2021 
+5,197,109 5,969 0%
+Nov. 14,. 2021 
+5,191,140 5,465 0%
+Nov. 13,. 2021 
+5,185,675 6,733 0%
+Nov. 12,. 2021 
+5,178,942 7,999 0%
+Nov. 11,. 2021 
+5,170,943 7,668 0%
+Nov. 10,. 2021 
+5,163,275 8,387 0%
+Nov. 9,. 2021 
+5,154,888 7,830 0%
+Nov. 8,. 2021 
+5,147,058 6,178 0%
+Nov. 7,. 2021 
+5,140,880 5,501 0%
+Nov. 6,. 2021 
+5,135,379 7,052 0%
+Nov. 5,. 2021 
+5,128,327 7,833 0%
+Nov. 4,. 2021 
+5,120,494 7,768 0%
+Nov. 3,. 2021 
+5,112,726 7,877 0%
+Nov. 2,. 2021 
+5,104,849 7,235 0%
+Nov. 1,. 2021 
+5,097,614 6,012 0%
+Oct. 31,. 2021 
+5,091,602 5,489 0%
+Oct. 30,. 2021 
+5,086,113 6,869 0%
+Oct. 29,. 2021 
+5,079,244 7,848 0%
+Oct. 28,. 2021 
+5,071,396 8,294 0%
+Oct. 27,. 2021 
+5,063,102 8,864 0%
+Oct. 26,. 2021 
+5,054,238 7,838 0%
+Oct. 25,. 2021 
+5,046,400 5,935 0%
+Oct. 24,. 2021 
+5,040,465 5,696 0%
+Oct. 23,. 2021 
+5,034,769 6,616 0%
+Oct. 22,. 2021 
+5,028,153 7,921 0%
+Oct. 21,. 2021 
+5,020,232 7,744 0%
+Oct. 20,. 2021 
+5,012,488 7,401 0%
+Oct. 19,. 2021 
+5,005,087 7,361 0%
+Oct. 18,. 2021 
+4,997,726 5,434 0%
+Oct. 17,. 2021 
+4,992,292 5,352 0%
+Oct. 16,. 2021 
+4,986,940 6,429 0%
+Oct. 15,. 2021 
+4,980,511 7,240 0%
+Oct. 14,. 2021 
+4,973,271 7,879 0%
+Oct. 13,. 2021 
+4,965,392 7,624 0%
+Oct. 12,. 2021 
+4,957,768 7,066 0%
+Oct. 11,. 2021 
+4,950,702 5,390 0%
+Oct. 10,. 2021 
+4,945,312 5,418 0%
+Oct. 9,. 2021 
+4,939,894 6,576 0%
+Oct. 8,. 2021 
+4,933,318 7,924 0%
+Oct. 7,. 2021 
+4,925,394 8,080 0%
+Oct. 6,. 2021 
+4,917,314 8,488 0%
+Oct. 5,. 2021 
+4,908,826 7,800 0%
+Oct. 4,. 2021 
+4,901,026 5,713 0%
+Oct. 3,. 2021 
+4,895,313 5,836 0%
+Oct. 2,. 2021 
+4,889,477 6,889 0%
+Oct. 1,. 2021 
+4,882,588 7,757 0%
+Sep. 30,. 2021 
+4,874,831 8,304 0%
+Sep. 29,. 2021 
+4,866,527 9,132 0%
+Sep. 28,. 2021 
+4,857,395 8,684 0%
+Sep. 27,. 2021 
+4,848,711 6,343 0%
+Sep. 26,. 2021 
+4,842,368 6,262 0%
+Sep. 25,. 2021 
+4,836,106 7,251 0%
+Sep. 24,. 2021 
+4,828,855 8,816 0%
+Sep. 23,. 2021 
+4,820,039 9,240 0%
+Sep. 22,. 2021 
+4,810,799 9,492 0%
+Sep. 21,. 2021 
+4,801,307 8,792 0%
+Sep. 20,. 2021 
+4,792,515 6,698 0%
+Sep. 19,. 2021 
+4,785,817 7,086 0%
+Sep. 18,. 2021 
+4,778,731 8,118 0%
+Sep. 17,. 2021 
+4,770,613 8,869 0%
+Sep. 16,. 2021 
+4,761,744 9,922 0%
+Sep. 15,. 2021 
+4,751,822 10,703 0%
+Sep. 14,. 2021 
+4,741,119 9,583 0%
+Sep. 13,. 2021 
+4,731,536 7,609 0%
+Sep. 12,. 2021 
+4,723,927 7,653 0%
+Sep. 11,. 2021 
+4,716,274 9,147 0%
+Sep. 10,. 2021 
+4,707,127 9,857 0%
+Sep. 9,. 2021 
+4,697,270 10,285 0%
+Sep. 8,. 2021 
+4,686,985 10,267 0%
+Sep. 7,. 2021 
+4,676,718 9,486 0%
+Sep. 6,. 2021 
+4,667,232 7,984 0%
+Sep. 5,. 2021 
+4,659,248 8,089 0%
+Sep. 4,. 2021 
+4,651,159 9,222 0%
+Sep. 3,. 2021 
+4,641,937 10,634 0%
+Sep. 2,. 2021 
+4,631,303 11,316 0%
+Sep. 1,. 2021 
+4,619,987 10,531 0%
+Aug. 31,. 2021 
+4,609,456 10,483 0%
+Aug. 30,. 2021 
+4,598,973 8,642 0%
+Aug. 29,. 2021 
+4,590,331 8,725 0%
+Aug. 28,. 2021 
+4,581,606 10,056 0%
+Aug. 27,. 2021 
+4,571,550 10,724 0%
+Aug. 26,. 2021 
+4,560,826 11,512 0%
+Aug. 25,. 2021 
+4,549,314 12,010 0%
+Aug. 24,. 2021 
+4,537,304 11,176 0%
+Aug. 23,. 2021 
+4,526,128 8,384 0%
+Aug. 22,. 2021 
+4,517,744 9,136 0%
+Aug. 21,. 2021 
+4,508,608 10,256 0%
+Aug. 20,. 2021 
+4,498,352 10,911 0%
+Aug. 19,. 2021 
+4,487,441 11,639 0%
+Aug. 18,. 2021 
+4,475,802 11,174 0%
+Aug. 17,. 2021 
+4,464,628 10,596 0%
+Aug. 16,. 2021 
+4,454,032 8,499 0%
+Aug. 15,. 2021 
+4,445,533 9,145 0%
+Aug. 14,. 2021 
+4,436,388 9,582 0%
+Aug. 13,. 2021 
+4,426,806 10,714 0%
+Aug. 12,. 2021 
+4,416,092 11,111 0%
+Aug. 11,. 2021 
+4,404,981 10,723 0%
+Aug. 10,. 2021 
+4,394,258 11,015 0%
+Aug. 9,. 2021 
+4,383,243 8,631 0%
+Aug. 8,. 2021 
+4,374,612 9,037 0%
+Aug. 7,. 2021 
+4,365,575 9,740 0%
+Aug. 6,. 2021 
+4,355,835 10,395 0%
+Aug. 5,. 2021 
+4,345,440 10,619 0%
+Aug. 4,. 2021 
+4,334,821 10,309 0%
+Aug. 3,. 2021 
+4,324,512 10,282 0%
+Aug. 2,. 2021 
+4,314,230 8,736 0%
+Aug. 1,. 2021 
+4,305,494 8,220 0%
+Jul. 31,. 2021 
+4,297,274 9,409 0%
+Jul. 30,. 2021 
+4,287,865 9,452 0%
+Jul. 29,. 2021 
+4,278,413 10,727 0%
+Jul. 28,. 2021 
+4,267,686 10,416 0%
+Jul. 27,. 2021 
+4,257,270 9,719 0%
+Jul. 26,. 2021 
+4,247,551 7,748 0%
+Jul. 25,. 2021 
+4,239,803 7,274 0%
+Jul. 24,. 2021 
+4,232,529 8,603 0%
+Jul. 23,. 2021 
+4,223,926 8,894 0%
+Jul. 22,. 2021 
+4,215,032 9,045 0%
+Jul. 21,. 2021 
+4,205,987 8,749 0%
+Jul. 20,. 2021 
+4,197,238 8,598 0%
+Jul. 19,. 2021 
+4,188,640 7,002 0%
+Jul. 18,. 2021 
+4,181,638 7,350 0%
+Jul. 17,. 2021 
+4,174,288 7,519 0%
+Jul. 16,. 2021 
+4,166,769 8,770 0%
+Jul. 15,. 2021 
+4,157,999 8,603 0%
+Jul. 14,. 2021 
+4,149,396 8,794 0%
+Jul. 13,. 2021 
+4,140,602 8,173 0%
+Jul. 12,. 2021 
+4,132,429 6,661 0%
+Jul. 11,. 2021 
+4,125,768 6,837 0%
+Jul. 10,. 2021 
+4,118,931 7,816 0%
+Jul. 9,. 2021 
+4,111,115 8,592 0%
+Jul. 8,. 2021 
+4,102,523 8,978 0%
+Jul. 7,. 2021 
+4,093,545 8,522 0%
+Jul. 6,. 2021 
+4,085,023 8,327 0%
+Jul. 5,. 2021 
+4,076,696 6,477 0%
+Jul. 4,. 2021 
+4,070,219 6,459 0%
+Jul. 3,. 2021 
+4,063,760 7,508 0%
+Jul. 2,. 2021 
+4,056,252 8,634 0%
+Jul. 1,. 2021 
+4,047,618 8,444 0%
+Jun. 30,. 2021 
+4,039,174 8,908 0%
+Jun. 29,. 2021 
+4,030,266 7,938 0%
+Jun. 28,. 2021 
+4,022,328 6,516 0%
+Jun. 27,. 2021 
+4,015,812 6,509 0%
+Jun. 26,. 2021 
+4,009,303 7,840 0%
+Jun. 25,. 2021 
+4,001,463 8,886 0%
+Jun. 24,. 2021 
+3,992,577 8,789 0%
+Jun. 23,. 2021 
+3,983,788 9,231 0%
+Jun. 22,. 2021 
+3,974,557 8,900 0%
+Jun. 21,. 2021 
+3,965,657 6,615 0%
+Jun. 20,. 2021 
+3,959,042 6,997 0%
+Jun. 19,. 2021 
+3,952,045 8,897 0%
+Jun. 18,. 2021 
+3,943,148 9,196 0%
+Jun. 17,. 2021 
+3,933,952 8,889 0%
+Jun. 16,. 2021 
+3,925,063 9,580 0%
+Jun. 15,. 2021 
+3,915,483 9,343 0%
+Jun. 14,. 2021 
+3,906,140 6,909 0%
+Jun. 13,. 2021 
+3,899,231 7,104 0%
+Jun. 12,. 2021 
+3,892,127 8,826 0%
+Jun. 11,. 2021 
+3,883,301 9,580 0%
+Jun. 10,. 2021 
+3,873,721 10,371 0%
+Jun. 9,. 2021 
+3,863,350 10,281 0%
+Jun. 8,. 2021 
+3,853,069 10,395 0%
+Jun. 7,. 2021 
+3,842,674 8,014 0%
+Jun. 6,. 2021 
+3,834,660 8,010 0%
+Jun. 5,. 2021 
+3,826,650 9,565 0%
+Jun. 4,. 2021 
+3,817,085 10,634 0%
+Jun. 3,. 2021 
+3,806,451 11,242 0%
+Jun. 2,. 2021 
+3,795,209 11,458 0%
+Jun. 1,. 2021 
+3,783,751 11,246 0%
+May. 31,. 2021 
+3,772,505 9,222 0%
+May. 30,. 2021 
+3,763,283 8,868 0%
+May. 29,. 2021 
+3,754,415 11,216 0%
+May. 28,. 2021 
+3,743,199 12,187 0%
+May. 27,. 2021 
+3,731,012 12,118 0%
+May. 26,. 2021 
+3,718,894 12,853 0%
+May. 25,. 2021 
+3,706,041 12,973 0%
+May. 24,. 2021 
+3,693,068 9,796 0%
+May. 23,. 2021 
+3,683,272 10,827 0%
+May. 22,. 2021 
+3,672,445 11,933 0%
+May. 21,. 2021 
+3,660,512 13,788 0%
+May. 20,. 2021 
+3,646,724 14,207 0%
+May. 19,. 2021 
+3,632,517 13,801 0%
+May. 18,. 2021 
+3,618,716 15,012 0%
+May. 17,. 2021 
+3,603,704 11,767 0%
+May. 16,. 2021 
+3,591,937 10,901 0%
+May. 15,. 2021 
+3,581,036 13,591 0%
+May. 14,. 2021 
+3,567,445 14,336 0%
+May. 13,. 2021 
+3,553,109 14,694 0%
+May. 12,. 2021 
+3,538,415 14,727 0%
+May. 11,. 2021 
+3,523,688 14,651 0%
+May. 10,. 2021 
+3,509,037 11,853 0%
+May. 9,. 2021 
+3,497,184 11,294 0%
+May. 8,. 2021 
+3,485,890 13,775 0%
+May. 7,. 2021 
+3,472,115 14,654 0%
+May. 6,. 2021 
+3,457,461 14,767 0%
+May. 5,. 2021 
+3,442,694 15,333 0%
+May. 4,. 2021 
+3,427,361 14,901 0%
+May. 3,. 2021 
+3,412,460 11,832 0%
+May. 2,. 2021 
+3,400,628 11,059 0%
+May. 1,. 2021 
+3,389,569 14,095 0%
+Apr. 30,. 2021 
+3,375,474 14,835 0%
+Apr. 29,. 2021 
+3,360,639 15,949 0%
+Apr. 28,. 2021 
+3,344,690 15,673 0%
+Apr. 27,. 2021 
+3,329,017 15,712 0%
+Apr. 26,. 2021 
+3,313,305 11,700 0%
+Apr. 25,. 2021 
+3,301,605 10,749 0%
+Apr. 24,. 2021 
+3,290,856 14,287 0%
+Apr. 23,. 2021 
+3,276,569 14,776 0%
+Apr. 22,. 2021 
+3,261,793 13,878 0%
+Apr. 21,. 2021 
+3,247,915 14,351 0%
+Apr. 20,. 2021 
+3,233,564 14,708 0%
+Apr. 19,. 2021 
+3,218,856 10,817 0%
+Apr. 18,. 2021 
+3,208,039 10,321 0%
+Apr. 17,. 2021 
+3,197,718 12,109 0%
+Apr. 16,. 2021 
+3,185,609 13,055 0%
+Apr. 15,. 2021 
+3,172,554 14,347 0%
+Apr. 14,. 2021 
+3,158,207 13,787 0%
+Apr. 13,. 2021 
+3,144,420 13,199 0%
+Apr. 12,. 2021 
+3,131,221 9,725 0%
+Apr. 11,. 2021 
+3,121,496 9,204 0%
+Apr. 10,. 2021 
+3,112,292 11,473 0%
+Apr. 9,. 2021 
+3,100,819 13,622 0%
+Apr. 8,. 2021 
+3,087,197 14,050 0%
+Apr. 7,. 2021 
+3,073,147 13,270 0%
+Apr. 6,. 2021 
+3,059,877 12,501 0%
+Apr. 5,. 2021 
+3,047,376 8,130 0%
+Apr. 4,. 2021 
+3,039,246 7,850 0%
+Apr. 3,. 2021 
+3,031,396 9,222 0%
+Apr. 2,. 2021 
+3,022,174 10,754 0%
+Apr. 1,. 2021 
+3,011,420 11,881 0%
+Mar. 31,. 2021 
+2,999,539 12,182 0%
+Mar. 30,. 2021 
+2,987,357 11,392 0%
+Mar. 29,. 2021 
+2,975,965 8,170 0%
+Mar. 28,. 2021 
+2,967,795 7,379 0%
+Mar. 27,. 2021 
+2,960,416 10,221 0%
+Mar. 26,. 2021 
+2,950,195 11,625 0%
+Mar. 25,. 2021 
+2,938,570 10,796 0%
+Mar. 24,. 2021 
+2,927,774 10,231 0%
+Mar. 23,. 2021 
+2,917,543 10,915 0%
+Mar. 22,. 2021 
+2,906,628 7,839 0%
+Mar. 21,. 2021 
+2,898,789 6,489 0%
+Mar. 20,. 2021 
+2,892,300 8,725 0%
+Mar. 19,. 2021 
+2,883,575 10,453 0%
+Mar. 18,. 2021 
+2,873,122 10,271 0%
+Mar. 17,. 2021 
+2,862,851 10,337 0%
+Mar. 16,. 2021 
+2,852,514 10,316 0%
+Mar. 15,. 2021 
+2,842,198 7,415 0%
+Mar. 14,. 2021 
+2,834,783 6,449 0%
+Mar. 13,. 2021 
+2,828,334 8,388 0%
+Mar. 12,. 2021 
+2,819,946 9,585 0%
+Mar. 11,. 2021 
+2,810,361 9,716 0%
+Mar. 10,. 2021 
+2,800,645 9,979 0%
+Mar. 9,. 2021 
+2,790,666 9,111 0%
+Mar. 8,. 2021 
+2,781,555 7,334 0%
+Mar. 7,. 2021 
+2,774,221 6,317 0%
+Mar. 6,. 2021 
+2,767,904 8,160 0%
+Mar. 5,. 2021 
+2,759,744 9,724 0%
+Mar. 4,. 2021 
+2,750,020 10,095 0%
+Mar. 3,. 2021 
+2,739,925 10,423 0%
+Mar. 2,. 2021 
+2,729,502 9,807 0%
+Mar. 1,. 2021 
+2,719,695 7,524 0%
+Feb. 28,. 2021 
+2,712,171 6,848 0%
+Feb. 27,. 2021 
+2,705,323 8,554 0%
+Feb. 26,. 2021 
+2,696,769 9,766 0%
+Feb. 25,. 2021 
+2,687,003 10,585 0%
+Feb. 24,. 2021 
+2,676,418 10,242 0%
+Feb. 23,. 2021 
+2,666,176 10,626 0%
+Feb. 22,. 2021 
+2,655,550 7,689 0%
+Feb. 21,. 2021 
+2,647,861 7,226 0%
+Feb. 20,. 2021 
+2,640,635 9,029 0%
+Feb. 19,. 2021 
+2,631,606 10,955 0%
+Feb. 18,. 2021 
+2,620,651 11,321 0%
+Feb. 17,. 2021 
+2,609,330 10,610 0%
+Feb. 16,. 2021 
+2,598,720 10,297 0%
+Feb. 15,. 2021 
+2,588,423 8,042 0%
+Feb. 14,. 2021 
+2,580,381 7,782 0%
+Feb. 13,. 2021 
+2,572,599 10,563 0%
+Feb. 12,. 2021 
+2,562,036 11,829 0%
+Feb. 11,. 2021 
+2,550,207 13,141 1%
+Feb. 10,. 2021 
+2,537,066 12,986 1%
+Feb. 9,. 2021 
+2,524,080 13,273 1%
+Feb. 8,. 2021 
+2,510,807 10,063 0%
+Feb. 7,. 2021 
+2,500,744 8,784 0%
+Feb. 6,. 2021 
+2,491,960 11,699 0%
+Feb. 5,. 2021 
+2,480,261 13,677 1%
+Feb. 4,. 2021 
+2,466,584 14,149 1%
+Feb. 3,. 2021 
+2,452,435 14,392 1%
+Feb. 2,. 2021 
+2,438,043 14,931 1%
+Feb. 1,. 2021 
+2,423,112 11,299 0%
+Jan. 31,. 2021 
+2,411,813 10,576 0%
+Jan. 30,. 2021 
+2,401,237 13,333 1%
+Jan. 29,. 2021 
+2,387,904 15,066 1%
+Jan. 28,. 2021 
+2,372,838 16,372 1%
+Jan. 27,. 2021 
+2,356,466 16,670 1%
+Jan. 26,. 2021 
+2,339,796 16,467 1%
+Jan. 25,. 2021 
+2,323,329 12,153 1%
+Jan. 24,. 2021 
+2,311,176 11,381 0%
+Jan. 23,. 2021 
+2,299,795 14,607 1%
+Jan. 22,. 2021 
+2,285,188 15,956 1%
+Jan. 21,. 2021 
+2,269,232 17,049 1%
+Jan. 20,. 2021 
+2,252,183 16,836 1%
+Jan. 19,. 2021 
+2,235,347 16,189 1%
+Jan. 18,. 2021 
+2,219,158 11,903 1%
+Jan. 17,. 2021 
+2,207,255 11,107 1%
+Jan. 16,. 2021 
+2,196,148 14,168 1%
+Jan. 15,. 2021 
+2,181,980 15,450 1%
+Jan. 14,. 2021 
+2,166,530 16,091 1%
+Jan. 13,. 2021 
+2,150,439 16,097 1%
+Jan. 12,. 2021 
+2,134,342 16,590 1%
+Jan. 11,. 2021 
+2,117,752 11,804 1%
+Jan. 10,. 2021 
+2,105,948 10,703 1%
+Jan. 9,. 2021 
+2,095,245 13,190 1%
+Jan. 8,. 2021 
+2,082,055 15,189 1%
+Jan. 7,. 2021 
+2,066,866 14,998 1%
+Jan. 6,. 2021 
+2,051,868 14,660 1%
+Jan. 5,. 2021 
+2,037,208 15,048 1%
+Jan. 4,. 2021 
+2,022,160 11,168 1%
+Jan. 3,. 2021 
+2,010,992 9,306 0%
+Jan. 2,. 2021 
+2,001,686 9,964 1%
+Jan. 1,. 2021 
+1,991,722 11,161 1%
+Dec. 31,. 2020 
+1,980,561 14,203 1%
+Dec. 30,. 2020 
+1,966,358 15,062 1%
+Dec. 29,. 2020 
+1,951,296 15,025 1%
+Dec. 28,. 2020 
+1,936,271 11,176 1%
+Dec. 27,. 2020 
+1,925,095 9,452 0%
+Dec. 26,. 2020 
+1,915,643 8,825 0%
+Dec. 25,. 2020 
+1,906,818 10,119 1%
+Dec. 24,. 2020 
+1,896,699 12,574 1%
+Dec. 23,. 2020 
+1,884,125 13,361 1%
+Dec. 22,. 2020 
+1,870,764 13,989 1%
+Dec. 21,. 2020 
+1,856,775 11,228 1%
+Dec. 20,. 2020 
+1,845,547 9,579 1%
+Dec. 19,. 2020 
+1,835,968 11,735 1%
+Dec. 18,. 2020 
+1,824,233 13,075 1%
+Dec. 17,. 2020 
+1,811,158 13,529 1%
+Dec. 16,. 2020 
+1,797,629 13,562 1%
+Dec. 15,. 2020 
+1,784,067 13,557 1%
+Dec. 14,. 2020 
+1,770,510 10,364 1%
+Dec. 13,. 2020 
+1,760,146 9,293 1%
+Dec. 12,. 2020 
+1,750,853 11,679 1%
+Dec. 11,. 2020 
+1,739,174 12,598 1%
+Dec. 10,. 2020 
+1,726,576 13,173 1%
+Dec. 9,. 2020 
+1,713,403 12,466 1%
+Dec. 8,. 2020 
+1,700,937 12,582 1%
+Dec. 7,. 2020 
+1,688,355 9,811 1%
+Dec. 6,. 2020 
+1,678,544 9,055 1%
+Dec. 5,. 2020 
+1,669,489 11,229 1%
+Dec. 4,. 2020 
+1,658,260 12,380 1%
+Dec. 3,. 2020 
+1,645,880 13,020 1%
+Dec. 2,. 2020 
+1,632,860 12,146 1%
+Dec. 1,. 2020 
+1,620,714 12,538 1%
+Nov. 30,. 2020 
+1,608,176 9,935 1%
+Nov. 29,. 2020 
+1,598,241 8,879 1%
+Nov. 28,. 2020 
+1,589,362 10,308 1%
+Nov. 27,. 2020 
+1,579,054 11,405 1%
+Nov. 26,. 2020 
+1,567,649 11,576 1%
+Nov. 25,. 2020 
+1,556,073 12,080 1%
+Nov. 24,. 2020 
+1,543,993 12,405 1%
+Nov. 23,. 2020 
+1,531,588 9,510 1%
+Nov. 22,. 2020 
+1,522,078 8,823 1%
+Nov. 21,. 2020 
+1,513,255 10,007 1%
+Nov. 20,. 2020 
+1,503,248 11,321 1%
+Nov. 19,. 2020 
+1,491,927 11,495 1%
+Nov. 18,. 2020 
+1,480,432 11,786 1%
+Nov. 17,. 2020 
+1,468,646 10,927 1%
+Nov. 16,. 2020 
+1,457,719 8,730 1%
+Nov. 15,. 2020 
+1,448,989 8,049 1%
+Nov. 14,. 2020 
+1,440,940 9,853 1%
+Nov. 13,. 2020 
+1,431,087 10,415 1%
+Nov. 12,. 2020 
+1,420,672 9,846 1%
+Nov. 11,. 2020 
+1,410,826 9,930 1%
+Nov. 10,. 2020 
+1,400,896 9,800 1%
+Nov. 9,. 2020 
+1,391,096 7,928 1%
+Nov. 8,. 2020 
+1,383,168 7,155 1%
+Nov. 7,. 2020 
+1,376,013 8,236 1%
+Nov. 6,. 2020 
+1,367,777 9,451 1%
+Nov. 5,. 2020 
+1,358,326 9,465 1%
+Nov. 4,. 2020 
+1,348,861 9,271 1%
+Nov. 3,. 2020 
+1,339,590 8,587 1%
+Nov. 2,. 2020 
+1,331,003 6,829 1%
+Nov. 1,. 2020 
+1,324,174 6,158 0%
+Oct. 31,. 2020 
+1,318,016 6,964 1%
+Oct. 30,. 2020 
+1,311,052 7,645 1%
+Oct. 29,. 2020 
+1,303,407 7,258 1%
+Oct. 28,. 2020 
+1,296,149 7,141 1%
+Oct. 27,. 2020 
+1,289,008 7,252 1%
+Oct. 26,. 2020 
+1,281,756 5,882 0%
+Oct. 25,. 2020 
+1,275,874 5,004 0%
+Oct. 24,. 2020 
+1,270,870 6,023 0%
+Oct. 23,. 2020 
+1,264,847 6,712 1%
+Oct. 22,. 2020 
+1,258,135 6,719 1%
+Oct. 21,. 2020 
+1,251,416 6,897 1%
+Oct. 20,. 2020 
+1,244,519 6,487 1%
+Oct. 19,. 2020 
+1,238,032 5,122 0%
+Oct. 18,. 2020 
+1,232,910 4,561 0%
+Oct. 17,. 2020 
+1,228,349 5,929 0%
+Oct. 16,. 2020 
+1,222,420 6,389 1%
+Oct. 15,. 2020 
+1,216,031 6,166 1%
+Oct. 14,. 2020 
+1,209,865 6,149 1%
+Oct. 13,. 2020 
+1,203,716 5,249 0%
+Oct. 12,. 2020 
+1,198,467 4,434 0%
+Oct. 11,. 2020 
+1,194,033 4,831 0%
+Oct. 10,. 2020 
+1,189,202 5,397 0%
+Oct. 9,. 2020 
+1,183,805 6,003 1%
+Oct. 8,. 2020 
+1,177,802 6,587 1%
+Oct. 7,. 2020 
+1,171,215 6,035 1%
+Oct. 6,. 2020 
+1,165,180 5,913 1%
+Oct. 5,. 2020 
+1,159,267 4,829 0%
+Oct. 4,. 2020 
+1,154,438 4,454 0%
+Oct. 3,. 2020 
+1,149,984 5,057 0%
+Oct. 2,. 2020 
+1,144,927 5,691 0%
+Oct. 1,. 2020 
+1,139,236 5,613 0%
+Sep. 30,. 2020 
+1,133,623 5,696 1%
+Sep. 29,. 2020 
+1,127,927 5,740 1%
+Sep. 28,. 2020 
+1,122,187 4,092 0%
+Sep. 27,. 2020 
+1,118,095 4,244 0%
+Sep. 26,. 2020 
+1,113,851 5,283 0%
+Sep. 25,. 2020 
+1,108,568 5,576 1%
+Sep. 24,. 2020 
+1,102,992 5,520 1%
+Sep. 23,. 2020 
+1,097,472 5,844 1%
+Sep. 22,. 2020 
+1,091,628 5,752 1%
+Sep. 21,. 2020 
+1,085,876 4,308 0%
+Sep. 20,. 2020 
+1,081,568 4,385 0%
+Sep. 19,. 2020 
+1,077,183 5,223 0%
+Sep. 18,. 2020 
+1,071,960 5,823 1%
+Sep. 17,. 2020 
+1,066,137 5,777 1%
+Sep. 16,. 2020 
+1,060,360 6,063 1%
+Sep. 15,. 2020 
+1,054,297 6,283 1%
+Sep. 14,. 2020 
+1,048,014 4,849 0%
+Sep. 13,. 2020 
+1,043,165 4,458 0%
+Sep. 12,. 2020 
+1,038,707 5,333 1%
+Sep. 11,. 2020 
+1,033,374 5,906 1%
+Sep. 10,. 2020 
+1,027,468 5,974 1%
+Sep. 9,. 2020 
+1,021,494 6,108 1%
+Sep. 8,. 2020 
+1,015,386 5,148 1%
+Sep. 7,. 2020 
+1,010,238 4,633 0%
+Sep. 6,. 2020 
+1,005,605 4,725 0%
+Sep. 5,. 2020 
+1,000,880 5,362 1%
+Sep. 4,. 2020 
+995,518 6,163 1%
+Sep. 3,. 2020 
+989,355 6,222 1%
+Sep. 2,. 2020 
+983,133 6,553 1%
+Sep. 1,. 2020 
+976,580 6,459 1%
+Aug. 31,. 2020 
+970,121 4,947 1%
+Aug. 30,. 2020 
+965,174 4,829 1%
+Aug. 29,. 2020 
+960,345 5,714 1%
+Aug. 28,. 2020 
+954,631 6,264 1%
+Aug. 27,. 2020 
+948,367 6,566 1%
+Aug. 26,. 2020 
+941,801 6,648 1%
+Aug. 25,. 2020 
+935,153 6,720 1%
+Aug. 24,. 2020 
+928,433 5,144 1%
+Aug. 23,. 2020 
+923,289 5,189 1%
+Aug. 22,. 2020 
+918,100 6,104 1%
+Aug. 21,. 2020 
+911,996 6,656 1%
+Aug. 20,. 2020 
+905,340 6,723 1%
+Aug. 19,. 2020 
+898,617 6,934 1%
+Aug. 18,. 2020 
+891,683 6,892 1%
+Aug. 17,. 2020 
+884,791 5,293 1%
+Aug. 16,. 2020 
+879,498 5,265 1%
+Aug. 15,. 2020 
+874,233 6,115 1%
+Aug. 14,. 2020 
+868,118 6,582 1%
+Aug. 13,. 2020 
+861,536 7,049 1%
+Aug. 12,. 2020 
+854,487 7,010 1%
+Aug. 11,. 2020 
+847,477 6,749 1%
+Aug. 10,. 2020 
+840,728 5,439 1%
+Aug. 9,. 2020 
+835,289 5,559 1%
+Aug. 8,. 2020 
+829,730 6,117 1%
+Aug. 7,. 2020 
+823,613 7,030 1%
+Aug. 6,. 2020 
+816,583 7,052 1%
+Aug. 5,. 2020 
+809,531 7,496 1%
+Aug. 4,. 2020 
+802,035 6,916 1%
+Aug. 3,. 2020 
+795,119 5,567 1%
+Aug. 2,. 2020 
+789,552 5,168 1%
+Aug. 1,. 2020 
+784,384 6,284 1%
+Jul. 31,. 2020 
+778,100 6,875 1%
+Jul. 30,. 2020 
+771,225 7,056 1%
+Jul. 29,. 2020 
+764,169 7,244 1%
+Jul. 28,. 2020 
+756,925 6,577 1%
+Jul. 27,. 2020 
+750,348 5,443 1%
+Jul. 26,. 2020 
+744,905 5,256 1%
+Jul. 25,. 2020 
+739,649 6,403 1%
+Jul. 24,. 2020 
+733,246 6,892 1%
+Jul. 23,. 2020 
+726,354 6,989 1%
+Jul. 22,. 2020 
+719,365 7,615 1%
+Jul. 21,. 2020 
+711,750 6,782 1%
+Jul. 20,. 2020 
+704,968 5,238 1%
+Jul. 19,. 2020 
+699,730 5,229 1%
+Jul. 18,. 2020 
+694,501 5,850 1%
+Jul. 17,. 2020 
+688,651 6,363 1%
+Jul. 16,. 2020 
+682,288 6,681 1%
+Jul. 15,. 2020 
+675,607 6,387 1%
+Jul. 14,. 2020 
+669,220 6,392 1%
+Jul. 13,. 2020 
+662,828 4,936 1%
+Jul. 12,. 2020 
+657,892 5,176 1%
+Jul. 11,. 2020 
+652,716 5,708 1%
+Jul. 10,. 2020 
+647,008 6,030 1%
+Jul. 9,. 2020 
+640,978 6,157 1%
+Jul. 8,. 2020 
+634,821 5,952 1%
+Jul. 7,. 2020 
+628,869 6,235 1%
+Jul. 6,. 2020 
+622,634 4,705 1%
+Jul. 5,. 2020 
+617,929 4,470 1%
+Jul. 4,. 2020 
+613,459 5,363 1%
+Jul. 3,. 2020 
+608,096 5,800 1%
+Jul. 2,. 2020 
+602,296 5,724 1%
+Jul. 1,. 2020 
+596,572 5,506 1%
+Jun. 30,. 2020 
+591,066 5,827 1%
+Jun. 29,. 2020 
+585,239 4,818 1%
+Jun. 28,. 2020 
+580,421 4,401 1%
+Jun. 27,. 2020 
+576,020 5,258 1%
+Jun. 26,. 2020 
+570,762 5,453 1%
+Jun. 25,. 2020 
+565,309 5,642 1%
+Jun. 24,. 2020 
+559,667 5,568 1%
+Jun. 23,. 2020 
+554,099 5,800 1%
+Jun. 22,. 2020 
+548,299 4,204 1%
+Jun. 21,. 2020 
+544,095 4,657 1%
+Jun. 20,. 2020 
+539,438 5,141 1%
+Jun. 19,. 2020 
+534,297 5,879 1%
+Jun. 18,. 2020 
+528,418 5,929 1%
+Jun. 17,. 2020 
+522,489 5,990 1%
+Jun. 16,. 2020 
+516,499 7,444 1%
+Jun. 15,. 2020 
+509,055 4,742 1%
+Jun. 14,. 2020 
+504,313 4,556 1%
+Jun. 13,. 2020 
+499,757 5,223 1%
+Jun. 12,. 2020 
+494,534 5,457 1%
+Jun. 11,. 2020 
+489,077 5,709 1%
+Jun. 10,. 2020 
+483,368 5,868 1%
+Jun. 9,. 2020 
+477,500 5,479 1%
+Jun. 8,. 2020 
+472,021 4,441 1%
+Jun. 7,. 2020 
+467,580 4,816 1%
+Jun. 6,. 2020 
+462,764 5,000 1%
+Jun. 5,. 2020 
+457,764 5,285 1%
+Jun. 4,. 2020 
+452,479 5,670 1%
+Jun. 3,. 2020 
+446,809 5,569 1%
+Jun. 2,. 2020 
+441,240 5,542 1%
+Jun. 1,. 2020 
+435,698 4,473 1%
+May. 31,. 2020 
+431,225 4,242 1%
+May. 30,. 2020 
+426,983 4,969 1%
+May. 29,. 2020 
+422,014 5,392 1%
+May. 28,. 2020 
+416,622 5,222 1%
+May. 27,. 2020 
+411,400 5,544 1%
+May. 26,. 2020 
+405,856 4,938 1%
+May. 25,. 2020 
+400,918 4,666 1%
+May. 24,. 2020 
+396,252 4,167 1%
+May. 23,. 2020 
+392,085 4,948 1%
+May. 22,. 2020 
+387,137 5,566 1%
+May. 21,. 2020 
+381,571 5,837 2%
+May. 20,. 2020 
+375,734 5,419 1%
+May. 19,. 2020 
+370,315 5,889 2%
+May. 18,. 2020 
+364,426 4,771 1%
+May. 17,. 2020 
+359,655 4,579 1%
+May. 16,. 2020 
+355,076 5,064 1%
+May. 15,. 2020 
+350,012 5,966 2%
+May. 14,. 2020 
+344,046 6,019 2%
+May. 13,. 2020 
+338,027 5,824 2%
+May. 12,. 2020 
+332,203 6,279 2%
+May. 11,. 2020 
+325,924 5,088 2%
+May. 10,. 2020 
+320,836 5,533 2%
+May. 9,. 2020 
+315,303 5,827 2%
+May. 8,. 2020 
+309,476 6,227 2%
+May. 7,. 2020 
+303,249 6,431 2%
+May. 6,. 2020 
+296,818 7,465 3%
+May. 5,. 2020 
+289,353 6,397 2%
+May. 4,. 2020 
+282,956 5,839 2%
+May. 3,. 2020 
+277,117 5,145 2%
+May. 2,. 2020 
+271,972 6,642 3%
+May. 1,. 2020 
+265,330 6,760 3%
+Apr. 30,. 2020 
+258,570 6,501 3%
+Apr. 29,. 2020 
+252,069 7,295 3%
+Apr. 28,. 2020 
+244,774 7,381 3%
+Apr. 27,. 2020 
+237,393 5,982 3%
+Apr. 26,. 2020 
+231,411 5,277 2%
+Apr. 25,. 2020 
+226,134 6,956 3%
+Apr. 24,. 2020 
+219,178 6,895 3%
+Apr. 23,. 2020 
+212,283 7,615 4%
+Apr. 22,. 2020 
+204,668 7,346 4%
+Apr. 21,. 2020 
+197,322 7,603 4%
+Apr. 20,. 2020 
+189,719 6,877 4%
+Apr. 19,. 2020 
+182,842 6,244 4%
+Apr. 18,. 2020 
+176,598 7,119 4%
+Apr. 17,. 2020 
+169,479 9,389 6%
+Apr. 16,. 2020 
+160,090 7,420 5%
+Apr. 15,. 2020 
+152,670 8,927 6%
+Apr. 14,. 2020 
+143,743 7,815 6%
+Apr. 13,. 2020 
+135,928 6,753 5%
+Apr. 12,. 2020 
+129,175 6,733 5%
+Apr. 11,. 2020 
+122,442 7,012 6%
+Apr. 10,. 2020 
+115,430 7,644 7%
+Apr. 9,. 2020 
+107,786 8,233 8%
+Apr. 8,. 2020 
+99,553 7,280 8%
+Apr. 7,. 2020 
+92,273 7,784 9%
+Apr. 6,. 2020 
+84,489 6,628 9%
+Apr. 5,. 2020 
+77,861 5,832 8%
+Apr. 4,. 2020 
+72,029 6,629 10%
+Apr. 3,. 2020 
+65,400 6,538 11%
+Apr. 2,. 2020 
+58,862 6,548 13%
+Apr. 1,. 2020 
+52,314 5,529 12%
+Mar. 31,. 2020 
+46,785 4,986 12%
+Mar. 30,. 2020 
+41,799 4,520 12%
+Mar. 29,. 2020 
+37,279 3,769 11%
+Mar. 28,. 2020 
+33,510 3,984 13%
+Mar. 27,. 2020 
+29,526 3,631 14%
+Mar. 26,. 2020 
+25,895 3,209 14%
+Mar. 25,. 2020 
+22,686 2,657 13%
+Mar. 24,. 2020 
+20,029 2,632 15%
+Mar. 23,. 2020 
+17,397 2,079 14%
+Mar. 22,. 2020 
+15,318 1,830 14%
+Mar. 21,. 2020 
+13,488 1,722 15%
+Mar. 20,. 2020 
+11,766 1,448 14%
+Mar. 19,. 2020 
+10,318 1,097 12%
+Mar. 18,. 2020 
+9,221 1,033 13%
+Mar. 17,. 2020 
+8,188 876 12%
+Mar. 16,. 2020 
+7,312 677 10%
+Mar. 15,. 2020 
+6,635 712 12%
+Mar. 14,. 2020 
+5,923 425 8%
+Mar. 13,. 2020 
+5,498 463 9%
+Mar. 12,. 2020 
+5,035 386 8%
+Mar. 11,. 2020 
+4,649 333 8%
+Mar. 10,. 2020 
+4,316 276 7%
+Mar. 9,. 2020 
+4,040 198 5%
+Mar. 8,. 2020 
+3,842 227 6%
+Mar. 7,. 2020 
+3,615 107 3%
+Mar. 6,. 2020 
+3,508 106 3%
+Mar. 5,. 2020 
+3,402 102 3%
+Mar. 4,. 2020 
+3,300 83 3%
+Mar. 3,. 2020 
+3,217 85 3%
+Mar. 2,. 2020 
+3,132 66 2%
+Mar. 1,. 2020 
+3,066 74 2%
+Feb. 29,. 2020 
+2,992 54 2%
+Feb. 28,. 2020 
+2,938 65 2%
+Feb. 27,. 2020 
+2,873 58 2%
+Feb. 26,. 2020 
+2,815 36 1%
+Feb. 25,. 2020 
+2,779 64 2%
+Feb. 24,. 2020 
+2,715 81 3%
+Feb. 23,. 2020 
+2,634 159 6%
+Feb. 22,. 2020 
+2,475 100 4%
+Feb. 21,. 2020 
+2,375 113 5%
+Feb. 20,. 2020 
+2,262 121 6%
+Feb. 19,. 2020 
+2,141 117 6%
+Feb. 18,. 2020 
+2,024 136 7%
+Feb. 17,. 2020 
+1,888 98 5%
+Feb. 16,. 2020 
+1,790 106 6%
+Feb. 15,. 2020 
+1,684 142 9%
+Feb. 14,. 2020 
+1,542 143 10%
+Feb. 13,. 2020 
+1,399 122 10%
+Feb. 12,. 2020 
+1,277 146 13%
+Feb. 11,. 2020 
+1,131 97 9%
+Feb. 10,. 2020 
+1,034 108 12%
+Feb. 9,. 2020 
+926 98 12%
+Feb. 8,. 2020 
+828 94 13%
+Feb. 7,. 2020 
+734 86 13%
+Feb. 6,. 2020 
+648 73 13%
+Feb. 5,. 2020 
+575 73 15%
+Feb. 4,. 2020 
+502 66 15%
+Feb. 3,. 2020 
+436 65 18%
+Feb. 2,. 2020 
+371 58 19%
+Feb. 1,. 2020 
+313 45 17%
+Jan. 31,. 2020 
+268 47 21%
+Jan. 30,. 2020 
+221 44 25%
+Jan. 29,. 2020 
+177 40 29%
+Jan. 28,. 2020 
+137 27 25%
+Jan. 27,. 2020 
+110 26 31%
+Jan. 26,. 2020 
+84 24 40%
+Jan. 25,. 2020 
+60 15 33%
+Jan. 24,. 2020 
+45 19 73%
+Jan. 23,. 2020 
+26 9 53%
+
+*Feb. 12: data resulting from the new diagnosis classification adopted by Hubei starting on Feb. 12
+Daily Deaths due to COVID-19
+Date Daily
+Deaths Change
+in Daily Change in
+Daily (%)
+Apr. 12,. 2024 
+57 30 111%
+Apr. 11,. 2024 
+27 -17 -39%
+Apr. 10,. 2024 
+44 -69 -61%
+Apr. 9,. 2024 
+113 85 304%
+Apr. 8,. 2024 
+28 -19 -40%
+Apr. 7,. 2024 
+47 0 0%
+Apr. 6,. 2024 
+47 -56 -54%
+Apr. 5,. 2024 
+103 55 115%
+Apr. 4,. 2024 
+48 -45 -48%
+Apr. 3,. 2024 
+93 -34 -27%
+Apr. 2,. 2024 
+127 80 170%
+Apr. 1,. 2024 
+47 -4 -8%
+Mar. 31,. 2024 
+51 -38 -43%
+Mar. 30,. 2024 
+89 -21 -19%
+Mar. 29,. 2024 
+110 -36 -25%
+Mar. 28,. 2024 
+146 51 54%
+Mar. 27,. 2024 
+95 -93 -49%
+Mar. 26,. 2024 
+188 86 84%
+Mar. 25,. 2024 
+102 -10 -9%
+Mar. 24,. 2024 
+112 -26 -19%
+Mar. 23,. 2024 
+138 -4 -3%
+Mar. 22,. 2024 
+142 -82 -37%
+Mar. 21,. 2024 
+224 47 27%
+Mar. 20,. 2024 
+177 -65 -27%
+Mar. 19,. 2024 
+242 94 64%
+Mar. 18,. 2024 
+148 -11 -7%
+Mar. 17,. 2024 
+159 -47 -23%
+Mar. 16,. 2024 
+206 -116 -36%
+Mar. 15,. 2024 
+322 108 50%
+Mar. 14,. 2024 
+214 -40 -16%
+Mar. 13,. 2024 
+254 -53 -17%
+Mar. 12,. 2024 
+307 71 30%
+Mar. 11,. 2024 
+236 95 67%
+Mar. 10,. 2024 
+141 28 25%
+Mar. 9,. 2024 
+113 -83 -42%
+Mar. 8,. 2024 
+196 49 33%
+Mar. 7,. 2024 
+147 -13 -8%
+Mar. 6,. 2024 
+160 -85 -35%
+Mar. 5,. 2024 
+245 104 74%
+Mar. 4,. 2024 
+141 -35 -20%
+Mar. 3,. 2024 
+176 0 0%
+Mar. 2,. 2024 
+176 26 17%
+Mar. 1,. 2024 
+150 -88 -37%
+Feb. 29,. 2024 
+238 -3 -1%
+Feb. 28,. 2024 
+241 -14 -5%
+Feb. 27,. 2024 
+255 83 48%
+Feb. 26,. 2024 
+172 6 4%
+Feb. 25,. 2024 
+166 -21 -11%
+Feb. 24,. 2024 
+187 -80 -30%
+Feb. 23,. 2024 
+267 59 28%
+Feb. 22,. 2024 
+208 -185 -47%
+Feb. 21,. 2024 
+393 105 36%
+Feb. 20,. 2024 
+288 111 63%
+Feb. 19,. 2024 
+177 -55 -24%
+Feb. 18,. 2024 
+232 60 35%
+Feb. 17,. 2024 
+172 -91 -35%
+Feb. 16,. 2024 
+263 62 31%
+Feb. 15,. 2024 
+201 -133 -40%
+Feb. 14,. 2024 
+334 -74 -18%
+Feb. 13,. 2024 
+408 214 110%
+Feb. 12,. 2024 
+194 -60 -24%
+Feb. 11,. 2024 
+254 -18 -7%
+Feb. 10,. 2024 
+272 -98 -26%
+Feb. 9,. 2024 
+370 65 21%
+Feb. 8,. 2024 
+305 70 30%
+Feb. 7,. 2024 
+235 -216 -48%
+Feb. 6,. 2024 
+451 212 89%
+Feb. 5,. 2024 
+239 -181 -43%
+Feb. 4,. 2024 
+420 135 47%
+Feb. 3,. 2024 
+285 -205 -42%
+Feb. 2,. 2024 
+490 173 55%
+Feb. 1,. 2024 
+317 -33 -9%
+Jan. 31,. 2024 
+350 -111 -24%
+Jan. 30,. 2024 
+461 138 43%
+Jan. 29,. 2024 
+323 35 12%
+Jan. 28,. 2024 
+288 -24 -8%
+Jan. 27,. 2024 
+312 -82 -21%
+Jan. 26,. 2024 
+394 44 13%
+Jan. 25,. 2024 
+350 -234 -40%
+Jan. 24,. 2024 
+584 44 8%
+Jan. 23,. 2024 
+540 188 53%
+Jan. 22,. 2024 
+352 -34 -9%
+Jan. 21,. 2024 
+386 84 28%
+Jan. 20,. 2024 
+302 -158 -34%
+Jan. 19,. 2024 
+460 48 12%
+Jan. 18,. 2024 
+412 -291 -41%
+Jan. 17,. 2024 
+703 62 10%
+Jan. 16,. 2024 
+641 331 107%
+Jan. 15,. 2024 
+310 -70 -18%
+Jan. 14,. 2024 
+380 -46 -11%
+Jan. 13,. 2024 
+426 -347 -45%
+Jan. 12,. 2024 
+773 354 84%
+Jan. 11,. 2024 
+419 -80 -16%
+Jan. 10,. 2024 
+499 -75 -13%
+Jan. 9,. 2024 
+574 206 56%
+Jan. 8,. 2024 
+368 -23 -6%
+Jan. 7,. 2024 
+391 -6 -2%
+Jan. 6,. 2024 
+397 -62 -14%
+Jan. 5,. 2024 
+459 15 3%
+Jan. 4,. 2024 
+444 -348 -44%
+Jan. 3,. 2024 
+792 225 40%
+Jan. 2,. 2024 
+567 259 84%
+Jan. 1,. 2024 
+308 -74 -19%
+Dec. 31,. 2023 
+382 5 1%
+Dec. 30,. 2023 
+377 -50 -12%
+Dec. 29,. 2023 
+427 37 9%
+Dec. 28,. 2023 
+390 -186 -32%
+Dec. 27,. 2023 
+576 94 20%
+Dec. 26,. 2023 
+482 187 63%
+Dec. 25,. 2023 
+295 -132 -31%
+Dec. 24,. 2023 
+427 19 5%
+Dec. 23,. 2023 
+408 -5 -1%
+Dec. 22,. 2023 
+413 24 6%
+Dec. 21,. 2023 
+389 -453 -54%
+Dec. 20,. 2023 
+842 254 43%
+Dec. 19,. 2023 
+588 188 47%
+Dec. 18,. 2023 
+400 -17 -4%
+Dec. 17,. 2023 
+417 30 8%
+Dec. 16,. 2023 
+387 -28 -7%
+Dec. 15,. 2023 
+415 -17 -4%
+Dec. 14,. 2023 
+432 -328 -43%
+Dec. 13,. 2023 
+760 134 21%
+Dec. 12,. 2023 
+626 170 37%
+Dec. 11,. 2023 
+456 23 5%
+Dec. 10,. 2023 
+433 33 8%
+Dec. 9,. 2023 
+400 8 2%
+Dec. 8,. 2023 
+392 -322 -45%
+Dec. 7,. 2023 
+714 260 57%
+Dec. 6,. 2023 
+454 -65 -13%
+Dec. 5,. 2023 
+519 111 27%
+Dec. 4,. 2023 
+408 -9 -2%
+Dec. 3,. 2023 
+417 48 13%
+Dec. 2,. 2023 
+369 -54 -13%
+Dec. 1,. 2023 
+423 13 3%
+Nov. 30,. 2023 
+410 -19 -4%
+Nov. 29,. 2023 
+429 -80 -16%
+Nov. 28,. 2023 
+509 51 11%
+Nov. 27,. 2023 
+458 114 33%
+Nov. 26,. 2023 
+344 -50 -13%
+Nov. 25,. 2023 
+394 7 2%
+Nov. 24,. 2023 
+387 -21 -5%
+Nov. 23,. 2023 
+408 27 7%
+Nov. 22,. 2023 
+381 -66 -15%
+Nov. 21,. 2023 
+447 -30 -6%
+Nov. 20,. 2023 
+477 191 67%
+Nov. 19,. 2023 
+286 -88 -24%
+Nov. 18,. 2023 
+374 35 10%
+Nov. 17,. 2023 
+339 -11 -3%
+Nov. 16,. 2023 
+350 -17 -5%
+Nov. 15,. 2023 
+367 -225 -38%
+Nov. 14,. 2023 
+592 39 7%
+Nov. 13,. 2023 
+553 205 59%
+Nov. 12,. 2023 
+348 0 0%
+Nov. 11,. 2023 
+348 -25 -7%
+Nov. 10,. 2023 
+373 30 9%
+Nov. 9,. 2023 
+343 -16 -4%
+Nov. 8,. 2023 
+359 -134 -27%
+Nov. 7,. 2023 
+493 118 31%
+Nov. 6,. 2023 
+375 28 8%
+Nov. 5,. 2023 
+347 32 10%
+Nov. 4,. 2023 
+315 -33 -9%
+Nov. 3,. 2023 
+348 53 18%
+Nov. 2,. 2023 
+295 -47 -14%
+Nov. 1,. 2023 
+342 -102 -23%
+Oct. 31,. 2023 
+444 105 31%
+Oct. 30,. 2023 
+339 34 11%
+Oct. 29,. 2023 
+305 -23 -7%
+Oct. 28,. 2023 
+328 5 2%
+Oct. 27,. 2023 
+323 -43 -12%
+Oct. 26,. 2023 
+366 24 7%
+Oct. 25,. 2023 
+342 -84 -20%
+Oct. 24,. 2023 
+426 3 1%
+Oct. 23,. 2023 
+423 130 44%
+Oct. 22,. 2023 
+293 -123 -30%
+Oct. 21,. 2023 
+416 33 9%
+Oct. 20,. 2023 
+383 -5 -1%
+Oct. 19,. 2023 
+388 -25 -6%
+Oct. 18,. 2023 
+413 -11 -3%
+Oct. 17,. 2023 
+424 35 9%
+Oct. 16,. 2023 
+389 -4 -1%
+Oct. 15,. 2023 
+393 78 25%
+Oct. 14,. 2023 
+315 -48 -13%
+Oct. 13,. 2023 
+363 8 2%
+Oct. 12,. 2023 
+355 -3 -1%
+Oct. 11,. 2023 
+358 -18 -5%
+Oct. 10,. 2023 
+376 -61 -14%
+Oct. 9,. 2023 
+437 99 29%
+Oct. 8,. 2023 
+338 6 2%
+Oct. 7,. 2023 
+332 -7 -2%
+Oct. 6,. 2023 
+339 -3 -1%
+Oct. 5,. 2023 
+342 1 0%
+Oct. 4,. 2023 
+341 -29 -8%
+Oct. 3,. 2023 
+370 34 10%
+Oct. 2,. 2023 
+336 -10 -3%
+Oct. 1,. 2023 
+346 13 4%
+Sep. 30,. 2023 
+333 -14 -4%
+Sep. 29,. 2023 
+347 24 7%
+Sep. 28,. 2023 
+323 28 9%
+Sep. 27,. 2023 
+295 -82 -22%
+Sep. 26,. 2023 
+377 9 2%
+Sep. 25,. 2023 
+368 78 27%
+Sep. 24,. 2023 
+290 -23 -7%
+Sep. 23,. 2023 
+313 23 8%
+Sep. 22,. 2023 
+290 -19 -6%
+Sep. 21,. 2023 
+309 -12 -4%
+Sep. 20,. 2023 
+321 -63 -16%
+Sep. 19,. 2023 
+384 41 12%
+Sep. 18,. 2023 
+343 109 47%
+Sep. 17,. 2023 
+234 -62 -21%
+Sep. 16,. 2023 
+296 -69 -19%
+Sep. 15,. 2023 
+365 52 17%
+Sep. 14,. 2023 
+313 -36 -10%
+Sep. 13,. 2023 
+349 -4 -1%
+Sep. 12,. 2023 
+353 32 10%
+Sep. 11,. 2023 
+321 91 40%
+Sep. 10,. 2023 
+230 -55 -19%
+Sep. 9,. 2023 
+285 26 10%
+Sep. 8,. 2023 
+259 -41 -14%
+Sep. 7,. 2023 
+300 27 10%
+Sep. 6,. 2023 
+273 -48 -15%
+Sep. 5,. 2023 
+321 -47 -13%
+Sep. 4,. 2023 
+368 160 77%
+Sep. 3,. 2023 
+208 -25 -11%
+Sep. 2,. 2023 
+233 10 4%
+Sep. 1,. 2023 
+223 -102 -31%
+Aug. 31,. 2023 
+325 62 24%
+Aug. 30,. 2023 
+263 -384 -59%
+Aug. 29,. 2023 
+647 372 135%
+Aug. 28,. 2023 
+275 37 16%
+Aug. 27,. 2023 
+238 25 12%
+Aug. 26,. 2023 
+213 -18 -8%
+Aug. 25,. 2023 
+231 -17 -7%
+Aug. 24,. 2023 
+248 -21 -8%
+Aug. 23,. 2023 
+269 -104 -28%
+Aug. 22,. 2023 
+373 72 24%
+Aug. 21,. 2023 
+301 -192 -39%
+Aug. 20,. 2023 
+493 276 127%
+Aug. 19,. 2023 
+217 -5 -2%
+Aug. 18,. 2023 
+222 -27 -11%
+Aug. 17,. 2023 
+249 30 14%
+Aug. 16,. 2023 
+219 -134 -38%
+Aug. 15,. 2023 
+353 90 34%
+Aug. 14,. 2023 
+263 79 43%
+Aug. 13,. 2023 
+184 -24 -12%
+Aug. 12,. 2023 
+208 -34 -14%
+Aug. 11,. 2023 
+242 10 4%
+Aug. 10,. 2023 
+232 -28 -11%
+Aug. 9,. 2023 
+260 -116 -31%
+Aug. 8,. 2023 
+376 111 42%
+Aug. 7,. 2023 
+265 8 3%
+Aug. 6,. 2023 
+257 17 7%
+Aug. 5,. 2023 
+240 32 15%
+Aug. 4,. 2023 
+208 -46 -18%
+Aug. 3,. 2023 
+254 -11 -4%
+Aug. 2,. 2023 
+265 -135 -34%
+Aug. 1,. 2023 
+400 116 41%
+Jul. 31,. 2023 
+284 64 29%
+Jul. 30,. 2023 
+220 -28 -11%
+Jul. 29,. 2023 
+248 -10 -4%
+Jul. 28,. 2023 
+258 -31 -11%
+Jul. 27,. 2023 
+289 23 9%
+Jul. 26,. 2023 
+266 -138 -34%
+Jul. 25,. 2023 
+404 169 72%
+Jul. 24,. 2023 
+235 30 15%
+Jul. 23,. 2023 
+205 -44 -18%
+Jul. 22,. 2023 
+249 7 3%
+Jul. 21,. 2023 
+242 -20 -8%
+Jul. 20,. 2023 
+262 1 0%
+Jul. 19,. 2023 
+261 23 10%
+Jul. 18,. 2023 
+238 74 45%
+Jul. 17,. 2023 
+164 28 21%
+Jul. 16,. 2023 
+136 -41 -23%
+Jul. 15,. 2023 
+177 -41 -19%
+Jul. 14,. 2023 
+218 -13 -6%
+Jul. 13,. 2023 
+231 -10 -4%
+Jul. 12,. 2023 
+241 -66 -21%
+Jul. 11,. 2023 
+307 89 41%
+Jul. 10,. 2023 
+218 38 21%
+Jul. 9,. 2023 
+180 -15 -8%
+Jul. 8,. 2023 
+195 -26 -12%
+Jul. 7,. 2023 
+221 -35 -14%
+Jul. 6,. 2023 
+256 -2 -1%
+Jul. 5,. 2023 
+258 -127 -33%
+Jul. 4,. 2023 
+385 141 58%
+Jul. 3,. 2023 
+244 -25 -9%
+Jul. 2,. 2023 
+269 54 25%
+Jul. 1,. 2023 
+215 -22 -9%
+Jun. 30,. 2023 
+237 -112 -32%
+Jun. 29,. 2023 
+349 46 15%
+Jun. 28,. 2023 
+303 18 6%
+Jun. 27,. 2023 
+285 -215 -43%
+Jun. 26,. 2023 
+500 270 117%
+Jun. 25,. 2023 
+230 -82 -26%
+Jun. 24,. 2023 
+312 -65 -17%
+Jun. 23,. 2023 
+377 93 33%
+Jun. 22,. 2023 
+284 -35 -11%
+Jun. 21,. 2023 
+319 -97 -23%
+Jun. 20,. 2023 
+416 -3 -1%
+Jun. 19,. 2023 
+419 168 67%
+Jun. 18,. 2023 
+251 -38 -13%
+Jun. 17,. 2023 
+289 -95 -25%
+Jun. 16,. 2023 
+384 -1 0%
+Jun. 15,. 2023 
+385 -6 -2%
+Jun. 14,. 2023 
+391 -171 -30%
+Jun. 13,. 2023 
+562 182 48%
+Jun. 12,. 2023 
+380 127 50%
+Jun. 11,. 2023 
+253 -46 -15%
+Jun. 10,. 2023 
+299 -100 -25%
+Jun. 9,. 2023 
+399 -37 -8%
+Jun. 8,. 2023 
+436 54 14%
+Jun. 7,. 2023 
+382 -301 -44%
+Jun. 6,. 2023 
+683 258 61%
+Jun. 5,. 2023 
+425 53 14%
+Jun. 4,. 2023 
+372 -46 -11%
+Jun. 3,. 2023 
+418 -43 -9%
+Jun. 2,. 2023 
+461 -19 -4%
+Jun. 1,. 2023 
+480 75 19%
+May. 31,. 2023 
+405 -271 -40%
+May. 30,. 2023 
+676 215 47%
+May. 29,. 2023 
+461 126 38%
+May. 28,. 2023 
+335 -7 -2%
+May. 27,. 2023 
+342 -159 -32%
+May. 26,. 2023 
+501 28 6%
+May. 25,. 2023 
+473 -48 -9%
+May. 24,. 2023 
+521 -294 -36%
+May. 23,. 2023 
+815 216 36%
+May. 22,. 2023 
+599 161 37%
+May. 21,. 2023 
+438 -13 -3%
+May. 20,. 2023 
+451 10 2%
+May. 19,. 2023 
+441 -29 -6%
+May. 18,. 2023 
+470 -127 -21%
+May. 17,. 2023 
+597 -53 -8%
+May. 16,. 2023 
+650 159 32%
+May. 15,. 2023 
+491 93 23%
+May. 14,. 2023 
+398 -55 -12%
+May. 13,. 2023 
+453 -185 -29%
+May. 12,. 2023 
+638 22 4%
+May. 11,. 2023 
+616 -4 -1%
+May. 10,. 2023 
+620 -72 -10%
+May. 9,. 2023 
+692 38 6%
+May. 8,. 2023 
+654 -86 -12%
+May. 7,. 2023 
+740 144 24%
+May. 6,. 2023 
+596 -138 -19%
+May. 5,. 2023 
+734 60 9%
+May. 4,. 2023 
+674 -90 -12%
+May. 3,. 2023 
+764 -56 -7%
+May. 2,. 2023 
+820 223 37%
+May. 1,. 2023 
+597 102 21%
+Apr. 30,. 2023 
+495 -41 -8%
+Apr. 29,. 2023 
+536 -323 -38%
+Apr. 28,. 2023 
+859 16 2%
+Apr. 27,. 2023 
+843 -19 -2%
+Apr. 26,. 2023 
+862 -166 -16%
+Apr. 25,. 2023 
+1,028 217 27%
+Apr. 24,. 2023 
+811 253 45%
+Apr. 23,. 2023 
+558 -139 -20%
+Apr. 22,. 2023 
+697 -199 -22%
+Apr. 21,. 2023 
+896 95 12%
+Apr. 20,. 2023 
+801 -23 -3%
+Apr. 19,. 2023 
+824 -361 -30%
+Apr. 18,. 2023 
+1,185 443 60%
+Apr. 17,. 2023 
+742 104 16%
+Apr. 16,. 2023 
+638 -10 -2%
+Apr. 15,. 2023 
+648 -364 -36%
+Apr. 14,. 2023 
+1,012 162 19%
+Apr. 13,. 2023 
+850 -194 -19%
+Apr. 12,. 2023 
+1,044 48 5%
+Apr. 11,. 2023 
+996 381 62%
+Apr. 10,. 2023 
+615 -1 0%
+Apr. 9,. 2023 
+616 -56 -8%
+Apr. 8,. 2023 
+672 -10 -1%
+Apr. 7,. 2023 
+682 -164 -19%
+Apr. 6,. 2023 
+846 -154 -15%
+Apr. 5,. 2023 
+1,000 -206 -17%
+Apr. 4,. 2023 
+1,206 319 36%
+Apr. 3,. 2023 
+887 246 38%
+Apr. 2,. 2023 
+641 -77 -11%
+Apr. 1,. 2023 
+718 -380 -35%
+Mar. 31,. 2023 
+1,098 66 6%
+Mar. 30,. 2023 
+1,032 69 7%
+Mar. 29,. 2023 
+963 -184 -16%
+Mar. 28,. 2023 
+1,147 162 16%
+Mar. 27,. 2023 
+985 255 35%
+Mar. 26,. 2023 
+730 -186 -20%
+Mar. 25,. 2023 
+916 -45 -5%
+Mar. 24,. 2023 
+961 -113 -11%
+Mar. 23,. 2023 
+1,074 -180 -14%
+Mar. 22,. 2023 
+1,254 167 15%
+Mar. 21,. 2023 
+1,087 66 6%
+Mar. 20,. 2023 
+1,021 261 34%
+Mar. 19,. 2023 
+760 -26 -3%
+Mar. 18,. 2023 
+786 -276 -26%
+Mar. 17,. 2023 
+1,062 -125 -11%
+Mar. 16,. 2023 
+1,187 18 2%
+Mar. 15,. 2023 
+1,169 95 9%
+Mar. 14,. 2023 
+1,074 12 1%
+Mar. 13,. 2023 
+1,062 205 24%
+Mar. 12,. 2023 
+857 -44 -5%
+Mar. 11,. 2023 
+901 -183 -17%
+Mar. 10,. 2023 
+1,084 -7 -1%
+Mar. 9,. 2023 
+1,091 -75 -6%
+Mar. 8,. 2023 
+1,166 159 16%
+Mar. 7,. 2023 
+1,007 13 1%
+Mar. 6,. 2023 
+994 229 30%
+Mar. 5,. 2023 
+765 -91 -11%
+Mar. 4,. 2023 
+856 -267 -24%
+Mar. 3,. 2023 
+1,123 -31 -3%
+Mar. 2,. 2023 
+1,154 -65 -5%
+Mar. 1,. 2023 
+1,219 123 11%
+Feb. 28,. 2023 
+1,096 -32 -3%
+Feb. 27,. 2023 
+1,128 410 57%
+Feb. 26,. 2023 
+718 -120 -14%
+Feb. 25,. 2023 
+838 -309 -27%
+Feb. 24,. 2023 
+1,147 -407 -26%
+Feb. 23,. 2023 
+1,554 69 5%
+Feb. 22,. 2023 
+1,485 275 23%
+Feb. 21,. 2023 
+1,210 274 29%
+Feb. 20,. 2023 
+936 -85 -8%
+Feb. 19,. 2023 
+1,021 124 14%
+Feb. 18,. 2023 
+897 -268 -23%
+Feb. 17,. 2023 
+1,165 -207 -15%
+Feb. 16,. 2023 
+1,372 -161 -11%
+Feb. 15,. 2023 
+1,533 166 12%
+Feb. 14,. 2023 
+1,367 191 16%
+Feb. 13,. 2023 
+1,176 248 27%
+Feb. 12,. 2023 
+928 -156 -14%
+Feb. 11,. 2023 
+1,084 -374 -26%
+Feb. 10,. 2023 
+1,458 40 3%
+Feb. 9,. 2023 
+1,418 -91 -6%
+Feb. 8,. 2023 
+1,509 48 3%
+Feb. 7,. 2023 
+1,461 -65 -4%
+Feb. 6,. 2023 
+1,526 404 36%
+Feb. 5,. 2023 
+1,122 -148 -12%
+Feb. 4,. 2023 
+1,270 -507 -29%
+Feb. 3,. 2023 
+1,777 -123 -6%
+Feb. 2,. 2023 
+1,900 -45 -2%
+Feb. 1,. 2023 
+1,945 132 7%
+Jan. 31,. 2023 
+1,813 321 22%
+Jan. 30,. 2023 
+1,492 136 10%
+Jan. 29,. 2023 
+1,356 -45 -3%
+Jan. 28,. 2023 
+1,401 -336 -19%
+Jan. 27,. 2023 
+1,737 -169 -9%
+Jan. 26,. 2023 
+1,906 -40 -2%
+Jan. 25,. 2023 
+1,946 -16 -1%
+Jan. 24,. 2023 
+1,962 193 11%
+Jan. 23,. 2023 
+1,769 150 9%
+Jan. 22,. 2023 
+1,619 -44 -3%
+Jan. 21,. 2023 
+1,663 -697 -30%
+Jan. 20,. 2023 
+2,360 -197 -8%
+Jan. 19,. 2023 
+2,557 115 5%
+Jan. 18,. 2023 
+2,442 310 15%
+Jan. 17,. 2023 
+2,132 63 3%
+Jan. 16,. 2023 
+2,069 450 28%
+Jan. 15,. 2023 
+1,619 -340 -17%
+Jan. 14,. 2023 
+1,959 -561 -22%
+Jan. 13,. 2023 
+2,520 -8 0%
+Jan. 12,. 2023 
+2,528 198 8%
+Jan. 11,. 2023 
+2,330 -49 -2%
+Jan. 10,. 2023 
+2,379 80 3%
+Jan. 9,. 2023 
+2,299 508 28%
+Jan. 8,. 2023 
+1,791 -150 -8%
+Jan. 7,. 2023 
+1,941 -738 -28%
+Jan. 6,. 2023 
+2,679 162 6%
+Jan. 5,. 2023 
+2,517 247 11%
+Jan. 4,. 2023 
+2,270 7 0%
+Jan. 3,. 2023 
+2,263 117 5%
+Jan. 2,. 2023 
+2,146 619 41%
+Jan. 1,. 2023 
+1,527 -302 -17%
+Dec. 31,. 2022 
+1,829 -391 -18%
+Dec. 30,. 2022 
+2,220 -320 -13%
+Dec. 29,. 2022 
+2,540 -97 -4%
+Dec. 28,. 2022 
+2,637 411 18%
+Dec. 27,. 2022 
+2,226 699 46%
+Dec. 26,. 2022 
+1,527 73 5%
+Dec. 25,. 2022 
+1,454 -181 -11%
+Dec. 24,. 2022 
+1,635 -751 -31%
+Dec. 23,. 2022 
+2,386 -36 -1%
+Dec. 22,. 2022 
+2,422 149 7%
+Dec. 21,. 2022 
+2,273 10 0%
+Dec. 20,. 2022 
+2,263 327 17%
+Dec. 19,. 2022 
+1,936 451 30%
+Dec. 18,. 2022 
+1,485 -200 -12%
+Dec. 17,. 2022 
+1,685 -300 -15%
+Dec. 16,. 2022 
+1,985 -226 -10%
+Dec. 15,. 2022 
+2,211 -18 -1%
+Dec. 14,. 2022 
+2,229 218 11%
+Dec. 13,. 2022 
+2,011 293 17%
+Dec. 12,. 2022 
+1,718 454 36%
+Dec. 11,. 2022 
+1,264 -177 -12%
+Dec. 10,. 2022 
+1,441 -373 -21%
+Dec. 9,. 2022 
+1,814 -184 -9%
+Dec. 8,. 2022 
+1,998 32 2%
+Dec. 7,. 2022 
+1,966 21 1%
+Dec. 6,. 2022 
+1,945 449 30%
+Dec. 5,. 2022 
+1,496 345 30%
+Dec. 4,. 2022 
+1,151 -201 -15%
+Dec. 3,. 2022 
+1,352 -325 -19%
+Dec. 2,. 2022 
+1,677 -235 -12%
+Dec. 1,. 2022 
+1,912 108 6%
+Nov. 30,. 2022 
+1,804 195 12%
+Nov. 29,. 2022 
+1,609 125 8%
+Nov. 28,. 2022 
+1,484 449 43%
+Nov. 27,. 2022 
+1,035 -34 -3%
+Nov. 26,. 2022 
+1,069 -377 -26%
+Nov. 25,. 2022 
+1,446 -193 -12%
+Nov. 24,. 2022 
+1,639 -37 -2%
+Nov. 23,. 2022 
+1,676 -65 -4%
+Nov. 22,. 2022 
+1,741 290 20%
+Nov. 21,. 2022 
+1,451 447 45%
+Nov. 20,. 2022 
+1,004 -270 -21%
+Nov. 19,. 2022 
+1,274 -333 -21%
+Nov. 18,. 2022 
+1,607 -144 -8%
+Nov. 17,. 2022 
+1,751 52 3%
+Nov. 16,. 2022 
+1,699 58 4%
+Nov. 15,. 2022 
+1,641 285 21%
+Nov. 14,. 2022 
+1,356 383 39%
+Nov. 13,. 2022 
+973 -151 -13%
+Nov. 12,. 2022 
+1,124 -259 -19%
+Nov. 11,. 2022 
+1,383 -210 -13%
+Nov. 10,. 2022 
+1,593 -78 -5%
+Nov. 9,. 2022 
+1,671 158 10%
+Nov. 8,. 2022 
+1,513 127 9%
+Nov. 7,. 2022 
+1,386 476 52%
+Nov. 6,. 2022 
+910 -312 -26%
+Nov. 5,. 2022 
+1,222 -478 -28%
+Nov. 4,. 2022 
+1,700 159 10%
+Nov. 3,. 2022 
+1,541 -123 -7%
+Nov. 2,. 2022 
+1,664 232 16%
+Nov. 1,. 2022 
+1,432 0 0%
+Oct. 31,. 2022 
+1,432 285 25%
+Oct. 30,. 2022 
+1,147 -15 -1%
+Oct. 29,. 2022 
+1,162 -545 -32%
+Oct. 28,. 2022 
+1,707 43 3%
+Oct. 27,. 2022 
+1,664 -195 -10%
+Oct. 26,. 2022 
+1,859 74 4%
+Oct. 25,. 2022 
+1,785 300 20%
+Oct. 24,. 2022 
+1,485 460 45%
+Oct. 23,. 2022 
+1,025 -240 -19%
+Oct. 22,. 2022 
+1,265 -395 -24%
+Oct. 21,. 2022 
+1,660 10 1%
+Oct. 20,. 2022 
+1,650 -256 -13%
+Oct. 19,. 2022 
+1,906 144 8%
+Oct. 18,. 2022 
+1,762 164 10%
+Oct. 17,. 2022 
+1,598 543 51%
+Oct. 16,. 2022 
+1,055 -205 -16%
+Oct. 15,. 2022 
+1,260 -417 -25%
+Oct. 14,. 2022 
+1,677 67 4%
+Oct. 13,. 2022 
+1,610 -156 -9%
+Oct. 12,. 2022 
+1,766 176 11%
+Oct. 11,. 2022 
+1,590 158 11%
+Oct. 10,. 2022 
+1,432 338 31%
+Oct. 9,. 2022 
+1,094 -237 -18%
+Oct. 8,. 2022 
+1,331 -411 -24%
+Oct. 7,. 2022 
+1,742 16 1%
+Oct. 6,. 2022 
+1,726 21 1%
+Oct. 5,. 2022 
+1,705 -13 -1%
+Oct. 4,. 2022 
+1,718 515 43%
+Oct. 3,. 2022 
+1,203 41 4%
+Oct. 2,. 2022 
+1,162 -206 -15%
+Oct. 1,. 2022 
+1,368 -239 -15%
+Sep. 30,. 2022 
+1,607 -72 -4%
+Sep. 29,. 2022 
+1,679 48 3%
+Sep. 28,. 2022 
+1,631 102 7%
+Sep. 27,. 2022 
+1,529 255 20%
+Sep. 26,. 2022 
+1,274 243 24%
+Sep. 25,. 2022 
+1,031 -213 -17%
+Sep. 24,. 2022 
+1,244 -537 -30%
+Sep. 23,. 2022 
+1,781 215 14%
+Sep. 22,. 2022 
+1,566 -191 -11%
+Sep. 21,. 2022 
+1,757 181 11%
+Sep. 20,. 2022 
+1,576 267 20%
+Sep. 19,. 2022 
+1,309 246 23%
+Sep. 18,. 2022 
+1,063 -239 -18%
+Sep. 17,. 2022 
+1,302 -798 -38%
+Sep. 16,. 2022 
+2,100 188 10%
+Sep. 15,. 2022 
+1,912 -144 -7%
+Sep. 14,. 2022 
+2,056 190 10%
+Sep. 13,. 2022 
+1,866 482 35%
+Sep. 12,. 2022 
+1,384 131 10%
+Sep. 11,. 2022 
+1,253 -164 -12%
+Sep. 10,. 2022 
+1,417 -713 -33%
+Sep. 9,. 2022 
+2,130 29 1%
+Sep. 8,. 2022 
+2,101 34 2%
+Sep. 7,. 2022 
+2,067 174 9%
+Sep. 6,. 2022 
+1,893 358 23%
+Sep. 5,. 2022 
+1,535 115 8%
+Sep. 4,. 2022 
+1,420 -334 -19%
+Sep. 3,. 2022 
+1,754 -428 -20%
+Sep. 2,. 2022 
+2,182 -116 -5%
+Sep. 1,. 2022 
+2,298 -85 -4%
+Aug. 31,. 2022 
+2,383 -67 -3%
+Aug. 30,. 2022 
+2,450 557 29%
+Aug. 29,. 2022 
+1,893 329 21%
+Aug. 28,. 2022 
+1,564 -475 -23%
+Aug. 27,. 2022 
+2,039 -316 -13%
+Aug. 26,. 2022 
+2,355 -141 -6%
+Aug. 25,. 2022 
+2,496 -61 -2%
+Aug. 24,. 2022 
+2,557 64 3%
+Aug. 23,. 2022 
+2,493 438 21%
+Aug. 22,. 2022 
+2,055 424 26%
+Aug. 21,. 2022 
+1,631 -421 -21%
+Aug. 20,. 2022 
+2,052 -609 -23%
+Aug. 19,. 2022 
+2,661 1 0%
+Aug. 18,. 2022 
+2,660 -312 -10%
+Aug. 17,. 2022 
+2,972 581 24%
+Aug. 16,. 2022 
+2,391 314 15%
+Aug. 15,. 2022 
+2,077 314 18%
+Aug. 14,. 2022 
+1,763 -410 -19%
+Aug. 13,. 2022 
+2,173 -632 -23%
+Aug. 12,. 2022 
+2,805 91 3%
+Aug. 11,. 2022 
+2,714 -292 -10%
+Aug. 10,. 2022 
+3,006 106 4%
+Aug. 9,. 2022 
+2,900 624 27%
+Aug. 8,. 2022 
+2,276 607 36%
+Aug. 7,. 2022 
+1,669 -545 -25%
+Aug. 6,. 2022 
+2,214 -598 -21%
+Aug. 5,. 2022 
+2,812 -113 -4%
+Aug. 4,. 2022 
+2,925 21 1%
+Aug. 3,. 2022 
+2,904 186 7%
+Aug. 2,. 2022 
+2,718 584 27%
+Aug. 1,. 2022 
+2,134 568 36%
+Jul. 31,. 2022 
+1,566 -482 -24%
+Jul. 30,. 2022 
+2,048 -745 -27%
+Jul. 29,. 2022 
+2,793 -25 -1%
+Jul. 28,. 2022 
+2,818 -24 -1%
+Jul. 27,. 2022 
+2,842 142 5%
+Jul. 26,. 2022 
+2,700 630 30%
+Jul. 25,. 2022 
+2,070 505 32%
+Jul. 24,. 2022 
+1,565 -417 -21%
+Jul. 23,. 2022 
+1,982 -641 -24%
+Jul. 22,. 2022 
+2,623 10 0%
+Jul. 21,. 2022 
+2,613 -143 -5%
+Jul. 20,. 2022 
+2,756 283 11%
+Jul. 19,. 2022 
+2,473 609 33%
+Jul. 18,. 2022 
+1,864 412 28%
+Jul. 17,. 2022 
+1,452 -409 -22%
+Jul. 16,. 2022 
+1,861 -428 -19%
+Jul. 15,. 2022 
+2,289 117 5%
+Jul. 14,. 2022 
+2,172 -197 -8%
+Jul. 13,. 2022 
+2,369 113 5%
+Jul. 12,. 2022 
+2,256 566 33%
+Jul. 11,. 2022 
+1,690 472 39%
+Jul. 10,. 2022 
+1,218 -294 -19%
+Jul. 9,. 2022 
+1,512 -546 -27%
+Jul. 8,. 2022 
+2,058 -172 -8%
+Jul. 7,. 2022 
+2,230 69 3%
+Jul. 6,. 2022 
+2,161 342 19%
+Jul. 5,. 2022 
+1,819 505 38%
+Jul. 4,. 2022 
+1,314 218 20%
+Jul. 3,. 2022 
+1,096 -210 -16%
+Jul. 2,. 2022 
+1,306 -545 -29%
+Jul. 1,. 2022 
+1,851 111 6%
+Jun. 30,. 2022 
+1,740 -154 -8%
+Jun. 29,. 2022 
+1,894 89 5%
+Jun. 28,. 2022 
+1,805 554 44%
+Jun. 27,. 2022 
+1,251 296 31%
+Jun. 26,. 2022 
+955 -381 -29%
+Jun. 25,. 2022 
+1,336 -397 -23%
+Jun. 24,. 2022 
+1,733 -183 -10%
+Jun. 23,. 2022 
+1,916 95 5%
+Jun. 22,. 2022 
+1,821 392 27%
+Jun. 21,. 2022 
+1,429 382 36%
+Jun. 20,. 2022 
+1,047 80 8%
+Jun. 19,. 2022 
+967 -158 -14%
+Jun. 18,. 2022 
+1,125 -226 -17%
+Jun. 17,. 2022 
+1,351 -150 -10%
+Jun. 16,. 2022 
+1,501 -145 -9%
+Jun. 15,. 2022 
+1,646 115 8%
+Jun. 14,. 2022 
+1,531 444 41%
+Jun. 13,. 2022 
+1,087 123 13%
+Jun. 12,. 2022 
+964 -358 -27%
+Jun. 11,. 2022 
+1,322 -238 -15%
+Jun. 10,. 2022 
+1,560 -10 -1%
+Jun. 9,. 2022 
+1,570 -298 -16%
+Jun. 8,. 2022 
+1,868 208 13%
+Jun. 7,. 2022 
+1,660 665 67%
+Jun. 6,. 2022 
+995 122 14%
+Jun. 5,. 2022 
+873 -330 -27%
+Jun. 4,. 2022 
+1,203 -268 -18%
+Jun. 3,. 2022 
+1,471 -133 -8%
+Jun. 2,. 2022 
+1,604 -122 -7%
+Jun. 1,. 2022 
+1,726 99 6%
+May. 31,. 2022 
+1,627 511 46%
+May. 30,. 2022 
+1,116 27 2%
+May. 29,. 2022 
+1,089 -101 -8%
+May. 28,. 2022 
+1,190 -374 -24%
+May. 27,. 2022 
+1,564 -30 -2%
+May. 26,. 2022 
+1,594 -208 -12%
+May. 25,. 2022 
+1,802 12 1%
+May. 24,. 2022 
+1,790 607 51%
+May. 23,. 2022 
+1,183 118 11%
+May. 22,. 2022 
+1,065 -296 -22%
+May. 21,. 2022 
+1,361 -250 -16%
+May. 20,. 2022 
+1,611 -101 -6%
+May. 19,. 2022 
+1,712 -249 -13%
+May. 18,. 2022 
+1,961 14 1%
+May. 17,. 2022 
+1,947 597 44%
+May. 16,. 2022 
+1,350 90 7%
+May. 15,. 2022 
+1,260 -160 -11%
+May. 14,. 2022 
+1,420 -570 -29%
+May. 13,. 2022 
+1,990 122 7%
+May. 12,. 2022 
+1,868 -242 -11%
+May. 11,. 2022 
+2,110 124 6%
+May. 10,. 2022 
+1,986 643 48%
+May. 9,. 2022 
+1,343 74 6%
+May. 8,. 2022 
+1,269 -247 -16%
+May. 7,. 2022 
+1,516 -483 -24%
+May. 6,. 2022 
+1,999 -90 -4%
+May. 5,. 2022 
+2,089 -53 -2%
+May. 4,. 2022 
+2,142 136 7%
+May. 3,. 2022 
+2,006 221 12%
+May. 2,. 2022 
+1,785 266 18%
+May. 1,. 2022 
+1,519 -387 -20%
+Apr. 30,. 2022 
+1,906 -530 -22%
+Apr. 29,. 2022 
+2,436 -123 -5%
+Apr. 28,. 2022 
+2,559 -245 -9%
+Apr. 27,. 2022 
+2,804 149 6%
+Apr. 26,. 2022 
+2,655 538 25%
+Apr. 25,. 2022 
+2,117 375 22%
+Apr. 24,. 2022 
+1,742 -421 -19%
+Apr. 23,. 2022 
+2,163 -427 -16%
+Apr. 22,. 2022 
+2,590 -437 -14%
+Apr. 21,. 2022 
+3,027 -149 -5%
+Apr. 20,. 2022 
+3,176 485 18%
+Apr. 19,. 2022 
+2,691 841 45%
+Apr. 18,. 2022 
+1,850 12 1%
+Apr. 17,. 2022 
+1,838 -427 -19%
+Apr. 16,. 2022 
+2,265 -529 -19%
+Apr. 15,. 2022 
+2,794 -418 -13%
+Apr. 14,. 2022 
+3,212 -9 0%
+Apr. 13,. 2022 
+3,221 -16 0%
+Apr. 12,. 2022 
+3,237 734 29%
+Apr. 11,. 2022 
+2,503 153 7%
+Apr. 10,. 2022 
+2,350 -707 -23%
+Apr. 9,. 2022 
+3,057 -714 -19%
+Apr. 8,. 2022 
+3,771 -120 -3%
+Apr. 7,. 2022 
+3,891 19 0%
+Apr. 6,. 2022 
+3,872 163 4%
+Apr. 5,. 2022 
+3,709 756 26%
+Apr. 4,. 2022 
+2,953 264 10%
+Apr. 3,. 2022 
+2,689 -868 -24%
+Apr. 2,. 2022 
+3,557 -402 -10%
+Apr. 1,. 2022 
+3,959 -408 -9%
+Mar. 31,. 2022 
+4,367 -192 -4%
+Mar. 30,. 2022 
+4,559 518 13%
+Mar. 29,. 2022 
+4,041 785 24%
+Mar. 28,. 2022 
+3,256 146 5%
+Mar. 27,. 2022 
+3,110 -653 -17%
+Mar. 26,. 2022 
+3,763 -1,029 -21%
+Mar. 25,. 2022 
+4,792 -406 -8%
+Mar. 24,. 2022 
+5,198 231 5%
+Mar. 23,. 2022 
+4,967 -77 -2%
+Mar. 22,. 2022 
+5,044 1,033 26%
+Mar. 21,. 2022 
+4,011 191 5%
+Mar. 20,. 2022 
+3,820 -905 -19%
+Mar. 19,. 2022 
+4,725 -908 -16%
+Mar. 18,. 2022 
+5,633 -875 -13%
+Mar. 17,. 2022 
+6,508 489 8%
+Mar. 16,. 2022 
+6,019 396 7%
+Mar. 15,. 2022 
+5,623 1,066 23%
+Mar. 14,. 2022 
+4,557 -78 -2%
+Mar. 13,. 2022 
+4,635 -1,125 -20%
+Mar. 12,. 2022 
+5,760 -387 -6%
+Mar. 11,. 2022 
+6,147 -1,027 -14%
+Mar. 10,. 2022 
+7,174 50 1%
+Mar. 9,. 2022 
+7,124 -76 -1%
+Mar. 8,. 2022 
+7,200 2,009 39%
+Mar. 7,. 2022 
+5,191 21 0%
+Mar. 6,. 2022 
+5,170 -1,847 -26%
+Mar. 5,. 2022 
+7,017 -1,502 -18%
+Mar. 4,. 2022 
+8,519 382 5%
+Mar. 3,. 2022 
+8,137 247 3%
+Mar. 2,. 2022 
+7,890 88 1%
+Mar. 1,. 2022 
+7,802 1,182 18%
+Feb. 28,. 2022 
+6,620 503 8%
+Feb. 27,. 2022 
+6,117 -1,687 -22%
+Feb. 26,. 2022 
+7,804 -1,090 -12%
+Feb. 25,. 2022 
+8,894 -1,604 -15%
+Feb. 24,. 2022 
+10,498 -185 -2%
+Feb. 23,. 2022 
+10,683 1,245 13%
+Feb. 22,. 2022 
+9,438 2,026 27%
+Feb. 21,. 2022 
+7,412 468 7%
+Feb. 20,. 2022 
+6,944 -2,802 -29%
+Feb. 19,. 2022 
+9,746 -1,270 -12%
+Feb. 18,. 2022 
+11,016 -1,133 -9%
+Feb. 17,. 2022 
+12,149 422 4%
+Feb. 16,. 2022 
+11,727 719 7%
+Feb. 15,. 2022 
+11,008 2,467 29%
+Feb. 14,. 2022 
+8,541 961 13%
+Feb. 13,. 2022 
+7,580 -2,349 -24%
+Feb. 12,. 2022 
+9,929 -2,046 -17%
+Feb. 11,. 2022 
+11,975 -149 -1%
+Feb. 10,. 2022 
+12,124 -446 -4%
+Feb. 9,. 2022 
+12,570 -593 -5%
+Feb. 8,. 2022 
+13,163 3,804 41%
+Feb. 7,. 2022 
+9,359 1,060 13%
+Feb. 6,. 2022 
+8,299 -1,501 -15%
+Feb. 5,. 2022 
+9,800 -2,385 -20%
+Feb. 4,. 2022 
+12,185 -15 0%
+Feb. 3,. 2022 
+12,200 -303 -2%
+Feb. 2,. 2022 
+12,503 35 0%
+Feb. 1,. 2022 
+12,468 3,360 37%
+Jan. 31,. 2022 
+9,108 1,343 17%
+Jan. 30,. 2022 
+7,765 -1,667 -18%
+Jan. 29,. 2022 
+9,432 -1,808 -16%
+Jan. 28,. 2022 
+11,240 234 2%
+Jan. 27,. 2022 
+11,006 -14 0%
+Jan. 26,. 2022 
+11,020 427 4%
+Jan. 25,. 2022 
+10,593 2,856 37%
+Jan. 24,. 2022 
+7,737 980 15%
+Jan. 23,. 2022 
+6,757 -1,017 -13%
+Jan. 22,. 2022 
+7,774 -1,713 -18%
+Jan. 21,. 2022 
+9,487 -507 -5%
+Jan. 20,. 2022 
+9,994 447 5%
+Jan. 19,. 2022 
+9,547 755 9%
+Jan. 18,. 2022 
+8,792 2,081 31%
+Jan. 17,. 2022 
+6,711 709 12%
+Jan. 16,. 2022 
+6,002 -1,148 -16%
+Jan. 15,. 2022 
+7,150 -1,188 -14%
+Jan. 14,. 2022 
+8,338 -131 -2%
+Jan. 13,. 2022 
+8,469 -214 -2%
+Jan. 12,. 2022 
+8,683 0 0%
+Jan. 11,. 2022 
+8,683 2,598 43%
+Jan. 10,. 2022 
+6,085 1,164 24%
+Jan. 9,. 2022 
+4,921 -1,344 -21%
+Jan. 8,. 2022 
+6,265 -824 -12%
+Jan. 7,. 2022 
+7,089 -573 -7%
+Jan. 6,. 2022 
+7,662 104 1%
+Jan. 5,. 2022 
+7,558 -115 -1%
+Jan. 4,. 2022 
+7,673 2,443 47%
+Jan. 3,. 2022 
+5,230 1,104 27%
+Jan. 2,. 2022 
+4,126 -948 -19%
+Jan. 1,. 2022 
+5,074 -1,504 -23%
+Dec. 31,. 2021 
+6,578 -830 -11%
+Dec. 30,. 2021 
+7,408 -293 -4%
+Dec. 29,. 2021 
+7,701 415 6%
+Dec. 28,. 2021 
+7,286 1,744 31%
+Dec. 27,. 2021 
+5,542 1,232 29%
+Dec. 26,. 2021 
+4,310 -727 -14%
+Dec. 25,. 2021 
+5,037 -1,518 -23%
+Dec. 24,. 2021 
+6,555 -805 -11%
+Dec. 23,. 2021 
+7,360 -544 -7%
+Dec. 22,. 2021 
+7,904 313 4%
+Dec. 21,. 2021 
+7,591 1,481 24%
+Dec. 20,. 2021 
+6,110 1,278 26%
+Dec. 19,. 2021 
+4,832 -1,421 -23%
+Dec. 18,. 2021 
+6,253 -1,330 -18%
+Dec. 17,. 2021 
+7,583 -83 -1%
+Dec. 16,. 2021 
+7,666 -666 -8%
+Dec. 15,. 2021 
+8,332 515 7%
+Dec. 14,. 2021 
+7,817 1,726 28%
+Dec. 13,. 2021 
+6,091 890 17%
+Dec. 12,. 2021 
+5,201 -1,420 -21%
+Dec. 11,. 2021 
+6,621 -1,562 -19%
+Dec. 10,. 2021 
+8,183 -220 -3%
+Dec. 9,. 2021 
+8,403 168 2%
+Dec. 8,. 2021 
+8,235 83 1%
+Dec. 7,. 2021 
+8,152 1,817 29%
+Dec. 6,. 2021 
+6,335 1,200 23%
+Dec. 5,. 2021 
+5,135 -1,586 -24%
+Dec. 4,. 2021 
+6,721 -1,316 -16%
+Dec. 3,. 2021 
+8,037 77 1%
+Dec. 2,. 2021 
+7,960 -555 -7%
+Dec. 1,. 2021 
+8,515 322 4%
+Nov. 30,. 2021 
+8,193 1,848 29%
+Nov. 29,. 2021 
+6,345 1,029 19%
+Nov. 28,. 2021 
+5,316 -1,414 -21%
+Nov. 27,. 2021 
+6,730 -721 -10%
+Nov. 26,. 2021 
+7,451 -365 -5%
+Nov. 25,. 2021 
+7,816 -492 -6%
+Nov. 24,. 2021 
+8,308 -133 -2%
+Nov. 23,. 2021 
+8,441 2,095 33%
+Nov. 22,. 2021 
+6,346 1,031 19%
+Nov. 21,. 2021 
+5,315 -1,321 -20%
+Nov. 20,. 2021 
+6,636 -1,270 -16%
+Nov. 19,. 2021 
+7,906 -401 -5%
+Nov. 18,. 2021 
+8,307 -220 -3%
+Nov. 17,. 2021 
+8,527 793 10%
+Nov. 16,. 2021 
+7,734 1,765 30%
+Nov. 15,. 2021 
+5,969 504 9%
+Nov. 14,. 2021 
+5,465 -1,268 -19%
+Nov. 13,. 2021 
+6,733 -1,266 -16%
+Nov. 12,. 2021 
+7,999 331 4%
+Nov. 11,. 2021 
+7,668 -719 -9%
+Nov. 10,. 2021 
+8,387 557 7%
+Nov. 9,. 2021 
+7,830 1,652 27%
+Nov. 8,. 2021 
+6,178 677 12%
+Nov. 7,. 2021 
+5,501 -1,551 -22%
+Nov. 6,. 2021 
+7,052 -781 -10%
+Nov. 5,. 2021 
+7,833 65 1%
+Nov. 4,. 2021 
+7,768 -109 -1%
+Nov. 3,. 2021 
+7,877 642 9%
+Nov. 2,. 2021 
+7,235 1,223 20%
+Nov. 1,. 2021 
+6,012 523 10%
+Oct. 31,. 2021 
+5,489 -1,380 -20%
+Oct. 30,. 2021 
+6,869 -979 -12%
+Oct. 29,. 2021 
+7,848 -446 -5%
+Oct. 28,. 2021 
+8,294 -570 -6%
+Oct. 27,. 2021 
+8,864 1,026 13%
+Oct. 26,. 2021 
+7,838 1,903 32%
+Oct. 25,. 2021 
+5,935 239 4%
+Oct. 24,. 2021 
+5,696 -920 -14%
+Oct. 23,. 2021 
+6,616 -1,305 -16%
+Oct. 22,. 2021 
+7,921 177 2%
+Oct. 21,. 2021 
+7,744 343 5%
+Oct. 20,. 2021 
+7,401 40 1%
+Oct. 19,. 2021 
+7,361 1,927 35%
+Oct. 18,. 2021 
+5,434 82 2%
+Oct. 17,. 2021 
+5,352 -1,077 -17%
+Oct. 16,. 2021 
+6,429 -811 -11%
+Oct. 15,. 2021 
+7,240 -639 -8%
+Oct. 14,. 2021 
+7,879 255 3%
+Oct. 13,. 2021 
+7,624 558 8%
+Oct. 12,. 2021 
+7,066 1,676 31%
+Oct. 11,. 2021 
+5,390 -28 -1%
+Oct. 10,. 2021 
+5,418 -1,158 -18%
+Oct. 9,. 2021 
+6,576 -1,348 -17%
+Oct. 8,. 2021 
+7,924 -156 -2%
+Oct. 7,. 2021 
+8,080 -408 -5%
+Oct. 6,. 2021 
+8,488 688 9%
+Oct. 5,. 2021 
+7,800 2,087 37%
+Oct. 4,. 2021 
+5,713 -123 -2%
+Oct. 3,. 2021 
+5,836 -1,053 -15%
+Oct. 2,. 2021 
+6,889 -868 -11%
+Oct. 1,. 2021 
+7,757 -547 -7%
+Sep. 30,. 2021 
+8,304 -828 -9%
+Sep. 29,. 2021 
+9,132 448 5%
+Sep. 28,. 2021 
+8,684 2,341 37%
+Sep. 27,. 2021 
+6,343 81 1%
+Sep. 26,. 2021 
+6,262 -989 -14%
+Sep. 25,. 2021 
+7,251 -1,565 -18%
+Sep. 24,. 2021 
+8,816 -424 -5%
+Sep. 23,. 2021 
+9,240 -252 -3%
+Sep. 22,. 2021 
+9,492 700 8%
+Sep. 21,. 2021 
+8,792 2,094 31%
+Sep. 20,. 2021 
+6,698 -388 -5%
+Sep. 19,. 2021 
+7,086 -1,032 -13%
+Sep. 18,. 2021 
+8,118 -751 -8%
+Sep. 17,. 2021 
+8,869 -1,053 -11%
+Sep. 16,. 2021 
+9,922 -781 -7%
+Sep. 15,. 2021 
+10,703 1,120 12%
+Sep. 14,. 2021 
+9,583 1,974 26%
+Sep. 13,. 2021 
+7,609 -44 -1%
+Sep. 12,. 2021 
+7,653 -1,494 -16%
+Sep. 11,. 2021 
+9,147 -710 -7%
+Sep. 10,. 2021 
+9,857 -428 -4%
+Sep. 9,. 2021 
+10,285 18 0%
+Sep. 8,. 2021 
+10,267 781 8%
+Sep. 7,. 2021 
+9,486 1,502 19%
+Sep. 6,. 2021 
+7,984 -105 -1%
+Sep. 5,. 2021 
+8,089 -1,133 -12%
+Sep. 4,. 2021 
+9,222 -1,412 -13%
+Sep. 3,. 2021 
+10,634 -682 -6%
+Sep. 2,. 2021 
+11,316 785 7%
+Sep. 1,. 2021 
+10,531 48 0%
+Aug. 31,. 2021 
+10,483 1,841 21%
+Aug. 30,. 2021 
+8,642 -83 -1%
+Aug. 29,. 2021 
+8,725 -1,331 -13%
+Aug. 28,. 2021 
+10,056 -668 -6%
+Aug. 27,. 2021 
+10,724 -788 -7%
+Aug. 26,. 2021 
+11,512 -498 -4%
+Aug. 25,. 2021 
+12,010 834 7%
+Aug. 24,. 2021 
+11,176 2,792 33%
+Aug. 23,. 2021 
+8,384 -752 -8%
+Aug. 22,. 2021 
+9,136 -1,120 -11%
+Aug. 21,. 2021 
+10,256 -655 -6%
+Aug. 20,. 2021 
+10,911 -728 -6%
+Aug. 19,. 2021 
+11,639 465 4%
+Aug. 18,. 2021 
+11,174 578 5%
+Aug. 17,. 2021 
+10,596 2,097 25%
+Aug. 16,. 2021 
+8,499 -646 -7%
+Aug. 15,. 2021 
+9,145 -437 -5%
+Aug. 14,. 2021 
+9,582 -1,132 -11%
+Aug. 13,. 2021 
+10,714 -397 -4%
+Aug. 12,. 2021 
+11,111 388 4%
+Aug. 11,. 2021 
+10,723 -292 -3%
+Aug. 10,. 2021 
+11,015 2,384 28%
+Aug. 9,. 2021 
+8,631 -406 -4%
+Aug. 8,. 2021 
+9,037 -703 -7%
+Aug. 7,. 2021 
+9,740 -655 -6%
+Aug. 6,. 2021 
+10,395 -224 -2%
+Aug. 5,. 2021 
+10,619 310 3%
+Aug. 4,. 2021 
+10,309 27 0%
+Aug. 3,. 2021 
+10,282 1,546 18%
+Aug. 2,. 2021 
+8,736 516 6%
+Aug. 1,. 2021 
+8,220 -1,189 -13%
+Jul. 31,. 2021 
+9,409 -43 0%
+Jul. 30,. 2021 
+9,452 -1,275 -12%
+Jul. 29,. 2021 
+10,727 311 3%
+Jul. 28,. 2021 
+10,416 697 7%
+Jul. 27,. 2021 
+9,719 1,971 25%
+Jul. 26,. 2021 
+7,748 474 7%
+Jul. 25,. 2021 
+7,274 -1,329 -15%
+Jul. 24,. 2021 
+8,603 -291 -3%
+Jul. 23,. 2021 
+8,894 -151 -2%
+Jul. 22,. 2021 
+9,045 296 3%
+Jul. 21,. 2021 
+8,749 151 2%
+Jul. 20,. 2021 
+8,598 1,596 23%
+Jul. 19,. 2021 
+7,002 -348 -5%
+Jul. 18,. 2021 
+7,350 -169 -2%
+Jul. 17,. 2021 
+7,519 -1,251 -14%
+Jul. 16,. 2021 
+8,770 167 2%
+Jul. 15,. 2021 
+8,603 -191 -2%
+Jul. 14,. 2021 
+8,794 621 8%
+Jul. 13,. 2021 
+8,173 1,512 23%
+Jul. 12,. 2021 
+6,661 -176 -3%
+Jul. 11,. 2021 
+6,837 -979 -13%
+Jul. 10,. 2021 
+7,816 -776 -9%
+Jul. 9,. 2021 
+8,592 -386 -4%
+Jul. 8,. 2021 
+8,978 456 5%
+Jul. 7,. 2021 
+8,522 195 2%
+Jul. 6,. 2021 
+8,327 1,850 29%
+Jul. 5,. 2021 
+6,477 18 0%
+Jul. 4,. 2021 
+6,459 -1,049 -14%
+Jul. 3,. 2021 
+7,508 -1,126 -13%
+Jul. 2,. 2021 
+8,634 190 2%
+Jul. 1,. 2021 
+8,444 -464 -5%
+Jun. 30,. 2021 
+8,908 970 12%
+Jun. 29,. 2021 
+7,938 1,422 22%
+Jun. 28,. 2021 
+6,516 7 0%
+Jun. 27,. 2021 
+6,509 -1,331 -17%
+Jun. 26,. 2021 
+7,840 -1,046 -12%
+Jun. 25,. 2021 
+8,886 97 1%
+Jun. 24,. 2021 
+8,789 -442 -5%
+Jun. 23,. 2021 
+9,231 331 4%
+Jun. 22,. 2021 
+8,900 2,285 35%
+Jun. 21,. 2021 
+6,615 -382 -5%
+Jun. 20,. 2021 
+6,997 -1,900 -21%
+Jun. 19,. 2021 
+8,897 -299 -3%
+Jun. 18,. 2021 
+9,196 307 3%
+Jun. 17,. 2021 
+8,889 -691 -7%
+Jun. 16,. 2021 
+9,580 237 3%
+Jun. 15,. 2021 
+9,343 2,434 35%
+Jun. 14,. 2021 
+6,909 -195 -3%
+Jun. 13,. 2021 
+7,104 -1,722 -20%
+Jun. 12,. 2021 
+8,826 -754 -8%
+Jun. 11,. 2021 
+9,580 -791 -8%
+Jun. 10,. 2021 
+10,371 90 1%
+Jun. 9,. 2021 
+10,281 -114 -1%
+Jun. 8,. 2021 
+10,395 2,381 30%
+Jun. 7,. 2021 
+8,014 4 0%
+Jun. 6,. 2021 
+8,010 -1,555 -16%
+Jun. 5,. 2021 
+9,565 -1,069 -10%
+Jun. 4,. 2021 
+10,634 -608 -5%
+Jun. 3,. 2021 
+11,242 -216 -2%
+Jun. 2,. 2021 
+11,458 212 2%
+Jun. 1,. 2021 
+11,246 2,024 22%
+May. 31,. 2021 
+9,222 354 4%
+May. 30,. 2021 
+8,868 -2,348 -21%
+May. 29,. 2021 
+11,216 -971 -8%
+May. 28,. 2021 
+12,187 69 1%
+May. 27,. 2021 
+12,118 -735 -6%
+May. 26,. 2021 
+12,853 -120 -1%
+May. 25,. 2021 
+12,973 3,177 32%
+May. 24,. 2021 
+9,796 -1,031 -10%
+May. 23,. 2021 
+10,827 -1,106 -9%
+May. 22,. 2021 
+11,933 -1,855 -13%
+May. 21,. 2021 
+13,788 -419 -3%
+May. 20,. 2021 
+14,207 406 3%
+May. 19,. 2021 
+13,801 -1,211 -8%
+May. 18,. 2021 
+15,012 3,245 28%
+May. 17,. 2021 
+11,767 866 8%
+May. 16,. 2021 
+10,901 -2,690 -20%
+May. 15,. 2021 
+13,591 -745 -5%
+May. 14,. 2021 
+14,336 -358 -2%
+May. 13,. 2021 
+14,694 -33 0%
+May. 12,. 2021 
+14,727 76 1%
+May. 11,. 2021 
+14,651 2,798 24%
+May. 10,. 2021 
+11,853 559 5%
+May. 9,. 2021 
+11,294 -2,481 -18%
+May. 8,. 2021 
+13,775 -879 -6%
+May. 7,. 2021 
+14,654 -113 -1%
+May. 6,. 2021 
+14,767 -566 -4%
+May. 5,. 2021 
+15,333 432 3%
+May. 4,. 2021 
+14,901 3,069 26%
+May. 3,. 2021 
+11,832 773 7%
+May. 2,. 2021 
+11,059 -3,036 -22%
+May. 1,. 2021 
+14,095 -740 -5%
+Apr. 30,. 2021 
+14,835 -1,114 -7%
+Apr. 29,. 2021 
+15,949 276 2%
+Apr. 28,. 2021 
+15,673 -39 0%
+Apr. 27,. 2021 
+15,712 4,012 34%
+Apr. 26,. 2021 
+11,700 951 9%
+Apr. 25,. 2021 
+10,749 -3,538 -25%
+Apr. 24,. 2021 
+14,287 -489 -3%
+Apr. 23,. 2021 
+14,776 898 6%
+Apr. 22,. 2021 
+13,878 -473 -3%
+Apr. 21,. 2021 
+14,351 -357 -2%
+Apr. 20,. 2021 
+14,708 3,891 36%
+Apr. 19,. 2021 
+10,817 496 5%
+Apr. 18,. 2021 
+10,321 -1,788 -15%
+Apr. 17,. 2021 
+12,109 -946 -7%
+Apr. 16,. 2021 
+13,055 -1,292 -9%
+Apr. 15,. 2021 
+14,347 560 4%
+Apr. 14,. 2021 
+13,787 588 4%
+Apr. 13,. 2021 
+13,199 3,474 36%
+Apr. 12,. 2021 
+9,725 521 6%
+Apr. 11,. 2021 
+9,204 -2,269 -20%
+Apr. 10,. 2021 
+11,473 -2,149 -16%
+Apr. 9,. 2021 
+13,622 -428 -3%
+Apr. 8,. 2021 
+14,050 780 6%
+Apr. 7,. 2021 
+13,270 769 6%
+Apr. 6,. 2021 
+12,501 4,371 54%
+Apr. 5,. 2021 
+8,130 280 4%
+Apr. 4,. 2021 
+7,850 -1,372 -15%
+Apr. 3,. 2021 
+9,222 -1,532 -14%
+Apr. 2,. 2021 
+10,754 -1,127 -9%
+Apr. 1,. 2021 
+11,881 -301 -2%
+Mar. 31,. 2021 
+12,182 790 7%
+Mar. 30,. 2021 
+11,392 3,222 39%
+Mar. 29,. 2021 
+8,170 791 11%
+Mar. 28,. 2021 
+7,379 -2,842 -28%
+Mar. 27,. 2021 
+10,221 -1,404 -12%
+Mar. 26,. 2021 
+11,625 829 8%
+Mar. 25,. 2021 
+10,796 565 6%
+Mar. 24,. 2021 
+10,231 -684 -6%
+Mar. 23,. 2021 
+10,915 3,076 39%
+Mar. 22,. 2021 
+7,839 1,350 21%
+Mar. 21,. 2021 
+6,489 -2,236 -26%
+Mar. 20,. 2021 
+8,725 -1,728 -17%
+Mar. 19,. 2021 
+10,453 182 2%
+Mar. 18,. 2021 
+10,271 -66 -1%
+Mar. 17,. 2021 
+10,337 21 0%
+Mar. 16,. 2021 
+10,316 2,901 39%
+Mar. 15,. 2021 
+7,415 966 15%
+Mar. 14,. 2021 
+6,449 -1,939 -23%
+Mar. 13,. 2021 
+8,388 -1,197 -12%
+Mar. 12,. 2021 
+9,585 -131 -1%
+Mar. 11,. 2021 
+9,716 -263 -3%
+Mar. 10,. 2021 
+9,979 868 10%
+Mar. 9,. 2021 
+9,111 1,777 24%
+Mar. 8,. 2021 
+7,334 1,017 16%
+Mar. 7,. 2021 
+6,317 -1,843 -23%
+Mar. 6,. 2021 
+8,160 -1,564 -16%
+Mar. 5,. 2021 
+9,724 -371 -4%
+Mar. 4,. 2021 
+10,095 -328 -3%
+Mar. 3,. 2021 
+10,423 616 6%
+Mar. 2,. 2021 
+9,807 2,283 30%
+Mar. 1,. 2021 
+7,524 676 10%
+Feb. 28,. 2021 
+6,848 -1,706 -20%
+Feb. 27,. 2021 
+8,554 -1,212 -12%
+Feb. 26,. 2021 
+9,766 -819 -8%
+Feb. 25,. 2021 
+10,585 343 3%
+Feb. 24,. 2021 
+10,242 -384 -4%
+Feb. 23,. 2021 
+10,626 2,937 38%
+Feb. 22,. 2021 
+7,689 463 6%
+Feb. 21,. 2021 
+7,226 -1,803 -20%
+Feb. 20,. 2021 
+9,029 -1,926 -18%
+Feb. 19,. 2021 
+10,955 -366 -3%
+Feb. 18,. 2021 
+11,321 711 7%
+Feb. 17,. 2021 
+10,610 313 3%
+Feb. 16,. 2021 
+10,297 2,255 28%
+Feb. 15,. 2021 
+8,042 260 3%
+Feb. 14,. 2021 
+7,782 -2,781 -26%
+Feb. 13,. 2021 
+10,563 -1,266 -11%
+Feb. 12,. 2021 
+11,829 -1,312 -10%
+Feb. 11,. 2021 
+13,141 155 1%
+Feb. 10,. 2021 
+12,986 -287 -2%
+Feb. 9,. 2021 
+13,273 3,210 32%
+Feb. 8,. 2021 
+10,063 1,279 15%
+Feb. 7,. 2021 
+8,784 -2,915 -25%
+Feb. 6,. 2021 
+11,699 -1,978 -14%
+Feb. 5,. 2021 
+13,677 -472 -3%
+Feb. 4,. 2021 
+14,149 -243 -2%
+Feb. 3,. 2021 
+14,392 -539 -4%
+Feb. 2,. 2021 
+14,931 3,632 32%
+Feb. 1,. 2021 
+11,299 723 7%
+Jan. 31,. 2021 
+10,576 -2,757 -21%
+Jan. 30,. 2021 
+13,333 -1,733 -12%
+Jan. 29,. 2021 
+15,066 -1,306 -8%
+Jan. 28,. 2021 
+16,372 -298 -2%
+Jan. 27,. 2021 
+16,670 203 1%
+Jan. 26,. 2021 
+16,467 4,314 35%
+Jan. 25,. 2021 
+12,153 772 7%
+Jan. 24,. 2021 
+11,381 -3,226 -22%
+Jan. 23,. 2021 
+14,607 -1,349 -8%
+Jan. 22,. 2021 
+15,956 -1,093 -6%
+Jan. 21,. 2021 
+17,049 213 1%
+Jan. 20,. 2021 
+16,836 647 4%
+Jan. 19,. 2021 
+16,189 4,286 36%
+Jan. 18,. 2021 
+11,903 796 7%
+Jan. 17,. 2021 
+11,107 -3,061 -22%
+Jan. 16,. 2021 
+14,168 -1,282 -8%
+Jan. 15,. 2021 
+15,450 -641 -4%
+Jan. 14,. 2021 
+16,091 -6 0%
+Jan. 13,. 2021 
+16,097 -493 -3%
+Jan. 12,. 2021 
+16,590 4,786 41%
+Jan. 11,. 2021 
+11,804 1,101 10%
+Jan. 10,. 2021 
+10,703 -2,487 -19%
+Jan. 9,. 2021 
+13,190 -1,999 -13%
+Jan. 8,. 2021 
+15,189 191 1%
+Jan. 7,. 2021 
+14,998 338 2%
+Jan. 6,. 2021 
+14,660 -388 -3%
+Jan. 5,. 2021 
+15,048 3,880 35%
+Jan. 4,. 2021 
+11,168 1,862 20%
+Jan. 3,. 2021 
+9,306 -658 -7%
+Jan. 2,. 2021 
+9,964 -1,197 -11%
+Jan. 1,. 2021 
+11,161 -3,042 -21%
+Dec. 31,. 2020 
+14,203 -859 -6%
+Dec. 30,. 2020 
+15,062 37 0%
+Dec. 29,. 2020 
+15,025 3,849 34%
+Dec. 28,. 2020 
+11,176 1,724 18%
+Dec. 27,. 2020 
+9,452 627 7%
+Dec. 26,. 2020 
+8,825 -1,294 -13%
+Dec. 25,. 2020 
+10,119 -2,455 -20%
+Dec. 24,. 2020 
+12,574 -787 -6%
+Dec. 23,. 2020 
+13,361 -628 -4%
+Dec. 22,. 2020 
+13,989 2,761 25%
+Dec. 21,. 2020 
+11,228 1,649 17%
+Dec. 20,. 2020 
+9,579 -2,156 -18%
+Dec. 19,. 2020 
+11,735 -1,340 -10%
+Dec. 18,. 2020 
+13,075 -454 -3%
+Dec. 17,. 2020 
+13,529 -33 0%
+Dec. 16,. 2020 
+13,562 5 0%
+Dec. 15,. 2020 
+13,557 3,193 31%
+Dec. 14,. 2020 
+10,364 1,071 12%
+Dec. 13,. 2020 
+9,293 -2,386 -20%
+Dec. 12,. 2020 
+11,679 -919 -7%
+Dec. 11,. 2020 
+12,598 -575 -4%
+Dec. 10,. 2020 
+13,173 707 6%
+Dec. 9,. 2020 
+12,466 -116 -1%
+Dec. 8,. 2020 
+12,582 2,771 28%
+Dec. 7,. 2020 
+9,811 756 8%
+Dec. 6,. 2020 
+9,055 -2,174 -19%
+Dec. 5,. 2020 
+11,229 -1,151 -9%
+Dec. 4,. 2020 
+12,380 -640 -5%
+Dec. 3,. 2020 
+13,020 874 7%
+Dec. 2,. 2020 
+12,146 -392 -3%
+Dec. 1,. 2020 
+12,538 2,603 26%
+Nov. 30,. 2020 
+9,935 1,056 12%
+Nov. 29,. 2020 
+8,879 -1,429 -14%
+Nov. 28,. 2020 
+10,308 -1,097 -10%
+Nov. 27,. 2020 
+11,405 -171 -1%
+Nov. 26,. 2020 
+11,576 -504 -4%
+Nov. 25,. 2020 
+12,080 -325 -3%
+Nov. 24,. 2020 
+12,405 2,895 30%
+Nov. 23,. 2020 
+9,510 687 8%
+Nov. 22,. 2020 
+8,823 -1,184 -12%
+Nov. 21,. 2020 
+10,007 -1,314 -12%
+Nov. 20,. 2020 
+11,321 -174 -2%
+Nov. 19,. 2020 
+11,495 -291 -2%
+Nov. 18,. 2020 
+11,786 859 8%
+Nov. 17,. 2020 
+10,927 2,197 25%
+Nov. 16,. 2020 
+8,730 681 8%
+Nov. 15,. 2020 
+8,049 -1,804 -18%
+Nov. 14,. 2020 
+9,853 -562 -5%
+Nov. 13,. 2020 
+10,415 569 6%
+Nov. 12,. 2020 
+9,846 -84 -1%
+Nov. 11,. 2020 
+9,930 130 1%
+Nov. 10,. 2020 
+9,800 1,872 24%
+Nov. 9,. 2020 
+7,928 773 11%
+Nov. 8,. 2020 
+7,155 -1,081 -13%
+Nov. 7,. 2020 
+8,236 -1,215 -13%
+Nov. 6,. 2020 
+9,451 -14 0%
+Nov. 5,. 2020 
+9,465 194 2%
+Nov. 4,. 2020 
+9,271 684 8%
+Nov. 3,. 2020 
+8,587 1,758 26%
+Nov. 2,. 2020 
+6,829 671 11%
+Nov. 1,. 2020 
+6,158 -806 -12%
+Oct. 31,. 2020 
+6,964 -681 -9%
+Oct. 30,. 2020 
+7,645 387 5%
+Oct. 29,. 2020 
+7,258 117 2%
+Oct. 28,. 2020 
+7,141 -111 -2%
+Oct. 27,. 2020 
+7,252 1,370 23%
+Oct. 26,. 2020 
+5,882 878 18%
+Oct. 25,. 2020 
+5,004 -1,019 -17%
+Oct. 24,. 2020 
+6,023 -689 -10%
+Oct. 23,. 2020 
+6,712 -7 0%
+Oct. 22,. 2020 
+6,719 -178 -3%
+Oct. 21,. 2020 
+6,897 410 6%
+Oct. 20,. 2020 
+6,487 1,365 27%
+Oct. 19,. 2020 
+5,122 561 12%
+Oct. 18,. 2020 
+4,561 -1,368 -23%
+Oct. 17,. 2020 
+5,929 -460 -7%
+Oct. 16,. 2020 
+6,389 223 4%
+Oct. 15,. 2020 
+6,166 17 0%
+Oct. 14,. 2020 
+6,149 900 17%
+Oct. 13,. 2020 
+5,249 815 18%
+Oct. 12,. 2020 
+4,434 -397 -8%
+Oct. 11,. 2020 
+4,831 -566 -10%
+Oct. 10,. 2020 
+5,397 -606 -10%
+Oct. 9,. 2020 
+6,003 -584 -9%
+Oct. 8,. 2020 
+6,587 552 9%
+Oct. 7,. 2020 
+6,035 122 2%
+Oct. 6,. 2020 
+5,913 1,084 22%
+Oct. 5,. 2020 
+4,829 375 8%
+Oct. 4,. 2020 
+4,454 -603 -12%
+Oct. 3,. 2020 
+5,057 -634 -11%
+Oct. 2,. 2020 
+5,691 78 1%
+Oct. 1,. 2020 
+5,613 -83 -1%
+Sep. 30,. 2020 
+5,696 -44 -1%
+Sep. 29,. 2020 
+5,740 1,648 40%
+Sep. 28,. 2020 
+4,092 -152 -4%
+Sep. 27,. 2020 
+4,244 -1,039 -20%
+Sep. 26,. 2020 
+5,283 -293 -5%
+Sep. 25,. 2020 
+5,576 56 1%
+Sep. 24,. 2020 
+5,520 -324 -6%
+Sep. 23,. 2020 
+5,844 92 2%
+Sep. 22,. 2020 
+5,752 1,444 34%
+Sep. 21,. 2020 
+4,308 -77 -2%
+Sep. 20,. 2020 
+4,385 -838 -16%
+Sep. 19,. 2020 
+5,223 -600 -10%
+Sep. 18,. 2020 
+5,823 46 1%
+Sep. 17,. 2020 
+5,777 -286 -5%
+Sep. 16,. 2020 
+6,063 -220 -4%
+Sep. 15,. 2020 
+6,283 1,434 30%
+Sep. 14,. 2020 
+4,849 391 9%
+Sep. 13,. 2020 
+4,458 -875 -16%
+Sep. 12,. 2020 
+5,333 -573 -10%
+Sep. 11,. 2020 
+5,906 -68 -1%
+Sep. 10,. 2020 
+5,974 -134 -2%
+Sep. 9,. 2020 
+6,108 960 19%
+Sep. 8,. 2020 
+5,148 515 11%
+Sep. 7,. 2020 
+4,633 -92 -2%
+Sep. 6,. 2020 
+4,725 -637 -12%
+Sep. 5,. 2020 
+5,362 -801 -13%
+Sep. 4,. 2020 
+6,163 -59 -1%
+Sep. 3,. 2020 
+6,222 -331 -5%
+Sep. 2,. 2020 
+6,553 94 1%
+Sep. 1,. 2020 
+6,459 1,512 31%
+Aug. 31,. 2020 
+4,947 118 2%
+Aug. 30,. 2020 
+4,829 -885 -15%
+Aug. 29,. 2020 
+5,714 -550 -9%
+Aug. 28,. 2020 
+6,264 -302 -5%
+Aug. 27,. 2020 
+6,566 -82 -1%
+Aug. 26,. 2020 
+6,648 -72 -1%
+Aug. 25,. 2020 
+6,720 1,576 31%
+Aug. 24,. 2020 
+5,144 -45 -1%
+Aug. 23,. 2020 
+5,189 -915 -15%
+Aug. 22,. 2020 
+6,104 -552 -8%
+Aug. 21,. 2020 
+6,656 -67 -1%
+Aug. 20,. 2020 
+6,723 -211 -3%
+Aug. 19,. 2020 
+6,934 42 1%
+Aug. 18,. 2020 
+6,892 1,599 30%
+Aug. 17,. 2020 
+5,293 28 1%
+Aug. 16,. 2020 
+5,265 -850 -14%
+Aug. 15,. 2020 
+6,115 -467 -7%
+Aug. 14,. 2020 
+6,582 -467 -7%
+Aug. 13,. 2020 
+7,049 39 1%
+Aug. 12,. 2020 
+7,010 261 4%
+Aug. 11,. 2020 
+6,749 1,310 24%
+Aug. 10,. 2020 
+5,439 -120 -2%
+Aug. 9,. 2020 
+5,559 -558 -9%
+Aug. 8,. 2020 
+6,117 -913 -13%
+Aug. 7,. 2020 
+7,030 -22 0%
+Aug. 6,. 2020 
+7,052 -444 -6%
+Aug. 5,. 2020 
+7,496 580 8%
+Aug. 4,. 2020 
+6,916 1,349 24%
+Aug. 3,. 2020 
+5,567 399 8%
+Aug. 2,. 2020 
+5,168 -1,116 -18%
+Aug. 1,. 2020 
+6,284 -591 -9%
+Jul. 31,. 2020 
+6,875 -181 -3%
+Jul. 30,. 2020 
+7,056 -188 -3%
+Jul. 29,. 2020 
+7,244 667 10%
+Jul. 28,. 2020 
+6,577 1,134 21%
+Jul. 27,. 2020 
+5,443 187 4%
+Jul. 26,. 2020 
+5,256 -1,147 -18%
+Jul. 25,. 2020 
+6,403 -489 -7%
+Jul. 24,. 2020 
+6,892 -97 -1%
+Jul. 23,. 2020 
+6,989 -626 -8%
+Jul. 22,. 2020 
+7,615 833 12%
+Jul. 21,. 2020 
+6,782 1,544 29%
+Jul. 20,. 2020 
+5,238 9 0%
+Jul. 19,. 2020 
+5,229 -621 -11%
+Jul. 18,. 2020 
+5,850 -513 -8%
+Jul. 17,. 2020 
+6,363 -318 -5%
+Jul. 16,. 2020 
+6,681 294 5%
+Jul. 15,. 2020 
+6,387 -5 0%
+Jul. 14,. 2020 
+6,392 1,456 29%
+Jul. 13,. 2020 
+4,936 -240 -5%
+Jul. 12,. 2020 
+5,176 -532 -9%
+Jul. 11,. 2020 
+5,708 -322 -5%
+Jul. 10,. 2020 
+6,030 -127 -2%
+Jul. 9,. 2020 
+6,157 205 3%
+Jul. 8,. 2020 
+5,952 -283 -5%
+Jul. 7,. 2020 
+6,235 1,530 33%
+Jul. 6,. 2020 
+4,705 235 5%
+Jul. 5,. 2020 
+4,470 -893 -17%
+Jul. 4,. 2020 
+5,363 -437 -8%
+Jul. 3,. 2020 
+5,800 76 1%
+Jul. 2,. 2020 
+5,724 218 4%
+Jul. 1,. 2020 
+5,506 -321 -6%
+Jun. 30,. 2020 
+5,827 1,009 21%
+Jun. 29,. 2020 
+4,818 417 9%
+Jun. 28,. 2020 
+4,401 -857 -16%
+Jun. 27,. 2020 
+5,258 -195 -4%
+Jun. 26,. 2020 
+5,453 -189 -3%
+Jun. 25,. 2020 
+5,642 74 1%
+Jun. 24,. 2020 
+5,568 -232 -4%
+Jun. 23,. 2020 
+5,800 1,596 38%
+Jun. 22,. 2020 
+4,204 -453 -10%
+Jun. 21,. 2020 
+4,657 -484 -9%
+Jun. 20,. 2020 
+5,141 -738 -13%
+Jun. 19,. 2020 
+5,879 -50 -1%
+Jun. 18,. 2020 
+5,929 -61 -1%
+Jun. 17,. 2020 
+5,990 -1,454 -20%
+Jun. 16,. 2020 
+7,444 2,702 57%
+Jun. 15,. 2020 
+4,742 186 4%
+Jun. 14,. 2020 
+4,556 -667 -13%
+Jun. 13,. 2020 
+5,223 -234 -4%
+Jun. 12,. 2020 
+5,457 -252 -4%
+Jun. 11,. 2020 
+5,709 -159 -3%
+Jun. 10,. 2020 
+5,868 389 7%
+Jun. 9,. 2020 
+5,479 1,038 23%
+Jun. 8,. 2020 
+4,441 -375 -8%
+Jun. 7,. 2020 
+4,816 -184 -4%
+Jun. 6,. 2020 
+5,000 -285 -5%
+Jun. 5,. 2020 
+5,285 -385 -7%
+Jun. 4,. 2020 
+5,670 101 2%
+Jun. 3,. 2020 
+5,569 27 0%
+Jun. 2,. 2020 
+5,542 1,069 24%
+Jun. 1,. 2020 
+4,473 231 5%
+May. 31,. 2020 
+4,242 -727 -15%
+May. 30,. 2020 
+4,969 -423 -8%
+May. 29,. 2020 
+5,392 170 3%
+May. 28,. 2020 
+5,222 -322 -6%
+May. 27,. 2020 
+5,544 606 12%
+May. 26,. 2020 
+4,938 272 6%
+May. 25,. 2020 
+4,666 499 12%
+May. 24,. 2020 
+4,167 -781 -16%
+May. 23,. 2020 
+4,948 -618 -11%
+May. 22,. 2020 
+5,566 -271 -5%
+May. 21,. 2020 
+5,837 418 8%
+May. 20,. 2020 
+5,419 -470 -8%
+May. 19,. 2020 
+5,889 1,118 23%
+May. 18,. 2020 
+4,771 192 4%
+May. 17,. 2020 
+4,579 -485 -10%
+May. 16,. 2020 
+5,064 -902 -15%
+May. 15,. 2020 
+5,966 -53 -1%
+May. 14,. 2020 
+6,019 195 3%
+May. 13,. 2020 
+5,824 -455 -7%
+May. 12,. 2020 
+6,279 1,191 23%
+May. 11,. 2020 
+5,088 -445 -8%
+May. 10,. 2020 
+5,533 -294 -5%
+May. 9,. 2020 
+5,827 -400 -6%
+May. 8,. 2020 
+6,227 -204 -3%
+May. 7,. 2020 
+6,431 -1,034 -14%
+May. 6,. 2020 
+7,465 1,068 17%
+May. 5,. 2020 
+6,397 558 10%
+May. 4,. 2020 
+5,839 694 13%
+May. 3,. 2020 
+5,145 -1,497 -23%
+May. 2,. 2020 
+6,642 -118 -2%
+May. 1,. 2020 
+6,760 259 4%
+Apr. 30,. 2020 
+6,501 -794 -11%
+Apr. 29,. 2020 
+7,295 -86 -1%
+Apr. 28,. 2020 
+7,381 1,399 23%
+Apr. 27,. 2020 
+5,982 705 13%
+Apr. 26,. 2020 
+5,277 -1,679 -24%
+Apr. 25,. 2020 
+6,956 61 1%
+Apr. 24,. 2020 
+6,895 -720 -9%
+Apr. 23,. 2020 
+7,615 269 4%
+Apr. 22,. 2020 
+7,346 -257 -3%
+Apr. 21,. 2020 
+7,603 726 11%
+Apr. 20,. 2020 
+6,877 633 10%
+Apr. 19,. 2020 
+6,244 -875 -12%
+Apr. 18,. 2020 
+7,119 -2,270 -24%
+Apr. 17,. 2020 
+9,389 1,969 27%
+Apr. 16,. 2020 
+7,420 -1,507 -17%
+Apr. 15,. 2020 
+8,927 1,112 14%
+Apr. 14,. 2020 
+7,815 1,062 16%
+Apr. 13,. 2020 
+6,753 20 0%
+Apr. 12,. 2020 
+6,733 -279 -4%
+Apr. 11,. 2020 
+7,012 -632 -8%
+Apr. 10,. 2020 
+7,644 -589 -7%
+Apr. 9,. 2020 
+8,233 953 13%
+Apr. 8,. 2020 
+7,280 -504 -6%
+Apr. 7,. 2020 
+7,784 1,156 17%
+Apr. 6,. 2020 
+6,628 796 14%
+Apr. 5,. 2020 
+5,832 -797 -12%
+Apr. 4,. 2020 
+6,629 91 1%
+Apr. 3,. 2020 
+6,538 -10 0%
+Apr. 2,. 2020 
+6,548 1,019 18%
+Apr. 1,. 2020 
+5,529 543 11%
+Mar. 31,. 2020 
+4,986 466 10%
+Mar. 30,. 2020 
+4,520 751 20%
+Mar. 29,. 2020 
+3,769 -215 -5%
+Mar. 28,. 2020 
+3,984 353 10%
+Mar. 27,. 2020 
+3,631 422 13%
+Mar. 26,. 2020 
+3,209 552 21%
+Mar. 25,. 2020 
+2,657 25 1%
+Mar. 24,. 2020 
+2,632 553 27%
+Mar. 23,. 2020 
+2,079 249 14%
+Mar. 22,. 2020 
+1,830 108 6%
+Mar. 21,. 2020 
+1,722 274 19%
+Mar. 20,. 2020 
+1,448 351 32%
+Mar. 19,. 2020 
+1,097 64 6%
+Mar. 18,. 2020 
+1,033 157 18%
+Mar. 17,. 2020 
+876 199 29%
+Mar. 16,. 2020 
+677 -35 -5%
+Mar. 15,. 2020 
+712 287 68%
+Mar. 14,. 2020 
+425 -38 -8%
+Mar. 13,. 2020 
+463 77 20%
+Mar. 12,. 2020 
+386 53 16%
+Mar. 11,. 2020 
+333 57 21%
+Mar. 10,. 2020 
+276 78 39%
+Mar. 9,. 2020 
+198 -29 -13%
+Mar. 8,. 2020 
+227 120 112%
+Mar. 7,. 2020 
+107 1 1%
+Mar. 6,. 2020 
+106 4 4%
+Mar. 5,. 2020 
+102 19 23%
+Mar. 4,. 2020 
+83 -2 -2%
+Mar. 3,. 2020 
+85 19 29%
+Mar. 2,. 2020 
+66 -8 -11%
+Mar. 1,. 2020 
+74 20 37%
+Feb. 29,. 2020 
+54 -11 -17%
+Feb. 28,. 2020 
+65 7 12%
+Feb. 27,. 2020 
+58 22 61%
+Feb. 26,. 2020 
+36 -28 -44%
+Feb. 25,. 2020 
+64 -17 -21%
+Feb. 24,. 2020 
+81 -78 -49%
+Feb. 23,. 2020 
+159 59 59%
+Feb. 22,. 2020 
+100 -13 -12%
+Feb. 21,. 2020 
+113 -8 -7%
+Feb. 20,. 2020 
+121 4 3%
+Feb. 19,. 2020 
+117 -19 -14%
+Feb. 18,. 2020 
+136 38 39%
+Feb. 17,. 2020 
+98 -8 -8%
+Feb. 16,. 2020 
+106 -36 -25%
+Feb. 15,. 2020 
+142 -1 -1%
+Feb. 14,. 2020 
+143 21 17%
+Feb. 13,. 2020 
+122 -24 -16%
+Feb. 12,. 2020 
+146 49 51%
+Feb. 11,. 2020 
+97 -11 -10%
+Feb. 10,. 2020 
+108 10 10%
+Feb. 9,. 2020 
+98 4 4%
+Feb. 8,. 2020 
+94 8 9%
+Feb. 7,. 2020 
+86 13 18%
+Feb. 6,. 2020 
+73 0 0%
+Feb. 5,. 2020 
+73 7 11%
+Feb. 4,. 2020 
+66 1 2%
+Feb. 3,. 2020 
+65 7 12%
+Feb. 2,. 2020 
+58 13 29%
+Feb. 1,. 2020 
+45 -2 -4%
+Jan. 31,. 2020 
+47 3 7%
+Jan. 30,. 2020 
+44 4 10%
+Jan. 29,. 2020 
+40 13 48%
+Jan. 28,. 2020 
+27 1 4%
+Jan. 27,. 2020 
+26 2 8%
+Jan. 26,. 2020 
+24 9 60%
+Jan. 25,. 2020 
+15 -4 -21%
+Jan. 24,. 2020 
+19 10 111%
+
+*Feb. 12: data resulting from the new diagnosis classification adopted by Hubei starting on Feb. 12
+about | faq | languages | contact
+© Copyright Worldometers.info - All rights reserved - Disclaimer & Privacy Policy
+Source 1 : Population
+Coronavirus
+NOTE: As of April 13, 2024, the Coronavirus Tracker is no longer being updated due to the unfeasibility of providing statistically valid global totals, as the majority of countries have now stopped reporting. However, historical data remain accessible. Worldometer delivered the most accurate and timely global statistics to users and institutions around the world at a time when this was extremely challenging. We thank everyone who participated in this extraordinary collaborative effort.
+WORLD / COUNTRIES / UNITED STATES
+Last updated: April 13, 2024, 01:00 GMT
+ United States
+Coronavirus Cases:
+111,820,082
+Deaths:
+1,219,487
+Recovered:
+109,814,428
+Daily Cases Graph - Daily Deaths Graph
+Projections
+CLOSED CASES
+111,033,915
+Cases which had an outcome:
+109,814,428 (99%)
+Recovered / Discharged
+
+1,219,487 (1%)
+Deaths
+
+Show Graph
+Feb 15…
+Jul 16,…
+Dec 1…
+May 1…
+Oct 15…
+Mar 1…
+Aug 1…
+Jan 14…
+Jun 15…
+Nov 1…
+0%
+100%
+Show Statistics
+Learn more about Worldometer's COVID-19 data
+Report coronavirus cases
+  Now
+Yesterday
+Search:
+# USA
+State Total
+Cases Total
+Deaths Total
+Recovered Tot Cases/
+1M pop Deaths/
+1M pop Population Source
+USA Total 111,820,082 1,219,487 109,814,428 337,912 3,685  
+1 California 12,711,918 112,443 12,579,483 321,721 2,846 39,512,223 [1] 
+2 Texas 9,190,299 104,793 9,071,380 316,952 3,614 28,995,881 [1] [2] 
+3 Florida 8,048,191 95,206 7,937,032 374,722 4,433 21,477,737 [1] 
+4 New York 7,587,861 83,374 7,498,921 390,050 4,286 19,453,561 [1] [2] 
+5 Illinois 4,136,659 42,005 4,094,654 326,446 3,315 12,671,821 [1] 
+6 Ohio 3,741,277 43,896 3,684,603 320,065 3,755 11,689,100 [view by county] [1] [2] [3] 
+7 Pennsylvania 3,565,499 51,480 N/A 278,511 4,021 12,801,989 [1] 
+8 North Carolina 3,501,404 29,059 N/A 333,846 2,771 10,488,084 [1] [2] [3] [4] 
+9 Michigan 3,306,221 44,762 3,253,388 331,057 4,482 9,986,857 [1] [2] [3] [4] [5] 
+10 New Jersey 3,295,020 36,873 3,238,767 370,969 4,151 8,882,190 [1] 
+11 Georgia 3,287,483 44,069 3,233,141 309,631 4,151 10,617,423 [1] 
+12 Tennessee 2,729,641 30,729 2,696,520 399,703 4,500 6,829,174 [1] 
+13 Arizona 2,607,545 34,402 2,568,992 358,242 4,726 7,278,717 [1] 
+14 Massachusetts 2,367,542 25,586 2,340,391 343,495 3,712 6,892,503 [1] 
+15 Virginia 2,315,784 23,748 2,289,616 271,311 2,782 8,535,519 [1] [2] [3] 
+16 Indiana 2,208,419 28,018 N/A 328,037 4,162 6,732,219 [1] [2] [3] 
+17 Washington 2,070,848 17,339 2,049,813 271,947 2,277 7,614,893 [1] 
+18 Wisconsin 2,043,838 16,758 2,020,642 351,028 2,878 5,822,434 [1] 
+19 Minnesota 1,900,794 16,458 1,883,431 337,042 2,918 5,639,632 [1] [2] [3] [4] 
+20 Colorado 1,874,746 15,552 1,853,711 325,548 2,701 5,758,736 [1] [2] 
+21 South Carolina 1,857,853 20,311 1,827,064 360,838 3,945 5,148,714 [1] 
+22 Kentucky 1,808,735 19,183 1,752,972 404,849 4,294 4,467,673 [1] [2] [3] [4] 
+23 Missouri 1,780,715 22,778 1,757,937 290,140 3,711 6,137,428 [1] [2] [3] [4] [5] [6] [7] [8] 
+24 Louisiana 1,684,058 19,270 1,662,287 362,257 4,145 4,648,794 [1] [2] [3] 
+25 Alabama 1,659,936 21,138 1,623,935 338,542 4,311 4,903,185 [1] [2] [3] 
+26 Maryland 1,451,442 17,929 1,429,776 240,079 2,966 6,045,680 [1] 
+27 Oklahoma 1,306,350 16,157 1,288,527 330,139 4,083 3,956,971 [1] [2] [3] [4] 
+28 Utah 1,137,615 5,719 1,131,183 354,844 1,784 3,205,958 [1] [2] [3] 
+29 Arkansas 1,062,606 13,246 1,048,521 352,112 4,389 3,017,804 [1] [2] [3] [4] [5] 
+30 Iowa 1,058,274 10,797 1,031,729 335,420 3,422 3,155,070 [1] 
+31 Mississippi 1,000,415 13,474 984,056 336,144 4,527 2,976,149 [1] [2] [3] 
+32 Oregon 992,925 9,764 982,773 235,417 2,315 4,217,737 [1] 
+33 Connecticut 983,652 12,354 969,400 275,897 3,465 3,565,287 [1] [2] [3] 
+34 Kansas 946,564 10,229 934,730 324,910 3,511 2,913,314 [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] 
+35 Nevada 923,059 12,485 908,273 299,679 4,053 3,080,156 [1] [2] 
+36 New Mexico 725,653 9,623 N/A 346,072 4,589 2,096,829 [1] [2] [3] [4] [5] 
+37 West Virginia 703,856 8,247 689,426 392,745 4,602 1,792,147 [1] 
+38 Nebraska 574,399 5,063 566,979 296,938 2,617 1,934,408 [1] [2] [3] [4] [5] 
+39 Idaho 525,825 5,482 517,984 294,239 3,068 1,787,065 [1] [2] [3] 
+40 Rhode Island 443,803 4,166 439,178 418,935 3,933 1,059,361 [1] [2] 
+41 Hawaii 418,369 2,167 414,957 295,485 1,531 1,415,872 [1] [2] [3] [4] [5] 
+42 New Hampshire 382,013 3,329 N/A 280,952 2,448 1,359,711 [1] [2] [3] 
+43 Delaware 350,706 3,663 346,470 360,155 3,762 973,764 [1] [2] 
+44 Maine 346,182 3,394 341,966 257,535 2,525 1,344,212 [1] [2] 
+45 Montana 333,758 3,712 329,725 312,280 3,473 1,068,778 [1] [2] [3] [4] 
+46 North Dakota 309,990 2,513 307,193 406,778 3,298 762,062 [1] [2] 
+47 Alaska 301,513 1,485 298,902 412,159 2,030 731,545 [1] 
+48 South Dakota 282,895 3,231 N/A 319,779 3,652 884,659 [1] 
+49 Wyoming 196,126 2,126 193,878 338,873 3,673 578,759 [1] [2] 
+50 District Of Columbia 178,747 1,434 176,928 253,273 2,032 705,749 [1] 
+51 Vermont 155,080 1,139 153,893 248,530 1,825 623,989 [1] [2] [3] 
+52 Puerto Rico 1,473,460 7,326 1,460,418 435,042 2,163 3,386,941 [1] [2] [3] [4] [5] 
+53 Guam 61,139 420 60,681 [1] [2] [3] 
+54 United States Virgin Islands 26,148 133 26,002 [1] [2] 
+55 Northern Mariana Islands 14,341 41 N/A [1] [2] [3] 
+56 American Samoa 8,359 34 N/A [1] [2] [3] [4] 
+57 Veteran Affairs 958,962 26,087 931,580 [1] [2] 
+58 US Military 742,808 689 N/A [1] [2] [3] 
+59 Navajo Nation 89,106 2,268 N/A [1] [2] [3] [4] 
+60 Federal Prisons 71,485 324 N/A [1] 
+61 Grand Princess Ship 122 7 115 [1] 
+62 Wuhan Repatriated 3 3
+63 Diamond Princess Ship 46 46
+Total: 111,820,082 1,219,487 109,814,428 337,912 3,685    
+
+
+
+
+
+
+Total Coronavirus Cases in the United States
+linear
+logarithmic
+Total Coronavirus Cases
+Total Cases
+(Linear Scale)
+Feb 15, 2020
+Apr 28, 2020
+Jul 10, 2020
+Sep 21, 2020
+Dec 03, 2020
+Feb 14, 2021
+Apr 28, 2021
+Jul 10, 2021
+Sep 21, 2021
+Dec 03, 2021
+Feb 14, 2022
+Apr 28, 2022
+Jul 10, 2022
+Sep 21, 2022
+Dec 03, 2022
+Feb 14, 2023
+Apr 28, 2023
+Jul 10, 2023
+Sep 21, 2023
+Dec 03, 2023
+Feb 14, 2024
+0
+25M
+50M
+75M
+100M
+125M
+Cases
+Daily New Cases in the United States
+Novel Coronavirus Daily Cases
+Daily New Cases
+Cases per DayData as of 0:00 GMT+0
+Feb 15, 2020
+May 21, 2020
+Aug 25, 2020
+Nov 29, 2020
+Mar 05, 2021
+Jun 09, 2021
+Sep 13, 2021
+Dec 18, 2021
+Mar 24, 2022
+Jun 28, 2022
+Oct 02, 2022
+Jan 06, 2023
+Apr 12, 2023
+Jul 17, 2023
+Oct 21, 2023
+Jan 25, 2024
+0
+250k
+500k
+750k
+1 000k
+Daily Cases
+3-day moving average
+7-day moving average
+See also: Daily Deaths Graph
+Active Cases in the United States
+Total Coronavirus Currently Infected
+Active Cases
+(Number of Infected People)
+Feb 15, 2020
+May 06, 2020
+Jul 26, 2020
+Oct 15, 2020
+Jan 04, 2021
+Mar 26, 2021
+Jun 15, 2021
+Sep 04, 2021
+Nov 24, 2021
+Feb 13, 2022
+May 05, 2022
+Jul 25, 2022
+Oct 14, 2022
+Jan 03, 2023
+Mar 25, 2023
+Jun 14, 2023
+Sep 03, 2023
+Nov 23, 2023
+Feb 12, 2024
+0
+5M
+10M
+15M
+20M
+Currently Infected
+Total Coronavirus Deaths in the United States
+linear
+logarithmic
+Total Coronavirus Deaths
+Total Deaths
+(Linear Scale)
+Feb 15, 2020
+Apr 30, 2020
+Jul 14, 2020
+Sep 27, 2020
+Dec 11, 2020
+Feb 24, 2021
+May 10, 2021
+Jul 24, 2021
+Oct 07, 2021
+Dec 21, 2021
+Mar 06, 2022
+May 20, 2022
+Aug 03, 2022
+Oct 17, 2022
+Dec 31, 2022
+Mar 16, 2023
+May 30, 2023
+Aug 13, 2023
+Oct 27, 2023
+Jan 10, 2024
+Mar 25, 2024
+0
+500k
+1 000k
+1 500k
+Deaths
+Daily New Deaths in the United States
+Novel Coronavirus Daily Deaths
+Daily Deaths
+Deaths per DayData as of 0:00 GMT+8
+Feb 15, 2020
+May 14, 2020
+Aug 11, 2020
+Nov 08, 2020
+Feb 05, 2021
+May 05, 2021
+Aug 02, 2021
+Oct 30, 2021
+Jan 27, 2022
+Apr 26, 2022
+Jul 24, 2022
+Oct 21, 2022
+Jan 18, 2023
+Apr 17, 2023
+Jul 15, 2023
+Oct 12, 2023
+Jan 09, 2024
+Apr 07, 2024
+0
+1k
+2k
+3k
+4k
+5k
+Daily Deaths
+3-day moving average
+7-day moving average
+See also: Daily Cases Graph
+Historical account of the initial stages of the epidemic in the United States
+Content:
+
+First 20 cases in the United States
+Progression of first suspected cases
+Timeline of initial events
+Sources for the historical account
+First 20 cases in the United States
+Information collected on the first 20 domestic cases (not including repatriated cases and Diamond Princess cruise ship evacuee cases) is presented in the table below:
+State Cases Sex Age Date Case # Location Source
+Oregon 1     Feb. 29 17th Washington C.  
+Washington 2     Feb. 29 18,19th    
+1 M 30s Jan. 21 1st Snohomish [7]
+Illinois
+1     Mar. 1 20th    
+1 M 60s Jan. 30 6th Chicago [12]
+1 F 60s Jan. 24 2nd Chicago [8]
+California
+2 unkn. unkn. Jan. 26 3rd,4th Orange C., L.A. [9]
+1 M adult Jan. 31 7th Santa Clara C. [17][18]
+1 F unkn. Feb. 2 9th Santa Clara C.  
+1 M 57 Feb. 2 10th San Benito C.  
+1 F 57 Feb. 2 11th San Benito C.  
+1   65 Feb. 28 16th Santa Clara C.  
+1     Feb. 21 13th Humboldt C.  
+1     Feb. 21 14th Sacramento C.  
+1     Feb. 26 15th [Northern California]  
+                Massachusetts
+1 M 20s Feb. 1 8th Boston [16]
+Arizona
+1 unkn. student Jan. 26 5th Maricopa County  
+Wisconsin 1     Feb. 5 12th Madison  
+  Patients Under Investigation (PUI) in the United States
+CDC in the early stages released information regarding the number of cases and people under investigation that was updated regularly on Mondays, Wednesdays, and Fridays. Below we provide the historical reports that we were able to gather in order to track the progression in the number of suspected cases and US states involved through time in the initial stages
+As of Feb. 10:
+Number of U.S. States with PUI
+36
+Positive
+12
+Negative
+318
+Pending
+(specimens awaiting testing)
+68
+TOTAL
+398
+As of Feb. 7:
+Number of U.S. States with PUI
+36
+Positive
+12
+Negative
+225
+Pending
+(specimens awaiting testing)
+100
+TOTAL
+337
+As of Feb. 5:
+Number of U.S. States with PUI
+36
+Positive
+11
+Negative
+206
+Pending
+(specimens awaiting testing)
+76
+TOTAL
+293
+As of Feb. 3:
+Number of U.S. States with PUI
+36
+Positive
+11
+Negative
+167
+Pending
+(specimens awaiting testing)
+82
+TOTAL
+260
+As of January 31:
+Number of U.S. States with PUI
+36
+Positive
+6
+Negative
+114
+Pending
+(specimens awaiting testing)
+121
+TOTAL
+241
+Previously, as of January 29, there were 92 suspected cases awaiting testing.
+Number of U.S. States with PUI
+36
+Positive
+5
+Negative
+68
+Pending
+(specimens awaiting testing)
+92
+TOTAL
+165
+Timeline of Events
+On January 31, HHS declared Coronavirus a Public Health Emergency in the US
+As of Jan. 31, the Wuhan coronavirus is officially a public health emergency in the United States, Alex Azar, secretary of the US Department of Health and Human Services (HHS), announced at a White House press briefing.
+On Jan. 31, the U.S. Centers for Disease Control and Prevention (CDC) issued a federal quarantine for 14 days affecting the 195 American evacuees from Wuhan, China. Starting Sunday, Feb. 2, U.S. citizens, permanent residents and immediate family who have visited China's Hubei province will undergo a mandatory 14 days quarantine and, if they have visited other parts of China, they would be screened at airports and asked to self-quarantine for 14 days. The last time the CDC had issued a quarantine was over 50 years ago in the 1960s, for smallpox.
+President Donald Trump signed an order on Jan. 31 for the U.S. to deny entry to foreign nationals who traveled to China within the preceding two weeks, aside from the immediate family of U.S. citizens.
+On Jan. 30, the CDC had confirmed the first case of person to person transmission in the U.S.: [12] the husband of the Chicago, Illinois case who had returned from Wuhan, China on Jan. 13 and who tested positive for the virus on Jan. 24).
+CDC stated on Jan. 30 that "It is likely there will be more cases of 2019-nCoV reported in the U.S. in the coming days and weeks, including more person-to-person spread."[12]
+The virus had been confirmed in 5 states.
+On Jan. 31, New York City health officials vehemently denied the rumor regarding a coronavirus case in the city .[13]. On Feb. 1, however, the city's health commissioner did report that there was a test being performed on a person under 40 who had returned from China, developed matching symptoms, and tested negative to the seasonal flu.
+Most US patients had recently visited Wuhan.
+All of the first five U.S. cases were described as mild.
+A study on the first US case of novel coronavirus detailed mild symptoms followed by pneumonia
+U.S. Airlines suspended ALL flights between the U.S. and China
+On Friday, January 31, Delta, American and United announced they would temporarily suspend all of their mainland China flights in response to the coronavirus outbreak.[14]
+Prior to this January 31 announcement:
+UNITED AIRLINES
+on Jan. 28 had announced it would cut 24 flights between the U.S. and China for the first week of February.
+AMERICAN AIRLINES
+on Jan. 29 had announced it would suspend flights from Los Angeles to Shanghai and Beijing from Feb. 9 through March 27, 2020. It will maintain its flight schedules (10 daily A/R) from Dallas-Fort Worth to Shanghai and Beijing, as well as from Los Angeles and Dallas-Fort Worth to Hong Kong.
+DELTA
+had not adjusted its schedule of direct flights from the U.S. to China. It is the only airline with direct flights to not take action so far.
+The White House was considering issuing a ban on flights between the United States and China, as of late Jan. 28[11]. Italy has announced on January 31 that it was suspending all flights to and from China following the first 2 cases of coronavirus in Italy.
+Travel Alert: Do Not Travel to China
+The U.S. State Department on January 30 issued a Level 4: Do Not Travel to China Alert [4] (the highest level of alert).
+Previously, on January 29, the advisory was set at a lower "Level 3: Reconsider Travel" advising not to travel to Hubei Province: (Level 4) and reconsider travel to the remainder of China (Level 3).
+The CDC on Jan. 28 issued a Level 3 Warning, recommending that travelers avoid all nonessential travel to China [5].
+Screening incoming passengers at 20 airports in the U.S.
+On January 17, the CDC announced that 3 airports in the United States would begin screening incoming passengers from China: SFO, JFK, and LAX [6] Other 2 airports were added subsequently, and on January 28, the U.S. Department of Health and Human Services (HHS) announced that 15 additional U.S. airports (bringing the total to 20) would begin screening incoming travelers from China.
+Below is the complete list of airports where screening for the 2019 Novel Coronavirus (2019-nCoV) is in place:
+Los Angeles International (LAX)
+San Francisco International (SFO)
+Chicago O'Hare
+New York JFK
+Atlanta Hartsfield-Jackson International
+Houston George Bush Intercontinental 
+Dallas-Fort Worth International
+San Diego International
+Seattle-Tacoma International
+Honolulu International
+Anchorage Ted Stevens International
+Minneapolis-St. Paul International
+Detroit Metropolitan
+Miami International
+Washington Dulles International
+Philadelphia International
+Newark Liberty International
+Boston Logan International
+El Paso International
+Puerto Rico's San Juan Airport
+Sources for the historical account
+Novel Coronavirus (2019-nCoV) situation reports - World Health Organization (WHO)
+2019 Novel Coronavirus (2019-nCoV) in the U.S -. U.S. Centers for Disease Control and Prevention (CDC)
+Symptoms of Novel Coronavirus (2019-nCoV) - CDC
+China Travel Advisory - U.S. State Department, accessed January 31, 2020.
+Novel Coronavirus in China - Warning - Level 3, Avoid Nonessential Travel - CDC, January 28, 2020.
+Public Health Screening to Begin at 3 U.S. Airports for 2019 Novel Coronavirus (“2019-nCoV”) - CDC January 17, 2020
+First Travel-related Case of 2019 Novel Coronavirus Detected in United States - CDC, January 21, 2020
+Second Travel-related Case of 2019 Novel Coronavirus Detected in United States - CDC, January 24, 2020
+CDC confirms additional cases of 2019 Novel Coronavirus in United States - CDC, January 26, 2020
+2019 Novel Coronavirus (2019-nCoV) in the U.S. - CDC, Updated January 29, 2020
+White House considers ban on flights to China amid coronavirus outbreak - USA Today, Jan. 28, 2020
+CDC Confirms Person-to-Person Spread of New Coronavirus in the United States - CDC Press Release, Jan. 30, 2020
+NYC Officials Deny Report Of Coronavirus Amid Confusion - Forbes, Jan. 31, 2020
+Delta, American, United to suspend all China mainland flights as coronavirus crisis grows - USA Today, Jan. 31, 2020
+Secretary Azar Declares Public Health Emergency for United States for 2019 Novel Coronavirus - U.S. Department of Health and Human Services (HHS), Jan. 31, 2020
+Man returning from Wuhan, China is first case of 2019 Novel Coronavirus confirmed in Massachusetts - Massachusetts Department of Public Health, Feb. 1, 2020
+County of Santa Clara Public Health Department Reports First Case of Novel (new) Coronavirus - Santa Clara County Public Health, Jan. 31, 2020
+Coronavirus: First case confirmed in Santa Clara County - Mercury News, Jan. 31. 2020
+about | faq | languages | contact| report coronavirus cases
+© Copyright Worldometers.info - All rights reserved - Disclaimer & Privacy Policy
