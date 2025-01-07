@@ -44,7 +44,6 @@ def summarize_text(content):
             )
             return final_summary[0]['summary_text']
 
-import streamlit as st
 
 def main():
     # App title and layout
@@ -75,8 +74,8 @@ def main():
             # Loading messages
             message_placeholder.info("🔄 Crawling content... Please wait.")
             content = get_crawled_text(input_text)
-            print("Content:")
-            print(content)
+            # print("Content:")
+            # print(content)
             message_placeholder.info("💡 Summarizing the content... Please wait.")
             summary = summarize_text(content)
 
